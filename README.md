@@ -257,6 +257,7 @@
 
 ## JavaScript 
 
+- [invertase/react-native-apple-authentication](https://github.com/invertase/react-native-apple-authentication) - A React Native library providing support for Apple Authentication on iOS and Android.
 - [kamilkisiela/bob](https://github.com/kamilkisiela/bob) - Build tool used in libraries maintained by The Guild
 - [EvanBacon/metro-minify-esbuild](https://github.com/EvanBacon/metro-minify-esbuild) - Use ESBuild to make your React Native code bundle faster.
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
@@ -580,6 +581,7 @@
 
 ## TypeScript 
 
+- [notifee/react-native-notifee](https://github.com/notifee/react-native-notifee) - ⚛️ A feature rich notifications library for React Native Android & iOS, built by @invertase, the authors of @react-native-firebase.
 - [mat-sz/react-var-ui](https://github.com/mat-sz/react-var-ui) - React component library for variable setting and preview.
 - [PabloSzx/bob-esbuild](https://github.com/PabloSzx/bob-esbuild) - Building TypeScript projects efficiently with rollup + esbuild
 - [rotemdan/lzutf8.js](https://github.com/rotemdan/lzutf8.js) - A high-performance Javascript string compression library
