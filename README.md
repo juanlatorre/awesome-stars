@@ -581,6 +581,7 @@
 
 ## TypeScript 
 
+- [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [notifee/react-native-notifee](https://github.com/notifee/react-native-notifee) - ⚛️ A feature rich notifications library for React Native Android & iOS, built by @invertase, the authors of @react-native-firebase.
 - [mat-sz/react-var-ui](https://github.com/mat-sz/react-var-ui) - React component library for variable setting and preview.
 - [PabloSzx/bob-esbuild](https://github.com/PabloSzx/bob-esbuild) - Building TypeScript projects efficiently with rollup + esbuild
