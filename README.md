@@ -169,7 +169,6 @@
 - [toufikzitouni/flutter-bidirectional_scrollview_plugin](https://github.com/toufikzitouni/flutter-bidirectional_scrollview_plugin) - Plugin that provides a bidirectional scrollview
 - [MariaMelnik/flutter_date_pickers](https://github.com/MariaMelnik/flutter_date_pickers) - 
 - [themaaz32/audio_playere_tet](https://github.com/themaaz32/audio_playere_tet) - Audio player with basic functionalities built using Flutter
-- [hemanthrajv/flutter_compass](https://github.com/hemanthrajv/flutter_compass) - 
 - [coolbeatz71/task_manager_flutter](https://github.com/coolbeatz71/task_manager_flutter) - A fancy task manager application for learning Flutter, Bloc pattern and Firebase
 - [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library that helps implement the BLoC design pattern
 - [hmkrivoj/month_picker_dialog](https://github.com/hmkrivoj/month_picker_dialog) - Internationalized dialog for picking a single month from an infinite list of years.
@@ -252,11 +251,13 @@
 - [Rapsssito/react-native-background-actions](https://github.com/Rapsssito/react-native-background-actions) - React Native background service library for running background tasks forever in Android & iOS.
 - [davidohayon669/react-native-youtube](https://github.com/davidohayon669/react-native-youtube) - A &lt;YouTube/&gt; component for React Native.
 - [iampawan/flutter_media_notification](https://github.com/iampawan/flutter_media_notification) - 
+- [hemanthrajv/flutter_compass](https://github.com/hemanthrajv/flutter_compass) - 
 - [lamsfoundation/lams](https://github.com/lamsfoundation/lams) - The Learning Activity Management System (LAMS) -
 - [aemh00/Tarea_Aut-matas_Wiri](https://github.com/aemh00/Tarea_Aut-matas_Wiri) - repo para ir completando la tarea xD
 
 ## JavaScript 
 
+- [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
 - [invertase/react-native-apple-authentication](https://github.com/invertase/react-native-apple-authentication) - A React Native library providing support for Apple Authentication on iOS and Android.
 - [kamilkisiela/bob](https://github.com/kamilkisiela/bob) - Build tool used in libraries maintained by The Guild
 - [EvanBacon/metro-minify-esbuild](https://github.com/EvanBacon/metro-minify-esbuild) - Use ESBuild to make your React Native code bundle faster.
@@ -488,7 +489,7 @@
 ## PHP 
 
 - [bradp/static-404](https://github.com/bradp/static-404) - ⚡️ A WordPress plugin to quickly send a 404 for missing static files
-- [WebDevStudios/nextjs-wordpress-starter](https://github.com/WebDevStudios/nextjs-wordpress-starter) - WebDevStudios Next.js WordPress Starter
+- [WebDevStudios/nextjs-wordpress-starter](https://github.com/WebDevStudios/nextjs-wordpress-starter) - A headless starter for WordPress powered by Next.js.
 - [TCattd/Fuerte-WP](https://github.com/TCattd/Fuerte-WP) - A WordPress plugin to enforce certain security focused limits for users with wp-admin access.
 - [khipu/woocommerce-khipu-gateway](https://github.com/khipu/woocommerce-khipu-gateway) - 
 - [faisal-alvi/basic-react-files-for-wordpress](https://github.com/faisal-alvi/basic-react-files-for-wordpress) - Required files to create a react app with JSX.
@@ -591,7 +592,7 @@
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
 - [dev-yakuza/react-native-image-modal](https://github.com/dev-yakuza/react-native-image-modal) - the simple image modal for React Native
-- [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 5kb subset of Vue optimized for progressive enhancement
+- [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
 - [anubra266/choc-autocomplete](https://github.com/anubra266/choc-autocomplete) - 🏇 Autocomplete Component Package for Chakra UI
 - [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 - [PuruVJ/macos-preact](https://github.com/PuruVJ/macos-preact) - 
