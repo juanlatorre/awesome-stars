@@ -582,6 +582,7 @@
 
 ## TypeScript 
 
+- [uiwjs/react-textarea-code-editor](https://github.com/uiwjs/react-textarea-code-editor) - A simple code editor with syntax highlighting.
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [notifee/react-native-notifee](https://github.com/notifee/react-native-notifee) - ⚛️ A feature rich notifications library for React Native Android & iOS, built by @invertase, the authors of @react-native-firebase.
 - [mat-sz/react-var-ui](https://github.com/mat-sz/react-var-ui) - React component library for variable setting and preview.
@@ -741,6 +742,7 @@
 
 ## Vue 
 
+- [Kholid060/projectile](https://github.com/Kholid060/projectile) - An app to manage your JavaScript projects
 - [XboxYan/coupon](https://github.com/XboxYan/coupon) - 🎫 Generate Coupon-UI CSS code
 - [slidevjs/themes](https://github.com/slidevjs/themes) - Official themes for Slidev
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
