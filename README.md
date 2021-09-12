@@ -458,6 +458,7 @@
 
 ## Others 
 
+- [stefanbuck/jumpcat](https://github.com/stefanbuck/jumpcat) - A command palette for GitHub (browser extension)
 - [rose-pine/iterm](https://github.com/rose-pine/iterm) - Soho vibes for iTerm2
 - [tekteq/opencanopy-minimal-theme](https://github.com/tekteq/opencanopy-minimal-theme) - Minimal theme for OpenCanopy/OpenCore
 - [nearform/federation-demo](https://github.com/nearform/federation-demo) - Demo of Apollo Federation
