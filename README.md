@@ -258,7 +258,7 @@
 ## JavaScript 
 
 - [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
-- [narze/THIS_REPO_HAS_2721_STARS](https://github.com/narze/THIS_REPO_HAS_2721_STARS) - Click Star ⭐️  to see it in action :trollface:
+- [narze/THIS_REPO_HAS_2759_STARS](https://github.com/narze/THIS_REPO_HAS_2759_STARS) - Click Star ⭐️  to see it in action :trollface:
 - [cristianbote/goober](https://github.com/cristianbote/goober) - 🥜 goober, a less than 1KB 🎉  css-in-js alternative with a familiar API
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
 - [invertase/react-native-apple-authentication](https://github.com/invertase/react-native-apple-authentication) - A React Native library providing support for Apple Authentication on iOS and Android.
@@ -295,6 +295,7 @@
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
+- [WebDevStudios/nextjs-wordpress-starter](https://github.com/WebDevStudios/nextjs-wordpress-starter) - A headless starter for WordPress powered by Next.js.
 - [bijection/g9](https://github.com/bijection/g9) - Automatically Interactive Graphics 🖼✨💯
 - [HearTao/restart-your-ts-server](https://github.com/HearTao/restart-your-ts-server) - Restart your TS server by touchbar with only one key. Build with ❤️.
 - [react-native-async-storage/async-storage](https://github.com/react-native-async-storage/async-storage) - An asynchronous, persistent, key-value storage system for React Native.
@@ -493,7 +494,6 @@
 ## PHP 
 
 - [bradp/static-404](https://github.com/bradp/static-404) - ⚡️ A WordPress plugin to quickly send a 404 for missing static files
-- [WebDevStudios/nextjs-wordpress-starter](https://github.com/WebDevStudios/nextjs-wordpress-starter) - A headless starter for WordPress powered by Next.js.
 - [TCattd/Fuerte-WP](https://github.com/TCattd/Fuerte-WP) - A WordPress plugin to enforce certain security focused limits for users with wp-admin access.
 - [khipu/woocommerce-khipu-gateway](https://github.com/khipu/woocommerce-khipu-gateway) - 
 - [faisal-alvi/basic-react-files-for-wordpress](https://github.com/faisal-alvi/basic-react-files-for-wordpress) - Required files to create a react app with JSX.
@@ -542,7 +542,7 @@
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [godot-rust/godot-rust](https://github.com/godot-rust/godot-rust) - Rust bindings for GDNative
-- [hecrj/iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
+- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust.
 - [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
