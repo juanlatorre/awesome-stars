@@ -258,7 +258,7 @@
 ## JavaScript 
 
 - [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
-- [narze/THIS_REPO_HAS_2759_STARS](https://github.com/narze/THIS_REPO_HAS_2759_STARS) - Click Star ⭐️  to see it in action :trollface:
+- [narze/THIS_REPO_HAS_2788_STARS](https://github.com/narze/THIS_REPO_HAS_2788_STARS) - Click Star ⭐️  to see it in action :trollface:
 - [cristianbote/goober](https://github.com/cristianbote/goober) - 🥜 goober, a less than 1KB 🎉  css-in-js alternative with a familiar API
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
 - [invertase/react-native-apple-authentication](https://github.com/invertase/react-native-apple-authentication) - A React Native library providing support for Apple Authentication on iOS and Android.
@@ -746,7 +746,7 @@
 
 ## Vue 
 
-- [Kholid060/projectile](https://github.com/Kholid060/projectile) - An app to manage your JavaScript projects
+- [Kholid060/projectile](https://github.com/Kholid060/projectile) - An app for managing your JavaScript projects
 - [XboxYan/coupon](https://github.com/XboxYan/coupon) - 🎫 Generate Coupon-UI CSS code
 - [slidevjs/themes](https://github.com/slidevjs/themes) - Official themes for Slidev
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
