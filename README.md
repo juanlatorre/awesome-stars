@@ -258,7 +258,7 @@
 ## JavaScript 
 
 - [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
-- [narze/THIS_REPO_HAS_2921_STARS](https://github.com/narze/THIS_REPO_HAS_2921_STARS) - Click Star ⭐️  to see it in action :trollface:
+- [narze/THIS_REPO_HAS_2938_STARS](https://github.com/narze/THIS_REPO_HAS_2938_STARS) - Click Star ⭐️  to see it in action :trollface:
 - [cristianbote/goober](https://github.com/cristianbote/goober) - 🥜 goober, a less than 1KB 🎉  css-in-js alternative with a familiar API
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
 - [invertase/react-native-apple-authentication](https://github.com/invertase/react-native-apple-authentication) - A React Native library providing support for Apple Authentication on iOS and Android.
@@ -285,7 +285,7 @@
 - [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
 - [craftzdog/pouchdb-react-native](https://github.com/craftzdog/pouchdb-react-native) - :koala: - PouchDB is a pocket-sized database, with some patches for running on React Native
 - [fast-average-color/fast-average-color](https://github.com/fast-average-color/fast-average-color) - 🍏🍊🍅 Fast Average Color
-- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL
+- [nhost/nhost](https://github.com/nhost/nhost) - Serverless database and backend for modern apps.
 - [elementz-ui/elementz](https://github.com/elementz-ui/elementz) - :space_invader: A React UI Component library for building modern applications easily & quickly
 - [andrewmclagan/react-env](https://github.com/andrewmclagan/react-env) - Runtime environment variables for react apps.
 - [VasilyShelkov/create-react-extension](https://github.com/VasilyShelkov/create-react-extension) - Set up a modern React browser extension by running one command.
@@ -377,7 +377,7 @@
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [apertureless/vue-parallax](https://github.com/apertureless/vue-parallax) - 🌌  Vue.js component for parallax image scroll effects
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
-- [formium/tsdx](https://github.com/formium/tsdx) - Zero-config CLI for TypeScript package development
+- [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [typicode/husky](https://github.com/typicode/husky) - Modern native Git hooks made easy 🐶 woof!
 - [arkadiyt/zoom-redirector](https://github.com/arkadiyt/zoom-redirector) - Zoom Redirector is a browser extension that transparently redirects any meeting links to use Zoom's browser based web client.
@@ -580,6 +580,7 @@
 
 ## Swift 
 
+- [webponize/webponize](https://github.com/webponize/webponize) - macOS application that converts images to WebP.
 - [kean/Nuke](https://github.com/kean/Nuke) - Image loading system
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 The Camera library that sees the vision.
 - [OpenIntelWireless/HeliPort](https://github.com/OpenIntelWireless/HeliPort) - Intel Wi-Fi Client for itlwm
