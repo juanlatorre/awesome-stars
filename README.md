@@ -589,6 +589,7 @@
 
 ## TypeScript 
 
+- [PabloSzx/rq-gql](https://github.com/PabloSzx/rq-gql) - 
 - [uiwjs/react-textarea-code-editor](https://github.com/uiwjs/react-textarea-code-editor) - A simple code editor with syntax highlighting.
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [invertase/react-native-notifee](https://github.com/invertase/react-native-notifee) - Moved to https://github.com/invertase/notifee
