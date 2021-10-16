@@ -196,7 +196,7 @@
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [egoist/doko](https://github.com/egoist/doko) - A docker-based development dependency manager.
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
 - [fly-apps/go-example](https://github.com/fly-apps/go-example) - A minimal Go application for tutorials
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [spacecloud-io/space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
@@ -506,6 +506,7 @@
 
 ## Python 
 
+- [kbumsik/VirtScreen](https://github.com/kbumsik/VirtScreen) - Make your iPad/tablet/computer into a secondary monitor on Linux.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [corpnewt/USBMap](https://github.com/corpnewt/USBMap) - Python script for mapping USB ports in macOS and creating a custom injector kext.
@@ -592,6 +593,8 @@
 
 ## TypeScript 
 
+- [PabloSzx/altair-static-slim](https://github.com/PabloSzx/altair-static-slim) - Re-publish of altair-static without any dependency required
+- [tannerlinsley/react-location](https://github.com/tannerlinsley/react-location) - ⚛️ Enterprise Routing for React
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps. #Hacktoberfest
 - [PabloSzx/rq-gql](https://github.com/PabloSzx/rq-gql) - 
 - [uiwjs/react-textarea-code-editor](https://github.com/uiwjs/react-textarea-code-editor) - A simple code editor with syntax highlighting.
