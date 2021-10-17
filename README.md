@@ -210,6 +210,7 @@
 
 ## HTML 
 
+- [tannerlinsley/react-location](https://github.com/tannerlinsley/react-location) - ⚛️ Enterprise Client-Side Routing for React
 - [jasonlong/jasonlong](https://github.com/jasonlong/jasonlong) - 
 - [bmeck/proposal-from-import](https://github.com/bmeck/proposal-from-import) - AKA: make code completion work.
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
@@ -278,7 +279,7 @@
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
 - [hypeserver/react-date-range](https://github.com/hypeserver/react-date-range) - A React component for choosing dates and date ranges.
 - [romannurik/AndroidAssetStudio](https://github.com/romannurik/AndroidAssetStudio) - A set of web-based tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.
-- [EdouardCourty/user-instagram](https://github.com/EdouardCourty/user-instagram) - This module allows you to get the user data attached to a instagram account, by providing the profile's link.
+- [EdouardCourty/user-instagram](https://github.com/EdouardCourty/user-instagram) - This module allows you to get the data of any user or post on Instagram.
 - [bpampuch/pdfmake](https://github.com/bpampuch/pdfmake) - Client/server side PDF printing in pure JavaScript
 - [pacexy/mv3-hot-reload](https://github.com/pacexy/mv3-hot-reload) - Enable hot reloading for content script and background script (service worker) in MV3.
 - [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
@@ -594,7 +595,6 @@
 ## TypeScript 
 
 - [PabloSzx/altair-static-slim](https://github.com/PabloSzx/altair-static-slim) - Re-publish of altair-static without any dependency required
-- [tannerlinsley/react-location](https://github.com/tannerlinsley/react-location) - ⚛️ Enterprise Routing for React
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps. #Hacktoberfest
 - [PabloSzx/rq-gql](https://github.com/PabloSzx/rq-gql) - 
 - [uiwjs/react-textarea-code-editor](https://github.com/uiwjs/react-textarea-code-editor) - A simple code editor with syntax highlighting.
@@ -673,7 +673,7 @@
 - [Urigo/graphql-cli](https://github.com/Urigo/graphql-cli) - 📟  Command line tool for common GraphQL development workflows
 - [kamilkisiela/graphql-inspector](https://github.com/kamilkisiela/graphql-inspector) - 🕵️‍♀️ Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
-- [nandorojo/dripsy](https://github.com/nandorojo/dripsy) - 🍷 A responsive, theme-based design system for Expo + React Native Web.
+- [nandorojo/dripsy](https://github.com/nandorojo/dripsy) - 🍷 Responsive, unstyled UI primitives for React Native + Web.
 - [nksaraf/magiql](https://github.com/nksaraf/magiql) - 🌐 💫 Simple and powerful GraphQL Client, love child of react-query ❤️ relay
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminBro is an admin panel for apps written in node.js
