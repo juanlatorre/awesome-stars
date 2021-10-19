@@ -49,7 +49,7 @@
 
 ## Assembly 
 
-- [TheFakeMateo/rpp-backup](https://github.com/TheFakeMateo/rpp-backup) - This repo is for Red++ v3, which is the latest playable version. The repo for v4 has been made "Private" while the update has been on hold, since it is not in a playable state at the moment.
+- [JustRegularLuna/rpp-backup](https://github.com/JustRegularLuna/rpp-backup) - This repo is for Red++ v3, which is the latest playable version. The repo for v4 has been made "Private" while the update has been on hold, since it is not in a playable state at the moment.
 
 ## Batchfile 
 
@@ -258,6 +258,8 @@
 
 ## JavaScript 
 
+- [fastify/fastify-jwt](https://github.com/fastify/fastify-jwt) - JWT utils for Fastify
+- [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS with no dependencies using runtime's native crypto in Node.js, Browser, Cloudflare Workers, Electron, and Deno.
 - [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
 - [narze/THIS_REPO_HAS_3077_STARS](https://github.com/narze/THIS_REPO_HAS_3077_STARS) - Click Star ⭐️  to see it in action :trollface:
 - [cristianbote/goober](https://github.com/cristianbote/goober) - 🥜 goober, a less than 1KB 🎉  css-in-js alternative with a familiar API
