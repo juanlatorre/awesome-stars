@@ -124,6 +124,7 @@
 
 ## Dart 
 
+- [duytq94/flutter-fb-reactions-animation](https://github.com/duytq94/flutter-fb-reactions-animation) - The app to demo animation with Flutter by implement Facebook reactions
 - [mcrovero/rubber](https://github.com/mcrovero/rubber) - An elastic material bottom sheet implementation for Flutter.
 - [matthinc/flutter_cupertino_settings](https://github.com/matthinc/flutter_cupertino_settings) - A Flutter widget to create an iOS settings-table (static TableView).
 - [RafaelBarbosatec/hidden_drawer_menu](https://github.com/RafaelBarbosatec/hidden_drawer_menu) - Hidden Drawer Menu is a library for adding a beautiful drawer mode menu feature with perspective animation.
@@ -589,6 +590,7 @@
 
 ## Swift 
 
+- [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [webponize/webponize](https://github.com/webponize/webponize) - macOS application that converts images to WebP.
 - [kean/Nuke](https://github.com/kean/Nuke) - Image loading system
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 The Camera library that sees the vision.
