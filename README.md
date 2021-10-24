@@ -142,7 +142,7 @@
 - [tekartik/sqflite](https://github.com/tekartik/sqflite) - SQLite flutter plugin
 - [memspace/zefyr](https://github.com/memspace/zefyr) - Soft and gentle rich text editing for Flutter applications.
 - [imaNNeoFighT/fl_chart](https://github.com/imaNNeoFighT/fl_chart) - A powerful Flutter chart library, currently supporting Line Chart, Bar Chart, Pie Chart, Scatter Chart and Radar Chart.
-- [entronad/graphic](https://github.com/entronad/graphic) - A Flutter data visualization library based on Grammar of Graphics.
+- [entronad/graphic](https://github.com/entronad/graphic) - A declarative, interactive grammar of data visualization.
 - [Baseflow/flutter_cached_network_image](https://github.com/Baseflow/flutter_cached_network_image) - Download, cache and show images in a flutter app
 - [bluefireteam/photo_view](https://github.com/bluefireteam/photo_view) - 📸 Easy to use yet very customizable zoomable image widget for Flutter, Photo View provides a gesture sensitive zoomable widget. Photo View is largely used to show interacive images and other stuff such as SVG.
 - [hnvn/flutter_shimmer](https://github.com/hnvn/flutter_shimmer) - A package provides an easy way to add shimmer effect in Flutter project
@@ -211,7 +211,6 @@
 
 ## HTML 
 
-- [tannerlinsley/react-location](https://github.com/tannerlinsley/react-location) - ⚛️ Enterprise Client-Side Routing for React
 - [jasonlong/jasonlong](https://github.com/jasonlong/jasonlong) - 
 - [bmeck/proposal-from-import](https://github.com/bmeck/proposal-from-import) - AKA: make code completion work.
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
@@ -601,6 +600,7 @@
 - [slicknode/graphql-query-complexity](https://github.com/slicknode/graphql-query-complexity) - GraphQL query complexity analysis and validation for graphql-js
 - [juanlatorre/zaiko](https://github.com/juanlatorre/zaiko) - Cuisine inventory management system
 - [PabloSzx/altair-static-slim](https://github.com/PabloSzx/altair-static-slim) - Re-publish of altair-static without any dependency required
+- [tannerlinsley/react-location](https://github.com/tannerlinsley/react-location) - ⚛️ Enterprise Client-Side Routing for React
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps. #Hacktoberfest
 - [PabloSzx/rq-gql](https://github.com/PabloSzx/rq-gql) - 
 - [uiwjs/react-textarea-code-editor](https://github.com/uiwjs/react-textarea-code-editor) - A simple code editor with syntax highlighting.
