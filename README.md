@@ -597,6 +597,7 @@
 
 ## TypeScript 
 
+- [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [slicknode/graphql-query-complexity](https://github.com/slicknode/graphql-query-complexity) - GraphQL query complexity analysis and validation for graphql-js
 - [juanlatorre/zaiko](https://github.com/juanlatorre/zaiko) - Cuisine inventory management system
 - [PabloSzx/altair-static-slim](https://github.com/PabloSzx/altair-static-slim) - Re-publish of altair-static without any dependency required
