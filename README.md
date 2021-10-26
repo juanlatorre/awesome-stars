@@ -287,7 +287,6 @@
 - [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
 - [craftzdog/pouchdb-react-native](https://github.com/craftzdog/pouchdb-react-native) - :koala: - PouchDB is a pocket-sized database, with some patches for running on React Native
 - [fast-average-color/fast-average-color](https://github.com/fast-average-color/fast-average-color) - 🍏🍊🍅 Fast Average Color
-- [nhost/nhost](https://github.com/nhost/nhost) - Serverless database and backend for modern apps.
 - [elementz-ui/elementz](https://github.com/elementz-ui/elementz) - :space_invader: A React UI Component library for building modern applications easily & quickly
 - [andrewmclagan/react-env](https://github.com/andrewmclagan/react-env) - Runtime environment variables for react apps.
 - [VasilyShelkov/create-react-extension](https://github.com/VasilyShelkov/create-react-extension) - Set up a modern React browser extension by running one command.
@@ -381,7 +380,7 @@
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [typicode/husky](https://github.com/typicode/husky) - Modern native Git hooks made easy 🐶 woof!
+- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [arkadiyt/zoom-redirector](https://github.com/arkadiyt/zoom-redirector) - Zoom Redirector is a browser extension that transparently redirects any meeting links to use Zoom's browser based web client.
 - [juanlatorre/svelte-typescript-tailwindcss](https://github.com/juanlatorre/svelte-typescript-tailwindcss) - Svelte + Typescript + Tailwindcss template.
 - [neomjs/covid-helix](https://github.com/neomjs/covid-helix) - 3d visualisation of the current COVID 19 outbreak
@@ -623,6 +622,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 - [kraaden/autocomplete](https://github.com/kraaden/autocomplete) - Blazing fast and lightweight autocomplete widget without dependencies. Only 1KB gzipped. Demo:
 - [Norserium/react-indiana-drag-scroll](https://github.com/Norserium/react-indiana-drag-scroll) - React component which implements scrolling via holding the mouse button or touch
+- [nhost/nhost](https://github.com/nhost/nhost) - Serverless database and backend for modern apps.
 - [PabloSzx/graphql-ez](https://github.com/PabloSzx/graphql-ez) - Easy, feature complete, and Plugin-Based Envelop GraphQL APIs
 - [pixochi/create-react-chrome-extension-ts](https://github.com/pixochi/create-react-chrome-extension-ts) - A lightweight boilerplate for building a Chrome extension and a web app with React, TypeScript and Webpack at the same time.
 - [macadev/Gibbon-Tabs](https://github.com/macadev/Gibbon-Tabs) - The Chrome tab manager you always wanted.
