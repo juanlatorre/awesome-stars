@@ -142,7 +142,7 @@
 - [tekartik/sqflite](https://github.com/tekartik/sqflite) - SQLite flutter plugin
 - [memspace/zefyr](https://github.com/memspace/zefyr) - Soft and gentle rich text editing for Flutter applications.
 - [imaNNeoFighT/fl_chart](https://github.com/imaNNeoFighT/fl_chart) - A powerful Flutter chart library, currently supporting Line Chart, Bar Chart, Pie Chart, Scatter Chart and Radar Chart.
-- [entronad/graphic](https://github.com/entronad/graphic) - A declarative, interactive grammar of data visualization.
+- [entronad/graphic](https://github.com/entronad/graphic) - A declarative, interactive grammar of data visualization. It provides a Flutter charting library.
 - [Baseflow/flutter_cached_network_image](https://github.com/Baseflow/flutter_cached_network_image) - Download, cache and show images in a flutter app
 - [bluefireteam/photo_view](https://github.com/bluefireteam/photo_view) - 📸 Easy to use yet very customizable zoomable image widget for Flutter, Photo View provides a gesture sensitive zoomable widget. Photo View is largely used to show interacive images and other stuff such as SVG.
 - [hnvn/flutter_shimmer](https://github.com/hnvn/flutter_shimmer) - A package provides an easy way to add shimmer effect in Flutter project
@@ -551,7 +551,7 @@
 - [godot-rust/godot-rust](https://github.com/godot-rust/godot-rust) - Rust bindings for GDNative
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust.
-- [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
