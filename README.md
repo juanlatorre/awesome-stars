@@ -597,6 +597,7 @@
 
 ## TypeScript 
 
+- [joropeza/ts-timezone-enum](https://github.com/joropeza/ts-timezone-enum) - Lightweight timezone enum for JavaScript or TypeScript
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [gmrchk/blobity](https://github.com/gmrchk/blobity) - The cursor is the heart of any interaction with the web. Why not take it to the next level? 🚀
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
