@@ -287,7 +287,6 @@
 - [pacexy/mv3-hot-reload](https://github.com/pacexy/mv3-hot-reload) - Enable hot reloading for content script and background script (service worker) in MV3.
 - [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
 - [craftzdog/pouchdb-react-native](https://github.com/craftzdog/pouchdb-react-native) - :koala: - PouchDB is a pocket-sized database, with some patches for running on React Native
-- [fast-average-color/fast-average-color](https://github.com/fast-average-color/fast-average-color) - 🍏🍊🍅 Fast Average Color
 - [elementz-ui/elementz](https://github.com/elementz-ui/elementz) - :space_invader: A React UI Component library for building modern applications easily & quickly
 - [andrewmclagan/react-env](https://github.com/andrewmclagan/react-env) - Runtime environment variables for react apps.
 - [VasilyShelkov/create-react-extension](https://github.com/VasilyShelkov/create-react-extension) - Set up a modern React browser extension by running one command.
@@ -622,11 +621,12 @@
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
 - [anubra266/choc-autocomplete](https://github.com/anubra266/choc-autocomplete) - 🏇 Autocomplete Component Package for Chakra UI
 - [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
+- [fast-average-color/fast-average-color](https://github.com/fast-average-color/fast-average-color) - 🍏🍊🍅 Fast Average Color
 - [PuruVJ/macos-preact](https://github.com/PuruVJ/macos-preact) - 
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 - [kraaden/autocomplete](https://github.com/kraaden/autocomplete) - Blazing fast and lightweight autocomplete widget without dependencies. Only 1KB gzipped. Demo:
 - [Norserium/react-indiana-drag-scroll](https://github.com/Norserium/react-indiana-drag-scroll) - React component which implements scrolling via holding the mouse button or touch
-- [nhost/nhost](https://github.com/nhost/nhost) - Serverless database and backend for modern apps.
+- [nhost/nhost](https://github.com/nhost/nhost) - Serverless backend for web and mobile apps.
 - [PabloSzx/graphql-ez](https://github.com/PabloSzx/graphql-ez) - Easy, feature complete, and Plugin-Based Envelop GraphQL APIs
 - [pixochi/create-react-chrome-extension-ts](https://github.com/pixochi/create-react-chrome-extension-ts) - A lightweight boilerplate for building a Chrome extension and a web app with React, TypeScript and Webpack at the same time.
 - [macadev/Gibbon-Tabs](https://github.com/macadev/Gibbon-Tabs) - The Chrome tab manager you always wanted.
