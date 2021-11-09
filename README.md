@@ -651,7 +651,7 @@
 - [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [PabloSzx/learner-model-gql](https://github.com/PabloSzx/learner-model-gql) - 
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [atlassian/changesets](https://github.com/atlassian/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 - [marmelab/ra-datagrid](https://github.com/marmelab/ra-datagrid) - Integration of Material-ui's &lt;Datagrid&gt; into react-admin
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
