@@ -194,6 +194,7 @@
 
 ## Go 
 
+- [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [egoist/doko](https://github.com/egoist/doko) - A docker-based development dependency manager.
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
@@ -258,6 +259,7 @@
 
 ## JavaScript 
 
+- [tschaub/es-main](https://github.com/tschaub/es-main) - Test if an ES module is run directly (require.main replacement)
 - [lukeed/klona](https://github.com/lukeed/klona) - A tiny (240B to 501B) and fast utility to "deep clone" Objects, Arrays, Dates, RegExps, and more!
 - [fastify/fastify-jwt](https://github.com/fastify/fastify-jwt) - JWT utils for Fastify
 - [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS with no dependencies using runtime's native crypto in Node.js, Browser, Cloudflare Workers, Electron, and Deno.
@@ -596,6 +598,7 @@
 
 ## TypeScript 
 
+- [Shopify/hydrogen](https://github.com/Shopify/hydrogen) - React-based framework for building dynamic, Shopify-powered custom storefronts.
 - [joropeza/ts-timezone-enum](https://github.com/joropeza/ts-timezone-enum) - Lightweight timezone enum for JavaScript or TypeScript
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [gmrchk/blobity](https://github.com/gmrchk/blobity) - The cursor is the heart of any interaction with the web. Why not take it to the next level? 🚀
@@ -705,7 +708,7 @@
 - [astoilkov/use-local-storage-state](https://github.com/astoilkov/use-local-storage-state) - React hook that persists data in localStorage
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [software-mansion/react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native.
-- [snackui/snackui](https://github.com/snackui/snackui) - Write once React Native + Web UI kit. Optimizing compiler that flattens views, reduces bundle size and greatly improves performance 🏎. Normalizes media queries and themes between native and web so they work optimally in both environments.
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - 🥚 faster ui kit
 - [alephjs/aleph.js](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno.
 - [LeufuLab/website-adulto-mayor](https://github.com/LeufuLab/website-adulto-mayor) - Website para proyecto Tablet Adulto Mayor.
 - [kgnugur/formik-chakra-ui](https://github.com/kgnugur/formik-chakra-ui) - Chakra-UI bindings for Formik
