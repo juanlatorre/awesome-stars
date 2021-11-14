@@ -613,7 +613,7 @@
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [invertase/react-native-notifee](https://github.com/invertase/react-native-notifee) - Moved to https://github.com/invertase/notifee
 - [mat-sz/react-var-ui](https://github.com/mat-sz/react-var-ui) - React component library for variable setting and preview.
-- [PabloSzx/bob-esbuild](https://github.com/PabloSzx/bob-esbuild) - Building and Runnin TypeScript projects efficiently with rollup + esbuild
+- [PabloSzx/bob-esbuild](https://github.com/PabloSzx/bob-esbuild) - Building and Running TypeScript projects efficiently with rollup + esbuild
 - [rotemdan/lzutf8.js](https://github.com/rotemdan/lzutf8.js) - A high-performance Javascript string compression library
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - (formerly gqless) a GraphQL client built for rapid iteration
 - [CofferHub/react-native-section-alphabet](https://github.com/CofferHub/react-native-section-alphabet) - A simple React Native component that takes an array of data and renders a section with alphabetically sorted data
