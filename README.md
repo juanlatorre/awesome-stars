@@ -14,6 +14,7 @@
   - [CoffeeScript](#coffeescript)
   - [Crystal](#crystal)
   - [Dart](#dart)
+  - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
   - [GDScript](#gdscript)
   - [Go](#go)
@@ -184,6 +185,10 @@
 - [themaaz32/linkify_text](https://github.com/themaaz32/linkify_text) - LinkifyText widget in Flutter
 - [once10301/permission](https://github.com/once10301/permission) - 
 - [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
+
+## Dockerfile 
+
+- [remorses/nodejs-lib-template](https://github.com/remorses/nodejs-lib-template) - 
 
 ## Elixir 
 
@@ -597,6 +602,8 @@
 
 ## TypeScript 
 
+- [remorses/genql](https://github.com/remorses/genql) - Type safe Graphql query builder
+- [remorses/dokz](https://github.com/remorses/dokz) - Effortless documentation with Next.js and MDX
 - [howtographql/howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL
 - [Shopify/hydrogen](https://github.com/Shopify/hydrogen) - React-based framework for building dynamic, Shopify-powered custom storefronts.
 - [joropeza/ts-timezone-enum](https://github.com/joropeza/ts-timezone-enum) - Lightweight timezone enum for JavaScript or TypeScript
@@ -709,7 +716,7 @@
 - [astoilkov/use-local-storage-state](https://github.com/astoilkov/use-local-storage-state) - React hook that persists data in localStorage
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [software-mansion/react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native.
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - 🥚 faster ui kit
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - create much faster design systems that work on react native + react native web thanks to an optimizing compiler.
 - [alephjs/aleph.js](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno.
 - [LeufuLab/website-adulto-mayor](https://github.com/LeufuLab/website-adulto-mayor) - Website para proyecto Tablet Adulto Mayor.
 - [kgnugur/formik-chakra-ui](https://github.com/kgnugur/formik-chakra-ui) - Chakra-UI bindings for Formik
