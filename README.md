@@ -484,7 +484,6 @@
 - [ctala/Regiones-Provincias-y-Comunas-de-Chile.](https://github.com/ctala/Regiones-Provincias-y-Comunas-de-Chile.) - SQL Con la información de las regiones, provincias y comunas de Chile según Decreto Exento Nº 817
 - [beerjs/valdivia](https://github.com/beerjs/valdivia) - BeerJS: Valdivia, Chile
 - [londonappbrewery/Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) - Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [iamshaunjp/svelte-tutorial](https://github.com/iamshaunjp/svelte-tutorial) - All the course files for the Svelete (beginners) playlist on The Net Ninja YouTube channel.
 - [feltcoop/why-svelte](https://github.com/feltcoop/why-svelte) - Why Svelte is our choice for a large web project in 2020
 - [PizzaPokerGuy/ultimate-coding-resources](https://github.com/PizzaPokerGuy/ultimate-coding-resources) - A collection of the best resources for programming, web development, computer science and more.
@@ -602,6 +601,9 @@
 
 ## TypeScript 
 
+- [PabloSzx/require-env](https://github.com/PabloSzx/require-env) - Require environment variables for your application
+- [deeplay-io/nice-grpc](https://github.com/deeplay-io/nice-grpc) - A gRPC library that is nice to you
+- [stephenh/ts-proto](https://github.com/stephenh/ts-proto) - An idiomatic protobuf generator for TypeScript
 - [dungeon-revealer/dungeon-revealer](https://github.com/dungeon-revealer/dungeon-revealer) - A web app for tabletop gaming to allow the game master to reveal areas of the game map to players, roll dice and take notes.
 - [remorses/genql](https://github.com/remorses/genql) - Type safe Graphql query builder
 - [remorses/dokz](https://github.com/remorses/dokz) - Effortless documentation with Next.js and MDX
@@ -664,7 +666,7 @@
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [PabloSzx/learner-model-gql](https://github.com/PabloSzx/learner-model-gql) - 
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
-- [atlassian/changesets](https://github.com/atlassian/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 - [marmelab/ra-datagrid](https://github.com/marmelab/ra-datagrid) - Integration of Material-ui's &lt;Datagrid&gt; into react-admin
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
@@ -761,6 +763,7 @@
 - [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍📖 A readable, automated, and optimized (5 kb) internationalization for JavaScript
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [GuoQichen/vue-pswipe](https://github.com/GuoQichen/vue-pswipe) - 🚀 Easy to use, no need to set size, support rotation, photoswipe based vue swipe plugin
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built with 💜 by Heroku.
 - [anuraghazra/BugVilla](https://github.com/anuraghazra/BugVilla) - Track, Manage & Kill Bugs Effectively :knife: :beetle:
