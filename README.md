@@ -264,6 +264,8 @@
 
 ## JavaScript 
 
+- [lukeed/resolve.exports](https://github.com/lukeed/resolve.exports) - A tiny (737b), correct, general-purpose, and configurable `"exports"` resolver without file-system reliance
+- [developit/redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
 - [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
 - [tschaub/es-main](https://github.com/tschaub/es-main) - Test if an ES module is run directly (require.main replacement)
 - [lukeed/klona](https://github.com/lukeed/klona) - A tiny (240B to 501B) and fast utility to "deep clone" Objects, Arrays, Dates, RegExps, and more!
@@ -601,6 +603,11 @@
 
 ## TypeScript 
 
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
+- [egoist/bina](https://github.com/egoist/bina) - An installer for self-contained, single-file binaries, no additional CLI needed.
+- [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder
+- [narbs91/glosseta](https://github.com/narbs91/glosseta) - Glosseta is an open-source glossary meant to help people explore and learn the terminology behind web3
+- [grpc/grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [PabloSzx/require-env](https://github.com/PabloSzx/require-env) - Require environment variables for your application
 - [deeplay-io/nice-grpc](https://github.com/deeplay-io/nice-grpc) - A gRPC library that is nice to you
 - [stephenh/ts-proto](https://github.com/stephenh/ts-proto) - An idiomatic protobuf generator for TypeScript
