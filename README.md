@@ -200,6 +200,7 @@
 
 ## Go 
 
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [egoist/doko](https://github.com/egoist/doko) - A docker-based development dependency manager.
@@ -264,6 +265,7 @@
 
 ## JavaScript 
 
+- [open-cli-tools/chokidar-cli](https://github.com/open-cli-tools/chokidar-cli) - Fast cross-platform cli utility to watch file system changes
 - [lukeed/resolve.exports](https://github.com/lukeed/resolve.exports) - A tiny (737b), correct, general-purpose, and configurable `"exports"` resolver without file-system reliance
 - [developit/redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
 - [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
@@ -603,6 +605,9 @@
 
 ## TypeScript 
 
+- [splitbee/react-notion](https://github.com/splitbee/react-notion) - A fast React renderer for Notion pages
+- [splitbee/notion-api-worker](https://github.com/splitbee/notion-api-worker) - Notion as CMS with easy API access
+- [mdbetancourt/soly](https://github.com/mdbetancourt/soly) - Powerful framework for building command-line apps with typescript.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [egoist/bina](https://github.com/egoist/bina) - An installer for self-contained, single-file binaries, no additional CLI needed.
 - [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder
