@@ -591,7 +591,7 @@
 
 ## Svelte 
 
-- [oslabs-beta/SvelteStorm](https://github.com/oslabs-beta/SvelteStorm) - A Svelte IDE like no other. Embrace the storm. Embrace the Svelte.
+- [open-source-labs/SvelteStorm](https://github.com/open-source-labs/SvelteStorm) - SvelteStorm is an open-source IDE with a built-in State Manager window for viewing your project in real-time
 - [sveltejs/site-kit](https://github.com/sveltejs/site-kit) - Styles and components for use in *.svelte.dev websites
 - [juanlatorre/kafa.studio](https://github.com/juanlatorre/kafa.studio) - Kafa Studio website & portfolio.
 
