@@ -787,7 +787,7 @@
 - [gqless/gqless](https://github.com/gqless/gqless) - a GraphQL client without queries
 - [rachmanzz/vue-inview](https://github.com/rachmanzz/vue-inview) - vue-plugin for in-view package
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript's largest type utility library
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
