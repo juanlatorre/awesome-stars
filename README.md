@@ -200,6 +200,7 @@
 
 ## Go 
 
+- [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY
@@ -527,7 +528,7 @@
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [madhavanmalolan/awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui) - Awesome React Native UI components updated weekly
-- [geigi/cozy](https://github.com/geigi/cozy) - A modern audio book player for Linux using GTK+ 3
+- [geigi/cozy](https://github.com/geigi/cozy) - Listen to audio books
 - [fallaciousreasoning/CalibreLibgenStore](https://github.com/fallaciousreasoning/CalibreLibgenStore) - A Libgen Fiction store plugin for Calibre
 - [i-tu/Hasklig](https://github.com/i-tu/Hasklig) - Hasklig - a code font with monospaced ligatures
 - [jchao01/TradingView-data-scraper](https://github.com/jchao01/TradingView-data-scraper) - Extract price and indicator data from TradingView charts to create ML datasets
