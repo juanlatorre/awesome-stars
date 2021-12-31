@@ -609,6 +609,7 @@
 
 ## TypeScript 
 
+- [graphql-compose/graphql-compose](https://github.com/graphql-compose/graphql-compose) - Toolkit for generating complex GraphQL Schemas on Node.js
 - [rakkasjs/rakkasjs](https://github.com/rakkasjs/rakkasjs) - Lightning fast Next.js alternative powered by Vite
 - [PabloSzx/ava-4-bob-tsm](https://github.com/PabloSzx/ava-4-bob-tsm) - 
 - [splitbee/react-notion](https://github.com/splitbee/react-notion) - A fast React renderer for Notion pages
@@ -620,7 +621,7 @@
 - [narbs91/glosseta](https://github.com/narbs91/glosseta) - Glosseta is an open-source glossary meant to help people explore and learn the terminology behind web3
 - [grpc/grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [PabloSzx/require-env](https://github.com/PabloSzx/require-env) - Require environment variables for your application
-- [deeplay-io/nice-grpc](https://github.com/deeplay-io/nice-grpc) - A gRPC library that is nice to you
+- [deeplay-io/nice-grpc](https://github.com/deeplay-io/nice-grpc) - A TypeScript gRPC library that is nice to you
 - [stephenh/ts-proto](https://github.com/stephenh/ts-proto) - An idiomatic protobuf generator for TypeScript
 - [dungeon-revealer/dungeon-revealer](https://github.com/dungeon-revealer/dungeon-revealer) - A web app for tabletop gaming to allow the game master to reveal areas of the game map to players, roll dice and take notes.
 - [remorses/genql](https://github.com/remorses/genql) - Type safe Graphql query builder
@@ -805,7 +806,7 @@
 - [Kholid060/projectile](https://github.com/Kholid060/projectile) - An app for managing your JavaScript projects
 - [XboxYan/coupon](https://github.com/XboxYan/coupon) - 🎫 Generate Coupon-UI CSS code
 - [slidevjs/themes](https://github.com/slidevjs/themes) - Official themes for Slidev
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 🛸 Open source API development ecosystem https://hoppscotch.io
 - [DCzajkowski/vue-pure-lightbox](https://github.com/DCzajkowski/vue-pure-lightbox) - Very simple lightbox plugin (without any dependencies) for Vuejs 🌅
 
 
