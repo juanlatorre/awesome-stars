@@ -809,7 +809,7 @@
 - [Kholid060/projectile](https://github.com/Kholid060/projectile) - An app for managing your JavaScript projects
 - [XboxYan/coupon](https://github.com/XboxYan/coupon) - 🎫 Generate Coupon-UI CSS code
 - [slidevjs/themes](https://github.com/slidevjs/themes) - Official themes for Slidev
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [DCzajkowski/vue-pure-lightbox](https://github.com/DCzajkowski/vue-pure-lightbox) - Very simple lightbox plugin (without any dependencies) for Vuejs 🌅
 
 
