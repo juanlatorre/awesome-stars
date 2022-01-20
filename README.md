@@ -203,6 +203,7 @@
 
 ## Go 
 
+- [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
@@ -225,7 +226,6 @@
 
 ## HTML 
 
-- [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
 - [jasonlong/jasonlong](https://github.com/jasonlong/jasonlong) - 
 - [bmeck/proposal-from-import](https://github.com/bmeck/proposal-from-import) - AKA: make code completion work.
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
@@ -286,6 +286,7 @@
 - [lukeed/klona](https://github.com/lukeed/klona) - A tiny (240B to 501B) and fast utility to "deep clone" Objects, Arrays, Dates, RegExps, and more!
 - [fastify/fastify-jwt](https://github.com/fastify/fastify-jwt) - JWT utils for Fastify
 - [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS with no dependencies using runtime's native crypto in Node.js, Browser, Cloudflare Workers, Electron, and Deno.
+- [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
 - [narze/THIS_REPO_HAS_3077_STARS](https://github.com/narze/THIS_REPO_HAS_3077_STARS) - Click Star ⭐️  to see it in action :trollface:
 - [cristianbote/goober](https://github.com/cristianbote/goober) - 🥜 goober, a less than 1KB 🎉  css-in-js alternative with a familiar API
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
@@ -616,6 +617,7 @@
 
 ## Swift 
 
+- [leits/MeetingBar](https://github.com/leits/MeetingBar) - Your next meeting always before your eyes in the macOS menu bar
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [webponize/webponize](https://github.com/webponize/webponize) - macOS application that converts images to WebP.
 - [kean/Nuke](https://github.com/kean/Nuke) - Image loading system
