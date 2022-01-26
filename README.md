@@ -373,7 +373,6 @@
 - [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs) - React server side rendering support for Fastify with Next
 - [talut/react-native-wizard](https://github.com/talut/react-native-wizard) - Easy, convenient, quick-forming Wizard component for React Native
 - [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide) - Repo for the OpenCore Install Guide
-- [tannerlinsley/react-table](https://github.com/tannerlinsley/react-table) - ⚛️ Hooks for building fast and extendable tables and datagrids for React
 - [hoangvvo/next-connect](https://github.com/hoangvvo/next-connect) - The TypeScript-ready, minimal router and middleware layer for Next.js, Micro, Vercel, or Node.js http/http2
 - [Hermanya/react-blob](https://github.com/Hermanya/react-blob) - 💧React component that looks like liquid in space
 - [dominikg/svite](https://github.com/dominikg/svite) - svelte integration for vite
@@ -766,6 +765,7 @@
 - [LeufuLab/website-adulto-mayor](https://github.com/LeufuLab/website-adulto-mayor) - Website para proyecto Tablet Adulto Mayor.
 - [kgnugur/formik-chakra-ui](https://github.com/kgnugur/formik-chakra-ui) - Chakra-UI bindings for Formik
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+- [TanStack/react-table](https://github.com/TanStack/react-table) - ⚛️ Hooks for building fast and extendable tables and datagrids for React
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle 🖼
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [ronami/typelang](https://github.com/ronami/typelang) - 🌳 A tiny language interpreter implemented purely in TypeScript's type-system
