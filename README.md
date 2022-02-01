@@ -273,6 +273,7 @@
 
 ## JavaScript 
 
+- [jlobos/rut.js](https://github.com/jlobos/rut.js) - :chile: Sencilla y pequeña librería para validar y dar formato al RUT
 - [tannerlinsley/react-form](https://github.com/tannerlinsley/react-form) - ⚛️ Hooks for managing form state and validation in React
 - [purifycss/purifycss](https://github.com/purifycss/purifycss) - Remove unused CSS. Also works with single-page apps.
 - [oklemenz/Dune2](https://github.com/oklemenz/Dune2) - Dune II - The Building of A Dynasty
@@ -630,7 +631,7 @@
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [yusukebe/hono](https://github.com/yusukebe/hono) - [炎] Ultrafast web framework for Cloudflare Workers.
 - [blitz-js/superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
-- [calendso/calendso](https://github.com/calendso/calendso) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [graphql-compose/graphql-compose](https://github.com/graphql-compose/graphql-compose) - Toolkit for generating complex GraphQL Schemas on Node.js
 - [rakkasjs/rakkasjs](https://github.com/rakkasjs/rakkasjs) - Lightning fast Next.js alternative powered by Vite
 - [PabloSzx/ava-4-bob-tsm](https://github.com/PabloSzx/ava-4-bob-tsm) - 
@@ -747,7 +748,7 @@
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
-- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕜 Modern Timeline component for React
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕜 Modern Timeline Component for React
 - [swdotcom/swdc-vscode-musictime](https://github.com/swdotcom/swdc-vscode-musictime) - A VS Code extension to discover the most productive music to listen to as you code
 - [natemoo-re/microsite](https://github.com/natemoo-re/microsite) - Do more with less JavaScript. Microsite is a smarter, performance-obsessed static site generator powered by Preact and Snowpack.
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
@@ -807,7 +808,7 @@
 - [GuoQichen/vue-pswipe](https://github.com/GuoQichen/vue-pswipe) - 🚀 Easy to use, no need to set size, support rotation, photoswipe based vue swipe plugin
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
-- [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built with 💜 by Heroku.
+- [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
 - [anuraghazra/BugVilla](https://github.com/anuraghazra/BugVilla) - Track, Manage & Kill Bugs Effectively :knife: :beetle:
 - [benawad/destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [rubenspgcavalcante/webpack-extension-reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader) - A upgrade from 🔥webpack-chrome-extension-reloader🔥, now on all browsers
