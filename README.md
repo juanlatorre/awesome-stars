@@ -658,7 +658,7 @@
 - [slicknode/graphql-query-complexity](https://github.com/slicknode/graphql-query-complexity) - GraphQL query complexity analysis and validation for graphql-js
 - [juanlatorre/zaiko](https://github.com/juanlatorre/zaiko) - Cuisine inventory management system
 - [PabloSzx/altair-static-slim](https://github.com/PabloSzx/altair-static-slim) - Re-publish of altair-static without any dependency required
-- [tannerlinsley/react-location](https://github.com/tannerlinsley/react-location) - ⚛️ Enterprise Client-Side Routing for React
+- [TanStack/react-location](https://github.com/TanStack/react-location) - ⚛️ Enterprise Client-Side Routing for React
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [PabloSzx/rq-gql](https://github.com/PabloSzx/rq-gql) - 
 - [uiwjs/react-textarea-code-editor](https://github.com/uiwjs/react-textarea-code-editor) - A simple code editor with syntax highlighting.
