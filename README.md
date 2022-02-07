@@ -170,7 +170,7 @@
 - [iampawan/FlutterEssentialEnglish](https://github.com/iampawan/FlutterEssentialEnglish) - Flutter Essential English Course For MTechViral School
 - [themaaz32/mobx_implementation](https://github.com/themaaz32/mobx_implementation) - 
 - [calebkiage/flutter_animated_circle_progress](https://github.com/calebkiage/flutter_animated_circle_progress) - 
-- [beagle-barks/material_segmented_control](https://github.com/beagle-barks/material_segmented_control) - A Material styled segmented control with full control over behavior and design.
+- [benjamin-kraatz/material_segmented_control](https://github.com/benjamin-kraatz/material_segmented_control) - A Material styled segmented control with full control over behavior and design.
 - [iampawan/Coronavirus-Warrior](https://github.com/iampawan/Coronavirus-Warrior) - A Flutter project to track & help to fight from coronavirus.
 - [toufikzitouni/flutter-bidirectional_scrollview_plugin](https://github.com/toufikzitouni/flutter-bidirectional_scrollview_plugin) - Plugin that provides a bidirectional scrollview
 - [MariaMelnik/flutter_date_pickers](https://github.com/MariaMelnik/flutter_date_pickers) - 
