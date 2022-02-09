@@ -629,6 +629,7 @@
 
 ## TypeScript 
 
+- [hayes/pothos](https://github.com/hayes/pothos) - Pothos GraphQL (formerly GiraphQL) is library for creating GraphQL schemas in typescript using a strongly typed code first approach
 - [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [jacob-ebey/remix-ecommerce](https://github.com/jacob-ebey/remix-ecommerce) - WIP
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
