@@ -766,7 +766,7 @@
 - [astoilkov/use-local-storage-state](https://github.com/astoilkov/use-local-storage-state) - React hook that persists data in localStorage
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [software-mansion/react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native.
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - create much faster design systems that work on react native + react native web thanks to an optimizing compiler.
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Faster, more intuitive design systems that work on React Native + React Native Web with an optimizing compiler.
 - [alephjs/aleph.js](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno.
 - [LeufuLab/website-adulto-mayor](https://github.com/LeufuLab/website-adulto-mayor) - Website para proyecto Tablet Adulto Mayor.
 - [kgnugur/formik-chakra-ui](https://github.com/kgnugur/formik-chakra-ui) - Chakra-UI bindings for Formik
