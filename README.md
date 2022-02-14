@@ -816,7 +816,7 @@
 - [anuraghazra/BugVilla](https://github.com/anuraghazra/BugVilla) - Track, Manage & Kill Bugs Effectively :knife: :beetle:
 - [benawad/destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [rubenspgcavalcante/webpack-extension-reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader) - A upgrade from 🔥webpack-chrome-extension-reloader🔥, now on all browsers
-- [gqless/gqless](https://github.com/gqless/gqless) - a GraphQL client without queries
+- [samdenty/gqless](https://github.com/samdenty/gqless) - a GraphQL client without queries
 - [rachmanzz/vue-inview](https://github.com/rachmanzz/vue-inview) - vue-plugin for in-view package
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
