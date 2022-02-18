@@ -275,6 +275,8 @@
 
 ## JavaScript 
 
+- [lukeed/kleur](https://github.com/lukeed/kleur) - The fastest Node.js library for formatting terminal text with ANSI colors~!
+- [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
 - [azz/pretty-quick](https://github.com/azz/pretty-quick) - ⚡ Get Pretty Quick
 - [jlobos/rut.js](https://github.com/jlobos/rut.js) - :chile: Sencilla y pequeña librería para validar y dar formato al RUT
 - [tannerlinsley/react-form](https://github.com/tannerlinsley/react-form) - ⚛️ Hooks for managing form state and validation in React
@@ -488,6 +490,7 @@
 
 ## Others 
 
+- [catalinmiron/awesome-prisma](https://github.com/catalinmiron/awesome-prisma) - A collection of awesome things regarding Prisma ecosystem.
 - [AlexChesser/recruiter-autoresponse](https://github.com/AlexChesser/recruiter-autoresponse) - Based on the Medium Article entitled - "Career Advice Nobody Gave Me: Never ignore a recruiter" this repo has a copyable script which you can use to auto-respond to recruiters.
 - [rose-pine/rose-pine-theme](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist
 - [stefanbuck/jumpcat](https://github.com/stefanbuck/jumpcat) - A command palette for GitHub (browser extension)
@@ -630,6 +633,10 @@
 
 ## TypeScript 
 
+- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
+- [valentinpalkovic/prisma-json-schema-generator](https://github.com/valentinpalkovic/prisma-json-schema-generator) - A generator for Prisma 2 to generate a valid JSON Schema (v7)
+- [pantharshit00/prisma-docs-generator](https://github.com/pantharshit00/prisma-docs-generator) - Prisma generator for automatically generating documentation reference from the Prisma schema.
+- [keonik/prisma-erd-generator](https://github.com/keonik/prisma-erd-generator) - Generate an ER Diagram based on your Prisma schema every time you run npx prisma generate
 - [hayes/pothos](https://github.com/hayes/pothos) - Pothos GraphQL (formerly GiraphQL) is library for creating GraphQL schemas in typescript using a strongly typed code first approach
 - [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [jacob-ebey/remix-ecommerce](https://github.com/jacob-ebey/remix-ecommerce) - WIP
