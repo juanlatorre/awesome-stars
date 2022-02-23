@@ -341,7 +341,7 @@
 - [IndexXuan/vite-plugin-sleep](https://github.com/IndexXuan/vite-plugin-sleep) - a vite plugin you never need. slow devServer and slow HMR.
 - [ds300/android-capture](https://github.com/ds300/android-capture) - Capture video and screenshots from Android devices and emulators.
 - [TVke/react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) - A react-native style system based on TailwindCSS
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [google/zx](https://github.com/google/zx) - Replace Bash with JavaScript
 - [modulz/stitches](https://github.com/modulz/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 - [phil-r/react-native-grid-component](https://github.com/phil-r/react-native-grid-component) - :black_square_button: React native grid component
 - [sauzy34/react-native-multi-selectbox](https://github.com/sauzy34/react-native-multi-selectbox) - Platform independent (Android / iOS) Selectbox | Picker | Multi-select | Multi-picker. The idea is to bring out the common user interface & user experience on both platforms.
