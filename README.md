@@ -633,6 +633,7 @@
 
 ## TypeScript 
 
+- [dotansimha/graphql-yoga](https://github.com/dotansimha/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements W3C Fetch API and can run/deploy on any JS environment.
 - [jamiepine/prismix](https://github.com/jamiepine/prismix) - The Prisma schema mixer 🍜
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [valentinpalkovic/prisma-json-schema-generator](https://github.com/valentinpalkovic/prisma-json-schema-generator) - A generator for Prisma 2 to generate a valid JSON Schema (v7)
