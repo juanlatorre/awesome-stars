@@ -482,7 +482,6 @@
 - [pixel-point/mute-me](https://github.com/pixel-point/mute-me) - App is replaced by the new version which called Mutify
 - [tectiv3/react-native-aes](https://github.com/tectiv3/react-native-aes) - Native module for AES encryption
 - [react-native-async-storage/async-storage](https://github.com/react-native-async-storage/async-storage) - An asynchronous, persistent, key-value storage system for React Native.
-- [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
 - [acidanthera/MaciASL](https://github.com/acidanthera/MaciASL) - ACPI editing IDE for macOS
 - [maxs15/react-native-spinkit](https://github.com/maxs15/react-native-spinkit) - A collection of animated loading indicators for React Native
 - [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower) - MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina.
@@ -629,6 +628,7 @@
 - [webponize/webponize](https://github.com/webponize/webponize) - macOS application that converts images to WebP.
 - [kean/Nuke](https://github.com/kean/Nuke) - Image loading system
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 The Camera library that sees the vision.
+- [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
 - [OpenIntelWireless/HeliPort](https://github.com/OpenIntelWireless/HeliPort) - Intel Wi-Fi Client for itlwm
 
 ## TypeScript 
