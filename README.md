@@ -639,6 +639,8 @@
 
 ## TypeScript 
 
+- [42devs/transbank-sdk-node](https://github.com/42devs/transbank-sdk-node) - NodeJS sdk for Transbank Products
+- [TransbankDevelopers/transbank-sdk-nodejs](https://github.com/TransbankDevelopers/transbank-sdk-nodejs) - Código fuente Transbank SDK para Node.js
 - [dotansimha/graphql-yoga](https://github.com/dotansimha/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements W3C Fetch API and can run/deploy on any JS environment.
 - [jamiepine/prismix](https://github.com/jamiepine/prismix) - The Prisma schema mixer 🍜
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
