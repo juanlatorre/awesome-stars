@@ -204,6 +204,7 @@
 
 ## Go 
 
+- [vadimi/grpc-client-cli](https://github.com/vadimi/grpc-client-cli) - generic gRPC command line client
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
@@ -364,7 +365,6 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [DevExpress/testcafe](https://github.com/DevExpress/testcafe) - A Node.js tool to automate end-to-end web testing.
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
-- [aurelia/framework](https://github.com/aurelia/framework) - The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.
 - [fastify/fastify-helmet](https://github.com/fastify/fastify-helmet) - Important security headers for Fastify
 - [fastify/fastify-cors](https://github.com/fastify/fastify-cors) - Fastify CORS
 - [BigBasket/ra-treemenu](https://github.com/BigBasket/ra-treemenu) - A tree-like menu implementation for react-admin
@@ -382,6 +382,7 @@
 - [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs) - React server side rendering support for Fastify with Next
 - [talut/react-native-wizard](https://github.com/talut/react-native-wizard) - Easy, convenient, quick-forming Wizard component for React Native
 - [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide) - Repo for the OpenCore Install Guide
+- [TanStack/react-table](https://github.com/TanStack/react-table) - ⚛️ Hooks for building fast and extendable tables and datagrids for React
 - [hoangvvo/next-connect](https://github.com/hoangvvo/next-connect) - The TypeScript-ready, minimal router and middleware layer for Next.js, Micro, Vercel, or Node.js http/http2
 - [Hermanya/react-blob](https://github.com/Hermanya/react-blob) - 💧React component that looks like liquid in space
 - [dominikg/svite](https://github.com/dominikg/svite) - svelte integration for vite
@@ -758,6 +759,7 @@
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
+- [aurelia/framework](https://github.com/aurelia/framework) - The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 - [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
@@ -793,7 +795,6 @@
 - [LeufuLab/website-adulto-mayor](https://github.com/LeufuLab/website-adulto-mayor) - Website para proyecto Tablet Adulto Mayor.
 - [kgnugur/formik-chakra-ui](https://github.com/kgnugur/formik-chakra-ui) - Chakra-UI bindings for Formik
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [TanStack/react-table](https://github.com/TanStack/react-table) - ⚛️ Hooks for building fast and extendable tables and datagrids for React
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle 🖼
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [ronami/typelang](https://github.com/ronami/typelang) - 🌳 A tiny language interpreter implemented purely in TypeScript's type-system
