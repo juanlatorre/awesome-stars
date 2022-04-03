@@ -501,7 +501,7 @@
 - [rose-pine/iterm](https://github.com/rose-pine/iterm) - Soho vibes for iTerm2
 - [tekteq/opencanopy-minimal-theme](https://github.com/tekteq/opencanopy-minimal-theme) - Minimal theme for OpenCanopy/OpenCore
 - [nearform/federation-demo](https://github.com/nearform/federation-demo) - Demo of Apollo Federation
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [IonicaBizau/made-in-chile](https://github.com/IonicaBizau/made-in-chile) - 🇨🇱 A list of cool projects made in Chile
 - [dangthaison91/Ryzen-Hackintosh](https://github.com/dangthaison91/Ryzen-Hackintosh) - OpenCore EFI for running macOS on Gigabyte B550 Aorus Pro AX
 - [1hbb/OpenIntelWireless-Factory](https://github.com/1hbb/OpenIntelWireless-Factory) - Open Intel Wireless Factory
