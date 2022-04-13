@@ -277,6 +277,7 @@
 
 ## JavaScript 
 
+- [watson/is-ci](https://github.com/watson/is-ci) - Detect if the current environment is a CI server
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
 - [joshwcomeau/new-component](https://github.com/joshwcomeau/new-component) - ⚛ ⚡ CLI utility for quickly creating new React components. ⚡ ⚛
 - [sabinadams/aurora](https://github.com/sabinadams/aurora) - CLI tool that orchestrates prisma files in a way that allows multiple .prisma files with cross-relations
@@ -644,6 +645,7 @@
 
 ## TypeScript 
 
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [42devs/transbank-sdk-node](https://github.com/42devs/transbank-sdk-node) - NodeJS sdk for Transbank Products
 - [TransbankDevelopers/transbank-sdk-nodejs](https://github.com/TransbankDevelopers/transbank-sdk-nodejs) - Código fuente Transbank SDK para Node.js
 - [dotansimha/graphql-yoga](https://github.com/dotansimha/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements W3C Fetch API and can run/deploy on any JS environment.
@@ -709,7 +711,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 - [kraaden/autocomplete](https://github.com/kraaden/autocomplete) - Blazing fast and lightweight autocomplete widget without dependencies. Only 1KB gzipped. Demo:
 - [Norserium/react-indiana-drag-scroll](https://github.com/Norserium/react-indiana-drag-scroll) - React component which implements scrolling via holding the mouse button or touch
-- [nhost/nhost](https://github.com/nhost/nhost) - Nhost is a serverless backend for web and mobile apps
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open-Source GraphQL Backend
 - [PabloSzx/graphql-ez](https://github.com/PabloSzx/graphql-ez) - Easy, feature complete, and Plugin-Based Envelop GraphQL APIs
 - [pixochi/create-react-chrome-extension-ts](https://github.com/pixochi/create-react-chrome-extension-ts) - A lightweight boilerplate for building a Chrome extension and a web app with React, TypeScript and Webpack at the same time.
 - [macadev/Gibbon-Tabs](https://github.com/macadev/Gibbon-Tabs) - The Chrome tab manager you always wanted.
