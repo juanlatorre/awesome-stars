@@ -78,7 +78,7 @@
 - [WOA-Project/WOA-Deployer-Rpi](https://github.com/WOA-Project/WOA-Deployer-Rpi) - WOA Deployer for Raspberry Pi
 - [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
 - [ashvin-bhuttoo/PersistentHotspot](https://github.com/ashvin-bhuttoo/PersistentHotspot) - PersistentHotspot is a simple application to help keep your wifi hotpot always ON in windows 10 that will autostart after a windows boot.
-- [JasonStein/Notepads](https://github.com/JasonStein/Notepads) - A modern, lightweight text editor with a minimalist design.
+- [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 
 ## C++ 
 
