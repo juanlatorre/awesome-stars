@@ -233,6 +233,7 @@
 
 ## HTML 
 
+- [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Native Maps for Web, Mobile and Desktop
 - [jasonlong/jasonlong](https://github.com/jasonlong/jasonlong) - 
 - [bmeck/proposal-from-import](https://github.com/bmeck/proposal-from-import) - AKA: make code completion work.
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
@@ -598,7 +599,6 @@
 
 ## Rust 
 
-- [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Native Maps for Web, Mobile and Desktop
 - [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) - 💡 Experimental real-time global illumination renderer 🦀
 - [rustwasm/twiggy](https://github.com/rustwasm/twiggy) - Twiggy🌱 is a code size profiler
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
