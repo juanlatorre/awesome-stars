@@ -502,6 +502,8 @@
 
 ## Others 
 
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - 
+- [nowisf/trabajoFormativoFrontEnd77](https://github.com/nowisf/trabajoFormativoFrontEnd77) - Ejercicio Formativo para practicar elementos de front
 - [cutecore/Nintendo-Switch-eShop-API](https://github.com/cutecore/Nintendo-Switch-eShop-API) - 任天堂 Switch eShop API
 - [nowisf/InacapPageCopy](https://github.com/nowisf/InacapPageCopy) - Class Excersise
 - [prisma/studio](https://github.com/prisma/studio) - 🎙️ The easiest way to explore and manipulate your data in all of your Prisma projects.
@@ -659,7 +661,7 @@
 - [favna/nintendo-switch-eshop](https://github.com/favna/nintendo-switch-eshop) - Crawler for Nintendo Switch eShop
 - [rafaelcg/nintendo-switch-eshop](https://github.com/rafaelcg/nintendo-switch-eshop) - Crawler for Nintendo Switch eShop
 - [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
-- [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
+- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [albingroen/prismabuilder.io](https://github.com/albingroen/prismabuilder.io) - Build your Prisma schema visually in this easy-to-use web based tool
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [42devs/transbank-sdk-node](https://github.com/42devs/transbank-sdk-node) - NodeJS sdk for Transbank Products
@@ -674,7 +676,7 @@
 - [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [jacob-ebey/remix-ecommerce](https://github.com/jacob-ebey/remix-ecommerce) - WIP
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
-- [yusukebe/hono](https://github.com/yusukebe/hono) - Ultrafast web framework for Cloudflare Workers.
+- [yusukebe/hono](https://github.com/yusukebe/hono) - Ultrafast web framework for Cloudflare Workers. Fast, but not only fast.
 - [blitz-js/superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [graphql-compose/graphql-compose](https://github.com/graphql-compose/graphql-compose) - Toolkit for generating complex GraphQL Schemas on Node.js
