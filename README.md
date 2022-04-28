@@ -280,6 +280,7 @@
 
 ## JavaScript 
 
+- [dizzyup/hyper-hypest](https://github.com/dizzyup/hyper-hypest) - A beautiful and minimal macOS theme for Hyper
 - [Justineo/github-hovercard](https://github.com/Justineo/github-hovercard) - Neat hovercards for GitHub.
 - [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
@@ -657,6 +658,7 @@
 
 ## TypeScript 
 
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [favna/nintendo-switch-eshop](https://github.com/favna/nintendo-switch-eshop) - Crawler for Nintendo Switch eShop
 - [rafaelcg/nintendo-switch-eshop](https://github.com/rafaelcg/nintendo-switch-eshop) - Crawler for Nintendo Switch eShop
 - [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
