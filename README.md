@@ -280,6 +280,10 @@
 
 ## JavaScript 
 
+- [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
+- [vercel/async-retry](https://github.com/vercel/async-retry) - Retrying made simple, easy and async
+- [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
+- [sindresorhus/cpy](https://github.com/sindresorhus/cpy) - Copy files
 - [dizzyup/hyper-hypest](https://github.com/dizzyup/hyper-hypest) - A beautiful and minimal macOS theme for Hyper
 - [Justineo/github-hovercard](https://github.com/Justineo/github-hovercard) - Neat hovercards for GitHub.
 - [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
@@ -600,6 +604,7 @@
 
 ## Rust 
 
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Native Maps for Web, Mobile and Desktop
 - [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) - 💡 Experimental real-time global illumination renderer 🦀
 - [rustwasm/twiggy](https://github.com/rustwasm/twiggy) - Twiggy🌱 is a code size profiler
