@@ -663,6 +663,7 @@
 
 ## TypeScript 
 
+- [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm scripts to make them smarter and more efficient.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [favna/nintendo-switch-eshop](https://github.com/favna/nintendo-switch-eshop) - Crawler for Nintendo Switch eShop
 - [rafaelcg/nintendo-switch-eshop](https://github.com/rafaelcg/nintendo-switch-eshop) - Crawler for Nintendo Switch eShop
@@ -694,7 +695,7 @@
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [egoist/bina](https://github.com/egoist/bina) - An installer for self-contained, single-file binaries, no additional CLI needed.
 - [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder
-- [narbs91/glosseta](https://github.com/narbs91/glosseta) - Glosseta is an open-source glossary meant to help people explore and learn the terminology behind web3
+- [GlossetaFoundation/glosseta](https://github.com/GlossetaFoundation/glosseta) - Glosseta is an open-source glossary meant to help people explore and learn the terminology behind web3
 - [grpc/grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [PabloSzx/require-env](https://github.com/PabloSzx/require-env) - Require environment variables for your application
 - [deeplay-io/nice-grpc](https://github.com/deeplay-io/nice-grpc) - A TypeScript gRPC library that is nice to you
