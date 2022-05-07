@@ -60,6 +60,7 @@
 
 ## C 
 
+- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter, and the most universal runtime
 - [eduard-permyakov/permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine) - An OpenGL RTS game engine written in C
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
@@ -141,7 +142,7 @@
 - [codegrue/card_settings](https://github.com/codegrue/card_settings) - A flutter package for building card based forms.
 - [rrousselGit/union](https://github.com/rrousselGit/union) - Union types for dart
 - [comigor/artemis](https://github.com/comigor/artemis) - Build dart types from GraphQL schemas and queries
-- [fluttercommunity/flutter_launcher_icons](https://github.com/fluttercommunity/flutter_launcher_icons) - Flutter Launcher Icons - A package which simplifies the task of updating your Flutter app's launcher icon. Fully flexible, allowing you to choose what platform you wish to update the launcher icon for and if you want, the option to keep your old launcher icon in case you want to revert back sometime in the future. Maintainer: @MarkOSullivan94
+- [fluttercommunity/flutter_launcher_icons](https://github.com/fluttercommunity/flutter_launcher_icons) - Flutter Launcher Icons - A package which simplifies the task of updating your Flutter app's launcher icon. Fully flexible, allowing you to choose what platform you wish to update the launcher icon for
 - [ReinBentdal/styled_widget](https://github.com/ReinBentdal/styled_widget) - Simplifying widget style in Flutter.
 - [jogboms/flutter_spinkit](https://github.com/jogboms/flutter_spinkit) - ✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit.
 - [gql-dart/ferry](https://github.com/gql-dart/ferry) - Stream-based strongly typed GraphQL client for Dart
@@ -151,7 +152,7 @@
 - [imaNNeoFighT/fl_chart](https://github.com/imaNNeoFighT/fl_chart) - FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, and Radar Chart.
 - [entronad/graphic](https://github.com/entronad/graphic) - A grammar of data visualization and Flutter charting library.
 - [Baseflow/flutter_cached_network_image](https://github.com/Baseflow/flutter_cached_network_image) - Download, cache and show images in a flutter app
-- [bluefireteam/photo_view](https://github.com/bluefireteam/photo_view) - 📸 Easy to use yet very customizable zoomable image widget for Flutter, Photo View provides a gesture sensitive zoomable widget. Photo View is largely used to show interacive images and other stuff such as SVG.
+- [bluefireteam/photo_view](https://github.com/bluefireteam/photo_view) - 📸 Easy to use yet very customizable zoomable image widget for Flutter, Photo View provides a gesture sensitive zoomable widget. Photo View is largely used to show interacive images and other stuff suc
 - [hnvn/flutter_shimmer](https://github.com/hnvn/flutter_shimmer) - A package provides an easy way to add shimmer effect in Flutter project
 - [roughike/page-transformer](https://github.com/roughike/page-transformer) - A sample for having PageView transformation effects in Flutter.
 - [rvamsikrishna/inview_notifier_list](https://github.com/rvamsikrishna/inview_notifier_list) - A Flutter package that builds a list view and notifies when the widgets are on screen.
@@ -160,7 +161,7 @@
 - [chulwoo-park/timelines](https://github.com/chulwoo-park/timelines) - A powerful & easy to use timeline package for Flutter! 🚀
 - [Idean/Flutter-Neumorphic](https://github.com/Idean/Flutter-Neumorphic) - A complete, ready to use, Neumorphic ui kit for Flutter, 🕶️ dark mode compatible
 - [Dn-a/flutter_tags](https://github.com/Dn-a/flutter_tags) - With flutter tags you can create selectable or input tags that automatically adapt to the screen width
-- [LanarsInc/direct-select-flutter](https://github.com/LanarsInc/direct-select-flutter) - DirectSelect is a selection widget with an ethereal, full-screen modal popup displaying the available choices when the widget is interact with. https://dribbble.com/shots/3876250-DirectSelect-Dropdown-ux
+- [LanarsInc/direct-select-flutter](https://github.com/LanarsInc/direct-select-flutter) - DirectSelect is a selection widget with an ethereal, full-screen modal popup displaying the available choices when the widget is interact with. https://dribbble.com/shots/3876250-DirectSelect-Dropdown
 - [aagarwal1012/Liquid-Pull-To-Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) - 🔁 A custom refresh indicator for flutter.
 - [AndreHaueisen/flushbar](https://github.com/AndreHaueisen/flushbar) - Custom widget for Flutter
 - [rrousselGit/functional_widget](https://github.com/rrousselGit/functional_widget) - A code generator to write widgets as function without loosing the benefits of classes.
@@ -210,7 +211,7 @@
 - [vadimi/grpc-client-cli](https://github.com/vadimi/grpc-client-cli) - generic gRPC command line client
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
-- [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
+- [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
@@ -263,7 +264,7 @@
 - [cisagov/log4j-scanner](https://github.com/cisagov/log4j-scanner) - log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities.
 - [zoontek/react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash) - 🚀 Show a bootsplash during app startup. Hide it when you are ready.
 - [zo0r/react-native-push-notification](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
-- [henninghall/react-native-date-picker](https://github.com/henninghall/react-native-date-picker) - React Native Date Picker is datetime picker for Android and iOS. It includes date, time and datetime picker modes. The datepicker is customizable and is supporting different languages. It's written with native code to achieve the best possible look, feel and performance.
+- [henninghall/react-native-date-picker](https://github.com/henninghall/react-native-date-picker) - React Native Date Picker is datetime picker for Android and iOS. It includes date, time and datetime picker modes. The datepicker is customizable and is supporting different languages. It's written wi
 - [react-native-video/react-native-video](https://github.com/react-native-video/react-native-video) - A &lt;Video /&gt; component for react-native
 - [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
 - [react-native-svg/react-native-svg](https://github.com/react-native-svg/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
@@ -297,7 +298,6 @@
 - [watson/is-ci](https://github.com/watson/is-ci) - Detect if the current environment is a CI server
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
 - [joshwcomeau/new-component](https://github.com/joshwcomeau/new-component) - ⚛ ⚡ CLI utility for quickly creating new React components. ⚡ ⚛
-- [sabinadams/aurora](https://github.com/sabinadams/aurora) - CLI tool that orchestrates prisma files in a way that allows multiple .prisma files with cross-relations
 - [lukeed/kleur](https://github.com/lukeed/kleur) - The fastest Node.js library for formatting terminal text with ANSI colors~!
 - [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
 - [azz/pretty-quick](https://github.com/azz/pretty-quick) - ⚡ Get Pretty Quick
@@ -305,7 +305,7 @@
 - [tannerlinsley/react-form](https://github.com/tannerlinsley/react-form) - ⚛️ Hooks for managing form state and validation in React
 - [purifycss/purifycss](https://github.com/purifycss/purifycss) - Remove unused CSS. Also works with single-page apps.
 - [oklemenz/Dune2](https://github.com/oklemenz/Dune2) - Dune II - The Building of A Dynasty
-- [breejs/bree](https://github.com/breejs/bree) - :traffic_light: The best job scheduler for Node.js and JavaScript with cron, dates, ms, later, and human-friendly support.  Works in Node v12.11.0+, uses worker threads to spawn sandboxed processes, and supports async/await, retries, throttling, concurrency, and cancelable promises (graceful shutdown).  Simple, fast, and lightweight.  Made for @ForwardEmail and @ladjs.
+- [breejs/bree](https://github.com/breejs/bree) - :traffic_light: The best job scheduler for Node.js and JavaScript with cron, dates, ms, later, and human-friendly support.  Works in Node v12.11.0+, uses worker threads to spawn sandboxed processes, a
 - [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 - [open-cli-tools/chokidar-cli](https://github.com/open-cli-tools/chokidar-cli) - Fast cross-platform cli utility to watch file system changes
 - [lukeed/resolve.exports](https://github.com/lukeed/resolve.exports) - A tiny (737b), correct, general-purpose, and configurable `"exports"` resolver without file-system reliance
@@ -316,13 +316,12 @@
 - [fastify/fastify-jwt](https://github.com/fastify/fastify-jwt) - JWT utils for Fastify
 - [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS with no dependencies using runtime's native crypto in Node.js, Browser, Cloudflare Workers, Electron, and Deno.
 - [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
-- [narze/THIS_REPO_HAS_3077_STARS](https://github.com/narze/THIS_REPO_HAS_3077_STARS) - Click Star ⭐️  to see it in action :trollface:
 - [cristianbote/goober](https://github.com/cristianbote/goober) - 🥜 goober, a less than 1KB 🎉  css-in-js alternative with a familiar API
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
 - [invertase/react-native-apple-authentication](https://github.com/invertase/react-native-apple-authentication) - A React Native library providing support for Apple Authentication on iOS and Android.
 - [kamilkisiela/bob](https://github.com/kamilkisiela/bob) - Build tool used in libraries maintained by The Guild
 - [EvanBacon/metro-minify-esbuild](https://github.com/EvanBacon/metro-minify-esbuild) - Use ESBuild to make your React Native code bundle faster.
-- [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
+- [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
 - [kennethjiang/js-file-download](https://github.com/kennethjiang/js-file-download) - 
 - [FormidableLabs/react-ssr-prepass](https://github.com/FormidableLabs/react-ssr-prepass) - A custom partial React SSR renderer for prefetching and suspense
 - [zenoamaro/react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
@@ -374,7 +373,7 @@
 - [marcocesarato/react-native-input-spinner](https://github.com/marcocesarato/react-native-input-spinner) - An extensible input number spinner component for react-native highly customizable. This component enhance a text input for entering numeric values, with increase and decrease buttons.
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [guiyep/react-select-virtualized](https://github.com/guiyep/react-select-virtualized) - react-select v5 + react-virtualized + react hooks!
-- [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, vuejs vitepress, TinaCMS, Shopify Polaris, Ant Design, Astro,  hashicorp, garden, slidev, saber, sourcegraph, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers. Please follow gray-matter's author: https://github.com/jonschlinkert
+- [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, vuejs vitepress, TinaCMS, Shopify Polaris, Ant Design, Astro,  hashicorp, garden, slidev, saber, s
 - [jpuri/react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - A Wysiwyg editor build on top of ReactJS and DraftJS. https://jpuri.github.io/react-draft-wysiwyg
 - [michelson/dante2](https://github.com/michelson/dante2) - A complete rewrite of dante editor in draft-js
 - [Yuvaleros/material-ui-dropzone](https://github.com/Yuvaleros/material-ui-dropzone) - A Material-UI file upload dropzone
@@ -395,7 +394,8 @@
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
 - [jaydenseric/apollo-upload-examples](https://github.com/jaydenseric/apollo-upload-examples) - A full stack demo of file uploads via GraphQL mutations using Apollo Server and apollo-upload-client.
 - [Ghirro/graphql-network](https://github.com/Ghirro/graphql-network) - Chrome Devtool that provides a "network"-style tab for GraphQL requests to allow developers to debug more easily.
-- [pbteja1998/nextjs-starter](https://github.com/pbteja1998/nextjs-starter) - A starter project for next js with authentication - Contains React 17 + Typescript + Tailwind CSS 2 + React Query 3 + GitHub Auth + LinkedIn Auth + Password-less Auth + Fauna DB + ESLint + Prettier + Husky
+- [pbteja1998/nextjs-starter](https://github.com/pbteja1998/nextjs-starter) - A starter project for next js with authentication - Contains React 17 + Typescript + Tailwind CSS 2 + React Query 3 + GitHub Auth + LinkedIn Auth + Password-less Auth + Fauna DB + ESLint + Prettier +
+- [nearform/federation-demo](https://github.com/nearform/federation-demo) - Demo of Apollo Federation
 - [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 - [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs) - React server side rendering support for Fastify with Next
 - [talut/react-native-wizard](https://github.com/talut/react-native-wizard) - Easy, convenient, quick-forming Wizard component for React Native
@@ -460,7 +460,6 @@
 - [ehopperdietzel/Gigmate](https://github.com/ehopperdietzel/Gigmate) - Red social orientada a músicos.
 - [butterproject/butter-desktop](https://github.com/butterproject/butter-desktop) - All the free parts of  Popcorn Time
 - [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
-- [popcorn-official/popcorn-app](https://github.com/popcorn-official/popcorn-app) - Allow easily streaming from torrents, without any particular knowledge.
 - [dimsemenov/Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) - Light and responsive lightbox script with focus on performance.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [jmhdez/Nodejs-Sample](https://github.com/jmhdez/Nodejs-Sample) - Sample project with node.js, express, jade and jquery+ajax
@@ -519,7 +518,6 @@
 - [stefanbuck/jumpcat](https://github.com/stefanbuck/jumpcat) - A command palette for GitHub (browser extension)
 - [rose-pine/iterm](https://github.com/rose-pine/iterm) - Soho vibes for iTerm2
 - [tekteq/opencanopy-minimal-theme](https://github.com/tekteq/opencanopy-minimal-theme) - Minimal theme for OpenCanopy/OpenCore
-- [nearform/federation-demo](https://github.com/nearform/federation-demo) - Demo of Apollo Federation
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [IonicaBizau/made-in-chile](https://github.com/IonicaBizau/made-in-chile) - 🇨🇱 A list of cool projects made in Chile
 - [dangthaison91/Ryzen-Hackintosh](https://github.com/dangthaison91/Ryzen-Hackintosh) - OpenCore EFI for running macOS on Gigabyte B550 Aorus Pro AX
@@ -560,7 +558,7 @@
 
 ## Perl 
 
-- [imapsync/imapsync](https://github.com/imapsync/imapsync) - Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is
+- [imapsync/imapsync](https://github.com/imapsync/imapsync) - Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two oth
 
 ## PowerShell 
 
@@ -573,8 +571,6 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [corpnewt/USBMap](https://github.com/corpnewt/USBMap) - Python script for mapping USB ports in macOS and creating a custom injector kext.
-- [Sinantica/fishbyte_ai_wss](https://github.com/Sinantica/fishbyte_ai_wss) - Fishbyte connection to graphql api
-- [Sinantica/fishbyte_ai](https://github.com/Sinantica/fishbyte_ai) - Fishbyte AI models.
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [madhavanmalolan/awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui) - Awesome React Native UI components updated weekly
@@ -679,6 +675,7 @@
 - [TransbankDevelopers/transbank-sdk-nodejs](https://github.com/TransbankDevelopers/transbank-sdk-nodejs) - Código fuente Transbank SDK para Node.js
 - [dotansimha/graphql-yoga](https://github.com/dotansimha/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements W3C Fetch API and can run/deploy on any JS environment.
 - [jamiepine/prismix](https://github.com/jamiepine/prismix) - The Prisma schema mixer 🍜
+- [sabinadams/aurora](https://github.com/sabinadams/aurora) - CLI tool that orchestrates prisma files in a way that allows multiple .prisma files with cross-relations
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [valentinpalkovic/prisma-json-schema-generator](https://github.com/valentinpalkovic/prisma-json-schema-generator) - A generator for Prisma 2 to generate a valid JSON Schema (v7)
 - [pantharshit00/prisma-docs-generator](https://github.com/pantharshit00/prisma-docs-generator) - Prisma generator for automatically generating documentation reference from the Prisma schema.
@@ -714,11 +711,9 @@
 - [gmrchk/blobity](https://github.com/gmrchk/blobity) - The cursor is the heart of any interaction with the web. Why not take it to the next level? 🚀
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [slicknode/graphql-query-complexity](https://github.com/slicknode/graphql-query-complexity) - GraphQL query complexity analysis and validation for graphql-js
-- [juanlatorre/zaiko](https://github.com/juanlatorre/zaiko) - Cuisine inventory management system
 - [PabloSzx/altair-static-slim](https://github.com/PabloSzx/altair-static-slim) - Re-publish of altair-static without any dependency required
 - [TanStack/react-location](https://github.com/TanStack/react-location) - ⚛️ Enterprise Client-Side Routing for React
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
-- [PabloSzx/rq-gql](https://github.com/PabloSzx/rq-gql) - 
 - [uiwjs/react-textarea-code-editor](https://github.com/uiwjs/react-textarea-code-editor) - A simple code editor with syntax highlighting.
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [invertase/react-native-notifee](https://github.com/invertase/react-native-notifee) - Moved to https://github.com/invertase/notifee
@@ -738,7 +733,7 @@
 - [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 - [fast-average-color/fast-average-color](https://github.com/fast-average-color/fast-average-color) - 🍏🍊🍅 Fast Average Color
 - [PuruVJ/macos-preact](https://github.com/PuruVJ/macos-preact) - 
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [kraaden/autocomplete](https://github.com/kraaden/autocomplete) - Blazing fast and lightweight autocomplete widget without dependencies. Only 1KB gzipped. Demo:
 - [Norserium/react-indiana-drag-scroll](https://github.com/Norserium/react-indiana-drag-scroll) - React component which implements scrolling via holding the mouse button or touch
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open-Source GraphQL Backend (Firebase Alternative).
@@ -824,7 +819,6 @@
 - [software-mansion/react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Faster, more intuitive design systems that work on React Native + React Native Web with an optimizing compiler.
 - [alephjs/aleph.js](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno.
-- [LeufuLab/website-adulto-mayor](https://github.com/LeufuLab/website-adulto-mayor) - Website para proyecto Tablet Adulto Mayor.
 - [kgnugur/formik-chakra-ui](https://github.com/kgnugur/formik-chakra-ui) - Chakra-UI bindings for Formik
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [TanStack/react-table](https://github.com/TanStack/react-table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS, React, Vue, Solid
@@ -835,7 +829,7 @@
 - [EvanBacon/react-native-web-hooks](https://github.com/EvanBacon/react-native-web-hooks) - Hooks for React Native web and Expo
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
-- [nikersify/pico](https://github.com/nikersify/pico) - Take browser screenshots in Javascript  📸
+- [rsify/pico](https://github.com/rsify/pico) - Take browser screenshots in Javascript  📸
 - [Sharcoux/rn-css](https://github.com/Sharcoux/rn-css) - Brings CSS to React-Native
 - [pbteja1998/github-jobs-client](https://github.com/pbteja1998/github-jobs-client) - Clone of GitHub Jobs website using the design from Frontend Mentor.
 - [MichalLytek/typegraphql-prisma](https://github.com/MichalLytek/typegraphql-prisma) - Prisma 2 generator to emit TypeGraphQL types and CRUD resolvers from your Prisma 2 schema
