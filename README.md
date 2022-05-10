@@ -85,6 +85,7 @@
 
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB server (daemon) source code
 - [ndeadly/MissionControl](https://github.com/ndeadly/MissionControl) - Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. No dongles or other external hardware neccessary.
+- [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
 - [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
 - [acidanthera/VoodooPS2](https://github.com/acidanthera/VoodooPS2) - 
 - [RehabMan/OS-X-USB-Inject-All](https://github.com/RehabMan/OS-X-USB-Inject-All) - Kext to inject all USB ports for the installed Intel EHCI/XHCI chipset automatically.
@@ -266,7 +267,6 @@
 - [zo0r/react-native-push-notification](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
 - [henninghall/react-native-date-picker](https://github.com/henninghall/react-native-date-picker) - React Native Date Picker is datetime picker for Android and iOS. It includes date, time and datetime picker modes. The datepicker is customizable and is supporting different languages. It's written wi
 - [react-native-video/react-native-video](https://github.com/react-native-video/react-native-video) - A &lt;Video /&gt; component for react-native
-- [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
 - [react-native-svg/react-native-svg](https://github.com/react-native-svg/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
 - [vishaljadav24/react-native-hide-show-password-input](https://github.com/vishaljadav24/react-native-hide-show-password-input) - React-Native Hide Show Password InputText Component
 - [prscX/react-native-photo-editor](https://github.com/prscX/react-native-photo-editor) - React Native: Native Photo Editor
@@ -662,6 +662,7 @@
 
 ## TypeScript 
 
+- [digital-loukoum/gravity](https://github.com/digital-loukoum/gravity) - Next-generation backend framework with isomorphic capacities
 - [dflex-js/dflex](https://github.com/dflex-js/dflex) - The sophisticated Drag and Drop library you've been waiting for 🥳
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm scripts to make them smarter and more efficient.
