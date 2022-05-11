@@ -857,7 +857,7 @@
 - [jozsefsallai/ask](https://github.com/jozsefsallai/ask) - interactive command-line prompts for deno
 - [siokas/denomander](https://github.com/siokas/denomander) - Deno command-line interfaces made easy
 - [cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
-- [innocenzi/tailwindcss-theming](https://github.com/innocenzi/tailwindcss-theming) - Tailwind CSS plugin for client-side theming using CSS variables, with dark mode support
+- [innocenzi/tailwindcss-theming](https://github.com/innocenzi/tailwindcss-theming) - Tailwind CSS plugin that implements CSS-variables-based swappable themes
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍📖 A readable, automated, and optimized (5 kb) internationalization for JavaScript
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
