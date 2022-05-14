@@ -774,7 +774,7 @@
 - [the-guild-org/the-guild-docs](https://github.com/the-guild-org/the-guild-docs) - Low level and completely custom documentation websites using Next.js
 - [microsoft/folio](https://github.com/microsoft/folio) - A customizable test framework to build your own test frameworks
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [Purii/react-use-scrollspy](https://github.com/Purii/react-use-scrollspy) - Flexible React Hook to automatically update navigation based on scroll position
 - [yujong-lee/react-native-switch-toggle](https://github.com/yujong-lee/react-native-switch-toggle) - react-native switch toggle button component.
 - [Purii/react-native-tableview-simple](https://github.com/Purii/react-native-tableview-simple) - Flexible and lightweight React Native component for UITableView made with pure CSS
