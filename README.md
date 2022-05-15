@@ -281,6 +281,7 @@
 
 ## JavaScript 
 
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [antelle/node-stream-zip](https://github.com/antelle/node-stream-zip) - node.js library for fast reading of large ZIPs
 - [jprichardson/node-github-download](https://github.com/jprichardson/node-github-download) - Easily download Github repos without dependencies such as Git, Tar, Unzip, etc.
 - [phated/github-download-directory](https://github.com/phated/github-download-directory) - Download the contents of a given directory from a repository on GitHub.
