@@ -281,6 +281,11 @@
 
 ## JavaScript 
 
+- [sw-yx/Twitter-Links-beta](https://github.com/sw-yx/Twitter-Links-beta) - A Chrome extension to show the latest tweets that link to the current page.
+- [matheuss/parrotsay](https://github.com/matheuss/parrotsay) - ✨🐦 The Party Parrot on your terminal 🐦✨
+- [ryanbahniuk/sign-bunny](https://github.com/ryanbahniuk/sign-bunny) - A package to create a sign bunny character.
+- [xtyrrell/undollar](https://github.com/xtyrrell/undollar) - undollar eats the dollar sign in the command you just pasted into your terminal
+- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [antelle/node-stream-zip](https://github.com/antelle/node-stream-zip) - node.js library for fast reading of large ZIPs
 - [jprichardson/node-github-download](https://github.com/jprichardson/node-github-download) - Easily download Github repos without dependencies such as Git, Tar, Unzip, etc.
@@ -629,6 +634,7 @@
 
 ## Shell 
 
+- [rupa/z](https://github.com/rupa/z) - z - jump around
 - [mrts/docker-postgresql-multiple-databases](https://github.com/mrts/docker-postgresql-multiple-databases) - Using multiple databases with the official PostgreSQL Docker image
 - [yobasystems/alpine-prestashop](https://github.com/yobasystems/alpine-prestashop) - Prestashop running on Alpine Linux [Docker]
 - [rusty-bits/OC-tool](https://github.com/rusty-bits/OC-tool) - POSIX shell script that builds an OpenCore EFI folder from an OpenCore config.plist
@@ -742,7 +748,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [kraaden/autocomplete](https://github.com/kraaden/autocomplete) - Blazing fast and lightweight autocomplete widget without dependencies. Only 1KB gzipped. Demo:
 - [Norserium/react-indiana-drag-scroll](https://github.com/Norserium/react-indiana-drag-scroll) - React component which implements scrolling via holding the mouse button or touch
-- [nhost/nhost](https://github.com/nhost/nhost) - The Open-Source GraphQL Backend (Firebase Alternative).
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL
 - [PabloSzx/graphql-ez](https://github.com/PabloSzx/graphql-ez) - Easy, feature complete, and Plugin-Based Envelop GraphQL APIs
 - [pixochi/create-react-chrome-extension-ts](https://github.com/pixochi/create-react-chrome-extension-ts) - A lightweight boilerplate for building a Chrome extension and a web app with React, TypeScript and Webpack at the same time.
 - [macadev/Gibbon-Tabs](https://github.com/macadev/Gibbon-Tabs) - The Chrome tab manager you always wanted.
@@ -797,7 +803,7 @@
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 - [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [lostpebble/pullstate](https://github.com/lostpebble/pullstate) - Simple state stores using immer and React hooks - re-use parts of your state by pulling it anywhere you like!
-- [dotansimha/envelop](https://github.com/dotansimha/envelop) - Envelop is a lightweight library allowing developers to easily develop, share, collaborate and extend their GraphQL execution layer. Envelop is the missing GraphQL plugin system.
+- [n1ru4l/envelop](https://github.com/n1ru4l/envelop) - Envelop is a lightweight library allowing developers to easily develop, share, collaborate and extend their GraphQL execution layer. Envelop is the missing GraphQL plugin system.
 - [Urigo/graphql-cli](https://github.com/Urigo/graphql-cli) - 📟  Command line tool for common GraphQL development workflows
 - [kamilkisiela/graphql-inspector](https://github.com/kamilkisiela/graphql-inspector) - 🕵️‍♀️ Validate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
