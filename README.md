@@ -169,7 +169,7 @@
 - [bluemix/Gradient-Widgets](https://github.com/bluemix/Gradient-Widgets) - Flutter widgets wrapped with gradients
 - [inway/flutter_ringtone_player](https://github.com/inway/flutter_ringtone_player) - Simple Flutter plugin to play ringtone, alarm & notification sounds
 - [Vanethos/flutter_notification_permissions](https://github.com/Vanethos/flutter_notification_permissions) - Plugin for Flutter to check and ask for Notification Permissions
-- [flame-engine/flame](https://github.com/flame-engine/flame) - A minimalist Flutter game engine
+- [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine
 - [themaaz32/hive_learn](https://github.com/themaaz32/hive_learn) - 
 - [iampawan/FlutterEssentialEnglish](https://github.com/iampawan/FlutterEssentialEnglish) - Flutter Essential English Course For MTechViral School
 - [themaaz32/mobx_implementation](https://github.com/themaaz32/mobx_implementation) - 
@@ -748,7 +748,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [kraaden/autocomplete](https://github.com/kraaden/autocomplete) - Blazing fast and lightweight autocomplete widget without dependencies. Only 1KB gzipped. Demo:
 - [Norserium/react-indiana-drag-scroll](https://github.com/Norserium/react-indiana-drag-scroll) - React component which implements scrolling via holding the mouse button or touch
-- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [PabloSzx/graphql-ez](https://github.com/PabloSzx/graphql-ez) - Easy, feature complete, and Plugin-Based Envelop GraphQL APIs
 - [pixochi/create-react-chrome-extension-ts](https://github.com/pixochi/create-react-chrome-extension-ts) - A lightweight boilerplate for building a Chrome extension and a web app with React, TypeScript and Webpack at the same time.
 - [macadev/Gibbon-Tabs](https://github.com/macadev/Gibbon-Tabs) - The Chrome tab manager you always wanted.
