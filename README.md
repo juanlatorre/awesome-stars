@@ -281,7 +281,7 @@
 
 ## JavaScript 
 
-- [sw-yx/Twitter-Links-beta](https://github.com/sw-yx/Twitter-Links-beta) - A Chrome extension to show the latest tweets that link to the current page.
+- [sw-yx/Twitter-Links-beta](https://github.com/sw-yx/Twitter-Links-beta) - A Chrome extension to show the latest tweets that link to the current page. Updated for Manifest v3
 - [matheuss/parrotsay](https://github.com/matheuss/parrotsay) - ✨🐦 The Party Parrot on your terminal 🐦✨
 - [ryanbahniuk/sign-bunny](https://github.com/ryanbahniuk/sign-bunny) - A package to create a sign bunny character.
 - [xtyrrell/undollar](https://github.com/xtyrrell/undollar) - undollar eats the dollar sign in the command you just pasted into your terminal
