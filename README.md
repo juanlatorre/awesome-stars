@@ -366,7 +366,6 @@
 - [IndexXuan/vite-plugin-sleep](https://github.com/IndexXuan/vite-plugin-sleep) - a vite plugin you never need. slow devServer and slow HMR.
 - [ds300/android-capture](https://github.com/ds300/android-capture) - Capture video and screenshots from Android devices and emulators.
 - [TVke/react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) - A react-native style system based on TailwindCSS
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [modulz/stitches](https://github.com/modulz/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 - [phil-r/react-native-grid-component](https://github.com/phil-r/react-native-grid-component) - :black_square_button: React native grid component
 - [sauzy34/react-native-multi-selectbox](https://github.com/sauzy34/react-native-multi-selectbox) - Platform independent (Android / iOS) Selectbox | Picker | Multi-select | Multi-picker. The idea is to bring out the common user interface & user experience on both platforms.
@@ -783,6 +782,7 @@
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (Preview)
 - [DylanVann/react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, performant React Native image component.
 - [the-guild-org/the-guild-docs](https://github.com/the-guild-org/the-guild-docs) - Low level and completely custom documentation websites using Next.js
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [microsoft/folio](https://github.com/microsoft/folio) - A customizable test framework to build your own test frameworks
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
