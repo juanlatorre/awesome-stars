@@ -83,6 +83,7 @@
 
 ## C++ 
 
+- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB server (daemon) source code
 - [ndeadly/MissionControl](https://github.com/ndeadly/MissionControl) - Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. No dongles or other external hardware neccessary.
 - [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
@@ -281,6 +282,8 @@
 
 ## JavaScript 
 
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
+- [Minigugus/zx-deno](https://github.com/Minigugus/zx-deno) - A tool for writing better scripts
 - [sw-yx/Twitter-Links-beta](https://github.com/sw-yx/Twitter-Links-beta) - A Chrome extension to show the latest tweets that link to the current page. Updated for Manifest v3
 - [matheuss/parrotsay](https://github.com/matheuss/parrotsay) - ✨🐦 The Party Parrot on your terminal 🐦✨
 - [ryanbahniuk/sign-bunny](https://github.com/ryanbahniuk/sign-bunny) - A package to create a sign bunny character.
@@ -367,7 +370,7 @@
 - [ds300/android-capture](https://github.com/ds300/android-capture) - Capture video and screenshots from Android devices and emulators.
 - [TVke/react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) - A react-native style system based on TailwindCSS
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-- [modulz/stitches](https://github.com/modulz/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
+- [stitchesjs/stitches](https://github.com/stitchesjs/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 - [phil-r/react-native-grid-component](https://github.com/phil-r/react-native-grid-component) - :black_square_button: React native grid component
 - [sauzy34/react-native-multi-selectbox](https://github.com/sauzy34/react-native-multi-selectbox) - Platform independent (Android / iOS) Selectbox | Picker | Multi-select | Multi-picker. The idea is to bring out the common user interface & user experience on both platforms.
 - [moschan/react-native-simple-radio-button](https://github.com/moschan/react-native-simple-radio-button) - Simple and handy animated radio button component for React Native
@@ -608,6 +611,7 @@
 
 ## Rust 
 
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Native Maps for Web, Mobile and Desktop
 - [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) - 💡 Experimental real-time global illumination renderer 🦀
@@ -668,6 +672,8 @@
 
 ## TypeScript 
 
+- [Minigugus/bazx](https://github.com/Minigugus/bazx) - 🐚️ zx on 💊️ steroids
+- [swc-project/swc-node](https://github.com/swc-project/swc-node) - Faster ts-node without typecheck
 - [prisma-korea/graphql-schema-generator](https://github.com/prisma-korea/graphql-schema-generator) - Generate GraphQL Schema from Prisma schema.
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
