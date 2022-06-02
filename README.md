@@ -163,7 +163,7 @@
 - [chulwoo-park/timelines](https://github.com/chulwoo-park/timelines) - A powerful & easy to use timeline package for Flutter! 🚀
 - [Idean/Flutter-Neumorphic](https://github.com/Idean/Flutter-Neumorphic) - A complete, ready to use, Neumorphic ui kit for Flutter, 🕶️ dark mode compatible
 - [Dn-a/flutter_tags](https://github.com/Dn-a/flutter_tags) - With flutter tags you can create selectable or input tags that automatically adapt to the screen width
-- [LanarsInc/direct-select-flutter](https://github.com/LanarsInc/direct-select-flutter) - DirectSelect is a selection widget with an ethereal, full-screen modal popup displaying the available choices when the widget is interact with. https://dribbble.com/shots/3876250-DirectSelect-Dropdown
+- [vizhan-lanars/direct-select-flutter](https://github.com/vizhan-lanars/direct-select-flutter) - DirectSelect is a selection widget with an ethereal, full-screen modal popup displaying the available choices when the widget is interact with. https://dribbble.com/shots/3876250-DirectSelect-Dropdown
 - [aagarwal1012/Liquid-Pull-To-Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) - 🔁 A custom refresh indicator for flutter.
 - [AndreHaueisen/flushbar](https://github.com/AndreHaueisen/flushbar) - Custom widget for Flutter
 - [rrousselGit/functional_widget](https://github.com/rrousselGit/functional_widget) - A code generator to write widgets as function without loosing the benefits of classes.
@@ -672,6 +672,7 @@
 
 ## TypeScript 
 
+- [ts-plugin/ts-import-plugin](https://github.com/ts-plugin/ts-import-plugin) - babel-import-plugin TypeScript Implement
 - [Minigugus/bazx](https://github.com/Minigugus/bazx) - 🐚️ zx on 💊️ steroids
 - [swc-project/swc-node](https://github.com/swc-project/swc-node) - Faster ts-node without typecheck
 - [prisma-korea/graphql-schema-generator](https://github.com/prisma-korea/graphql-schema-generator) - Generate GraphQL Schema from Prisma schema.
