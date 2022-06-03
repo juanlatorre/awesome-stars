@@ -672,6 +672,7 @@
 
 ## TypeScript 
 
+- [DominicTobias/react-image-crop](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React
 - [ts-plugin/ts-import-plugin](https://github.com/ts-plugin/ts-import-plugin) - babel-import-plugin TypeScript Implement
 - [Minigugus/bazx](https://github.com/Minigugus/bazx) - 🐚️ zx on 💊️ steroids
 - [swc-project/swc-node](https://github.com/swc-project/swc-node) - Faster ts-node without typecheck
