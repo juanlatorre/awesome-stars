@@ -860,7 +860,7 @@
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate) - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
-- [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
 - [PabloSzx/react-state-selector](https://github.com/PabloSzx/react-state-selector) - Performant, type safe and easy React global state manager
 - [PabloSzx/Nextjs-Altair](https://github.com/PabloSzx/Nextjs-Altair) - 
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
@@ -902,6 +902,7 @@
 
 ## Vue 
 
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
 - [Kholid060/projectile](https://github.com/Kholid060/projectile) - An app for managing your JavaScript projects
 - [XboxYan/coupon](https://github.com/XboxYan/coupon) - 🎫 Generate Coupon-UI CSS code
 - [slidevjs/themes](https://github.com/slidevjs/themes) - Official themes for Slidev
