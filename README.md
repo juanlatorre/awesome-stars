@@ -788,7 +788,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [mercurius-js/mercurius-upload](https://github.com/mercurius-js/mercurius-upload) - graphql-upload implementation plugin for Fastify & mercurius
-- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (Preview)
+- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [DylanVann/react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, performant React Native image component.
 - [the-guild-org/the-guild-docs](https://github.com/the-guild-org/the-guild-docs) - Low level and completely custom documentation websites using Next.js
 - [microsoft/folio](https://github.com/microsoft/folio) - A customizable test framework to build your own test frameworks
