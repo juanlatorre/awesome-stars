@@ -675,6 +675,7 @@
 
 ## TypeScript 
 
+- [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx) - ⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript & ESM
 - [remorses/bundless](https://github.com/remorses/bundless) - Dev server and bundler based on esbuild
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [remorses/vitro](https://github.com/remorses/vitro) - Build and showcase your react components in isolation
