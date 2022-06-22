@@ -675,6 +675,8 @@
 
 ## TypeScript 
 
+- [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
+- [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx) - ⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript & ESM
 - [remorses/bundless](https://github.com/remorses/bundless) - Dev server and bundler based on esbuild
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
