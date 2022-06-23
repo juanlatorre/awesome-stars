@@ -282,6 +282,7 @@
 
 ## JavaScript 
 
+- [jcubic/gaiman](https://github.com/jcubic/gaiman) - Gaiman: Text based game engine and programming language
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2022)
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [Minigugus/zx-deno](https://github.com/Minigugus/zx-deno) - A tool for writing better scripts
