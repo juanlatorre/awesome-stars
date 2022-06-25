@@ -660,6 +660,7 @@
 
 ## Svelte 
 
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 - [open-source-labs/SvelteStorm](https://github.com/open-source-labs/SvelteStorm) - SvelteStorm is an open-source IDE with a built-in State Manager window for viewing your svelte project in real-time
 - [sveltejs/site-kit](https://github.com/sveltejs/site-kit) - This repo is no longer maintained or used for new sites. See https://github.com/sveltejs/sites
 - [juanlatorre/kafa.studio](https://github.com/juanlatorre/kafa.studio) - Kafa Studio website & portfolio.
@@ -676,6 +677,12 @@
 
 ## TypeScript 
 
+- [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - Create elegant screenshots of your source code. Built with SolidJS
+- [Mokshit06/solid-table](https://github.com/Mokshit06/solid-table) - Lightweight and extensible data tables for SolidJS. Made for SolidHack (available on npm as @tanstack/solid-table)
+- [aminya/solid-simple-table](https://github.com/aminya/solid-simple-table) - Blazing fast Table component with solid-js
+- [FormidableLabs/react-native-zephyr](https://github.com/FormidableLabs/react-native-zephyr) - TailwindCSS-inspired styling library for React Native.
+- [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx) - ⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript & ESM
