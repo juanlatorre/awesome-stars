@@ -409,7 +409,6 @@
 - [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs) - React server side rendering support for Fastify with Next
 - [talut/react-native-wizard](https://github.com/talut/react-native-wizard) - Easy, convenient, quick-forming Wizard component for React Native
 - [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide) - Repo for the OpenCore Install Guide
-- [hoangvvo/next-connect](https://github.com/hoangvvo/next-connect) - The TypeScript-ready, minimal router and middleware layer for Next.js, Micro, Vercel, or Node.js http/http2
 - [Hermanya/react-blob](https://github.com/Hermanya/react-blob) - 💧React component that looks like liquid in space
 - [dominikg/svite](https://github.com/dominikg/svite) - svelte integration for vite
 - [jonnius/gnome-system-menu](https://github.com/jonnius/gnome-system-menu) - Gnome-Shell extension that creates a system menu on top panel
@@ -867,6 +866,7 @@
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle 🖼
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [ronami/typelang](https://github.com/ronami/typelang) - 🌳 A tiny language interpreter implemented purely in TypeScript's type-system
+- [hoangvvo/next-connect](https://github.com/hoangvvo/next-connect) - The TypeScript-ready, minimal router and middleware layer for Next.js, Micro, Vercel, or Node.js http/http2
 - [eggheadio/egghead-next](https://github.com/eggheadio/egghead-next) - The frontend for egghead.io.
 - [EvanBacon/react-native-web-hooks](https://github.com/EvanBacon/react-native-web-hooks) - Hooks for React Native web and Expo
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
