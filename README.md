@@ -49,6 +49,7 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+- [Zig](#zig)
 
 ## Assembly 
 
@@ -676,6 +677,7 @@
 
 ## TypeScript 
 
+- [tricinel/highlight-words](https://github.com/tricinel/highlight-words) - Split a piece text into multiple chunks based on a search query, allowing you to highlight the matches afterwards.
 - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - Create elegant screenshots of your source code. Built with SolidJS
 - [Mokshit06/solid-table](https://github.com/Mokshit06/solid-table) - Lightweight and extensible data tables for SolidJS. Made for SolidHack (available on npm as @tanstack/solid-table)
 - [aminya/solid-simple-table](https://github.com/aminya/solid-simple-table) - Blazing fast Table component with solid-js
@@ -929,6 +931,10 @@
 - [slidevjs/themes](https://github.com/slidevjs/themes) - Official themes for Slidev
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [DCzajkowski/vue-pure-lightbox](https://github.com/DCzajkowski/vue-pure-lightbox) - Very simple lightbox plugin (without any dependencies) for Vuejs 🌅
+
+## Zig 
+
+- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 
 
 ## License
