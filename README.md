@@ -876,7 +876,7 @@
 - [rsify/pico](https://github.com/rsify/pico) - Take browser screenshots in Javascript  📸
 - [Sharcoux/rn-css](https://github.com/Sharcoux/rn-css) - Brings CSS to React-Native
 - [pbteja1998/github-jobs-client](https://github.com/pbteja1998/github-jobs-client) - Clone of GitHub Jobs website using the design from Frontend Mentor.
-- [MichalLytek/typegraphql-prisma](https://github.com/MichalLytek/typegraphql-prisma) - Prisma 2 generator to emit TypeGraphQL types and CRUD resolvers from your Prisma 2 schema
+- [MichalLytek/typegraphql-prisma](https://github.com/MichalLytek/typegraphql-prisma) - Prisma generator to emit TypeGraphQL types and CRUD resolvers from your Prisma schema
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [maticzav/graphql-shield](https://github.com/maticzav/graphql-shield) - 🛡 A GraphQL tool to ease the creation of permission layer.
 - [nickredmark/ooth](https://github.com/nickredmark/ooth) - User identity/authentication/accounts management microservice for node.js
