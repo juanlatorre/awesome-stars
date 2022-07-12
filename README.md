@@ -338,7 +338,7 @@
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [nicolashmln/strapi-plugin-oembed](https://github.com/nicolashmln/strapi-plugin-oembed) - Embed content from third party sites (Youtube, Vimeo, Soundcloud, ...) in Strapi
 - [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart) - Strapi Plugin displays Entity Relationship Diagram of all models, fields and relations.
-- [strapi/awesome-strapi](https://github.com/strapi/awesome-strapi) - A curated list of awesome things related to Strapi
+- [strapi-community/awesome-strapi](https://github.com/strapi-community/awesome-strapi) - A curated list of awesome things related to Strapi
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [oblador/react-native-collapsible](https://github.com/oblador/react-native-collapsible) - Animated collapsible component for React Native, good for accordions, toggles etc
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
