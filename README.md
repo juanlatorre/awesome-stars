@@ -67,7 +67,7 @@
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [OpenIntelWireless/itlwm](https://github.com/OpenIntelWireless/itlwm) - Intel Wi-Fi Drivers for macOS
 - [AppleIntelWifi/adapter](https://github.com/AppleIntelWifi/adapter) - Kext providing initial support for Intel wireless devices
-- [GodotExplorer/ECMAScript](https://github.com/GodotExplorer/ECMAScript) - Javascript binding for godotengine
+- [Geequlim/ECMAScript](https://github.com/Geequlim/ECMAScript) - Javascript binding for godotengine
 - [lualiliu/esp32-gameboy](https://github.com/lualiliu/esp32-gameboy) - ESP32 Gameboy emulation based on Arduino
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
