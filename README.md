@@ -284,6 +284,7 @@
 
 ## JavaScript 
 
+- [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [jcubic/gaiman](https://github.com/jcubic/gaiman) - Gaiman: Text based game engine and programming language
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2022)
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
@@ -680,6 +681,7 @@
 
 ## TypeScript 
 
+- [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [tricinel/highlight-words](https://github.com/tricinel/highlight-words) - Split a piece text into multiple chunks based on a search query, allowing you to highlight the matches afterwards.
 - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - Create elegant screenshots of your source code. Built with SolidJS
 - [Mokshit06/solid-table](https://github.com/Mokshit06/solid-table) - Lightweight and extensible data tables for SolidJS. Made for SolidHack (available on npm as @tanstack/solid-table)
@@ -798,7 +800,7 @@
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
 - [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
 - [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
-- [dapilab/react-nice-avatar](https://github.com/dapilab/react-nice-avatar) - react library for generating avatar
+- [dapi-labs/react-nice-avatar](https://github.com/dapi-labs/react-nice-avatar) - react library for generating avatar
 - [ammarahm-ed/react-native-actions-sheet](https://github.com/ammarahm-ed/react-native-actions-sheet) - A Cross Platform(Android & iOS) ActionSheet with a flexible api, native performance and zero dependency code for react native. Create anything you want inside ActionSheet.
 - [CaioQuirinoMedeiros/react-native-mask-input](https://github.com/CaioQuirinoMedeiros/react-native-mask-input) - 🎭:iphone: A simple and effective Text Input with mask for ReactNative on iOS and Android. Includes obfuscation characters feature.
 - [nandorojo/react-navigation-heavy-screen](https://github.com/nandorojo/react-navigation-heavy-screen) - ⚡️Optimize heavy screens to prevent lags during React Navigation transitions.
