@@ -383,7 +383,7 @@
 - [wooorm/xdm](https://github.com/wooorm/xdm) - Just a *really* good MDX compiler. No runtime. With esbuild, Rollup, and webpack plugins
 - [Kishanjvaghela/react-native-cardview](https://github.com/Kishanjvaghela/react-native-cardview) - Native CardView for react-native (All Android version and iOS)
 - [marcocesarato/react-native-input-spinner](https://github.com/marcocesarato/react-native-input-spinner) - An extensible input number spinner component for react-native highly customizable. This component enhance a text input for entering numeric values, with increase and decrease buttons.
-- [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
+- [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [guiyep/react-select-virtualized](https://github.com/guiyep/react-select-virtualized) - react-select v5 + react-virtualized + react hooks!
 - [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, vuejs vitepress, TinaCMS, Shopify Polaris, Ant Design, Astro,  hashicorp, garden, slidev, saber, s
 - [jpuri/react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - A Wysiwyg editor build on top of ReactJS and DraftJS. https://jpuri.github.io/react-draft-wysiwyg
@@ -429,7 +429,6 @@
 - [sohobloo/react-native-modal-dropdown](https://github.com/sohobloo/react-native-modal-dropdown) - A react-native dropdown/picker/selector component for both Android & iOS.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [Rich-Harris/superjson-and-devalue](https://github.com/Rich-Harris/superjson-and-devalue) - quick script to compare superjson and devalue
-- [serpent-os/website](https://github.com/serpent-os/website) - Public website for serpentos.com - built with Hugo
 - [evanw/node-source-map-support](https://github.com/evanw/node-source-map-support) - Adds source map support to node.js (for stack traces)
 - [malinajs/malinajs](https://github.com/malinajs/malinajs) - Frontend compiler, inspired by Svelte
 - [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
@@ -734,7 +733,7 @@
 - [blitz-js/superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [graphql-compose/graphql-compose](https://github.com/graphql-compose/graphql-compose) - Toolkit for generating complex GraphQL Schemas on Node.js
-- [rakkasjs/rakkasjs](https://github.com/rakkasjs/rakkasjs) - Lightning fast Next.js alternative powered by Vite
+- [rakkasjs/rakkasjs](https://github.com/rakkasjs/rakkasjs) - Bleeding-edge React framework powered by Vite
 - [PabloSzx/ava-4-bob-tsm](https://github.com/PabloSzx/ava-4-bob-tsm) - 
 - [splitbee/react-notion](https://github.com/splitbee/react-notion) - A fast React renderer for Notion pages
 - [splitbee/notion-api-worker](https://github.com/splitbee/notion-api-worker) - Notion as CMS with easy API access
