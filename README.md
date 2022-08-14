@@ -542,7 +542,7 @@
 - [londonappbrewery/Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) - Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
 - [iamshaunjp/svelte-tutorial](https://github.com/iamshaunjp/svelte-tutorial) - All the course files for the Svelete (beginners) playlist on The Net Ninja YouTube channel.
 - [feltcoop/why-svelte](https://github.com/feltcoop/why-svelte) - Why Svelte is our choice for a large web project in 2020
-- [PizzaPokerGuy/ultimate-coding-resources](https://github.com/PizzaPokerGuy/ultimate-coding-resources) - A collection of the best resources for programming, web development, computer science and more.
+- [Dylan-Israel/ultimate-coding-resources](https://github.com/Dylan-Israel/ultimate-coding-resources) - A collection of the best resources for programming, web development, computer science and more.
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
@@ -602,7 +602,6 @@
 
 ## Reason 
 
-- [0no-co/wonka](https://github.com/0no-co/wonka) - 🎩 A fast push & pull stream library for Reason, OCaml, and TypeScript
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 
 ## Ruby 
@@ -717,6 +716,7 @@
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [albingroen/prismabuilder.io](https://github.com/albingroen/prismabuilder.io) - Build your Prisma schema visually in this easy-to-use web based tool
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
+- [0no-co/wonka](https://github.com/0no-co/wonka) - 🎩 A tiny but capable push & pull stream library for TypeScript and Flow
 - [42devs/transbank-sdk-node](https://github.com/42devs/transbank-sdk-node) - NodeJS sdk for Transbank Products
 - [TransbankDevelopers/transbank-sdk-nodejs](https://github.com/TransbankDevelopers/transbank-sdk-nodejs) - Código fuente Transbank SDK para Node.js
 - [dotansimha/graphql-yoga](https://github.com/dotansimha/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements W3C Fetch API and can run/deploy on any JS environment.
