@@ -801,7 +801,7 @@
 - [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API.
 - [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
 - [dapi-labs/react-nice-avatar](https://github.com/dapi-labs/react-nice-avatar) - react library for generating avatar
-- [ammarahm-ed/react-native-actions-sheet](https://github.com/ammarahm-ed/react-native-actions-sheet) - A Cross Platform(Android & iOS) ActionSheet with a flexible api, native performance and zero dependency code for react native. Create anything you want inside ActionSheet.
+- [ammarahm-ed/react-native-actions-sheet](https://github.com/ammarahm-ed/react-native-actions-sheet) - A Cross Platform(Android, iOS & Web) ActionSheet with a flexible api, native performance and zero dependency code for react native. Create anything you want inside ActionSheet.
 - [CaioQuirinoMedeiros/react-native-mask-input](https://github.com/CaioQuirinoMedeiros/react-native-mask-input) - 🎭:iphone: A simple and effective Text Input with mask for ReactNative on iOS and Android. Includes obfuscation characters feature.
 - [nandorojo/react-navigation-heavy-screen](https://github.com/nandorojo/react-navigation-heavy-screen) - ⚡️Optimize heavy screens to prevent lags during React Navigation transitions.
 - [egoist/doko](https://github.com/egoist/doko) - A docker-based development dependency manager.
