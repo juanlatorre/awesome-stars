@@ -510,7 +510,6 @@
 
 - [pixel-point/mute-me](https://github.com/pixel-point/mute-me) - App is replaced by the new version which called Mutify
 - [tectiv3/react-native-aes](https://github.com/tectiv3/react-native-aes) - Native module for AES encryption
-- [react-native-async-storage/async-storage](https://github.com/react-native-async-storage/async-storage) - An asynchronous, persistent, key-value storage system for React Native.
 - [acidanthera/MaciASL](https://github.com/acidanthera/MaciASL) - ACPI editing IDE for macOS
 - [maxs15/react-native-spinkit](https://github.com/maxs15/react-native-spinkit) - A collection of animated loading indicators for React Native
 - [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower) - MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina.
@@ -814,6 +813,7 @@
 - [marmelab/ra-datagrid](https://github.com/marmelab/ra-datagrid) - Integration of Material-ui's &lt;Datagrid&gt; into react-admin
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
+- [react-native-async-storage/async-storage](https://github.com/react-native-async-storage/async-storage) - An asynchronous, persistent, key-value storage system for React Native.
 - [mercurius-js/mercurius-upload](https://github.com/mercurius-js/mercurius-upload) - graphql-upload implementation plugin for Fastify & mercurius
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [DylanVann/react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, performant React Native image component.
