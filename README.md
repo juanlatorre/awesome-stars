@@ -897,7 +897,7 @@
 - [jsartisan/react-native-magnus](https://github.com/jsartisan/react-native-magnus) - A Utility-First React Native UI Framework 🚀🧩
 - [alexZajac/react-native-skeleton-content](https://github.com/alexZajac/react-native-skeleton-content) - A customizable skeleton-like loading placeholder for react native projects using expo.
 - [react-navigation/hooks](https://github.com/react-navigation/hooks) - React hooks for convenient react-navigation use
-- [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's cutting edge React Native project boilerplate, along with a CLI, component/model generators, and more!
+- [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
 - [jeffijoe/typesync](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
 - [PabloSzx/git-polling-worker-ci](https://github.com/PabloSzx/git-polling-worker-ci) - Minimal Git CI Polling solution.
 - [bestofjs/bestofjs-webui](https://github.com/bestofjs/bestofjs-webui) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
