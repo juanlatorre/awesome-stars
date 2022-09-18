@@ -104,7 +104,7 @@
 - [stdcpp-audio/libstdaudio](https://github.com/stdcpp-audio/libstdaudio) - Implementation of P1386
 - [SachinGanesh/screenshot](https://github.com/SachinGanesh/screenshot) - Flutter Screenshot Library
 - [kushview/Element](https://github.com/kushview/Element) - Element Audio Plugin Host
-- [ehopperdietzel/Levels-Pro](https://github.com/ehopperdietzel/Levels-Pro) - A free, open source and multi-platform DAW.
+- [CuarzoSoftware/Levels-Pro](https://github.com/CuarzoSoftware/Levels-Pro) - A free, open source and multi-platform DAW.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
@@ -115,7 +115,7 @@
 - [probonopd/ubunsys](https://github.com/probonopd/ubunsys) - Configurable app designed for Ubuntu 17.04 (zesty) referent to packages, updates and configurations.
 - [jichu4n/basic_wm](https://github.com/jichu4n/basic_wm) - An example basic X11 window manager.
 - [AppImage/AppImageUpdate](https://github.com/AppImage/AppImageUpdate) - AppImageUpdate lets you update AppImages in a decentral way using information embedded in the AppImage itself.
-- [ehopperdietzel/CuarzoPlayer](https://github.com/ehopperdietzel/CuarzoPlayer) - A free multi-platform Cloud Music Player
+- [CuarzoSoftware/CuarzoPlayer](https://github.com/CuarzoSoftware/CuarzoPlayer) - A free multi-platform Cloud Music Player
 
 ## CSS 
 
@@ -648,7 +648,7 @@
 - [mrts/docker-postgresql-multiple-databases](https://github.com/mrts/docker-postgresql-multiple-databases) - Using multiple databases with the official PostgreSQL Docker image
 - [yobasystems/alpine-prestashop](https://github.com/yobasystems/alpine-prestashop) - Prestashop running on Alpine Linux [Docker]
 - [rusty-bits/OC-tool](https://github.com/rusty-bits/OC-tool) - POSIX shell script that builds an OpenCore EFI folder from an OpenCore config.plist
-- [ehopperdietzel/AudioBox](https://github.com/ehopperdietzel/AudioBox) - A free and open source SDK for audio plugins.
+- [CuarzoSoftware/AudioBox](https://github.com/CuarzoSoftware/AudioBox) - A free and open source SDK for audio plugins.
 - [Gictorbit/photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Photoshop CC v19  installer for Gnu/Linux
 - [puneetsl/lotion](https://github.com/puneetsl/lotion) - Unofficial Notion.so app for Linux
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
