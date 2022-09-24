@@ -114,7 +114,7 @@
 - [adgellida/ubunsys](https://github.com/adgellida/ubunsys) - STATUS: ACTIVE DEVELOPMENT ▶️ - Configure dark and deep aspects in your Ubuntu
 - [probonopd/ubunsys](https://github.com/probonopd/ubunsys) - Configurable app designed for Ubuntu 17.04 (zesty) referent to packages, updates and configurations.
 - [jichu4n/basic_wm](https://github.com/jichu4n/basic_wm) - An example basic X11 window manager.
-- [AppImage/AppImageUpdate](https://github.com/AppImage/AppImageUpdate) - AppImageUpdate lets you update AppImages in a decentral way using information embedded in the AppImage itself.
+- [AppImageCommunity/AppImageUpdate](https://github.com/AppImageCommunity/AppImageUpdate) - AppImageUpdate lets you update AppImages in a decentral way using information embedded in the AppImage itself.
 - [CuarzoSoftware/CuarzoPlayer](https://github.com/CuarzoSoftware/CuarzoPlayer) - A free multi-platform Cloud Music Player
 
 ## CSS 
