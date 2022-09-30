@@ -239,6 +239,7 @@
 
 ## HTML 
 
+- [RootMyTV/RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io) - RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
 - [jasonlong/jasonlong](https://github.com/jasonlong/jasonlong) - 
 - [bmeck/proposal-from-import](https://github.com/bmeck/proposal-from-import) - AKA: make code completion work.
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
