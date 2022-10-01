@@ -270,6 +270,7 @@
 - [cisagov/log4j-scanner](https://github.com/cisagov/log4j-scanner) - log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities.
 - [zoontek/react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash) - 🚀 Show a splash screen during app startup. Hide it when you are ready.
 - [zo0r/react-native-push-notification](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
+- [thebergamo/react-native-fbsdk-next](https://github.com/thebergamo/react-native-fbsdk-next) - 
 - [henninghall/react-native-date-picker](https://github.com/henninghall/react-native-date-picker) - React Native Date Picker is datetime picker for Android and iOS. It includes date, time and datetime picker modes. The datepicker is customizable and is supporting different languages. It's written wi
 - [react-native-video/react-native-video](https://github.com/react-native-video/react-native-video) - A &lt;Video /&gt; component for react-native
 - [react-native-svg/react-native-svg](https://github.com/react-native-svg/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
@@ -722,7 +723,7 @@
 - [42devs/transbank-sdk-node](https://github.com/42devs/transbank-sdk-node) - NodeJS sdk for Transbank Products
 - [TransbankDevelopers/transbank-sdk-nodejs](https://github.com/TransbankDevelopers/transbank-sdk-nodejs) - Código fuente Transbank SDK para Node.js
 - [dotansimha/graphql-yoga](https://github.com/dotansimha/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements W3C Fetch API and can run/deploy on any JS environment.
-- [jamiepine/prismix](https://github.com/jamiepine/prismix) - The Prisma schema mixer 🍜
+- [jamiepine/prismix](https://github.com/jamiepine/prismix) - The Prisma schema mixer 🍹
 - [sabinadams/aurora](https://github.com/sabinadams/aurora) - CLI tool that orchestrates prisma files in a way that allows multiple .prisma files with cross-relations
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [valentinpalkovic/prisma-json-schema-generator](https://github.com/valentinpalkovic/prisma-json-schema-generator) - A generator for Prisma 2 to generate a valid JSON Schema (v7)
@@ -774,7 +775,6 @@
 - [CofferHub/react-native-section-alphabet](https://github.com/CofferHub/react-native-section-alphabet) - A simple React Native component that takes an array of data and renders a section with alphabetically sorted data
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
-- [thebergamo/react-native-fbsdk-next](https://github.com/thebergamo/react-native-fbsdk-next) - 
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
 - [dev-yakuza/react-native-image-modal](https://github.com/dev-yakuza/react-native-image-modal) - the simple image modal for React Native
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
