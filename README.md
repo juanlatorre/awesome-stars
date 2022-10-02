@@ -479,7 +479,7 @@
 
 ## Jupyter Notebook 
 
-- [ehopperdietzel/billionaires-analysis](https://github.com/ehopperdietzel/billionaires-analysis) - Análisis de la cantidad de billonarios por país. Inspirado en el artículo "Russia Billionaires"
+- [ehopperdietzel/billionaires-analysis](https://github.com/ehopperdietzel/billionaires-analysis) - Análisis de la cantidad de billonarios por país. Inspirado en el artículo "Russian Billionaires"
 - [google/android-management-api-samples](https://github.com/google/android-management-api-samples) - 
 
 ## Kotlin 
