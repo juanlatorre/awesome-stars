@@ -29,6 +29,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Markdown](#markdown)
 - [Mustache](#mustache)
 - [Nim](#nim)
 - [OCaml](#ocaml)
@@ -174,7 +175,7 @@
 - [bluemix/Gradient-Widgets](https://github.com/bluemix/Gradient-Widgets) - Flutter widgets wrapped with gradients
 - [inway/flutter_ringtone_player](https://github.com/inway/flutter_ringtone_player) - Simple Flutter plugin to play ringtone, alarm & notification sounds
 - [Vanethos/flutter_notification_permissions](https://github.com/Vanethos/flutter_notification_permissions) - Plugin for Flutter to check and ask for Notification Permissions
-- [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine
+- [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [themaaz32/hive_learn](https://github.com/themaaz32/hive_learn) - 
 - [iampawan/FlutterEssentialEnglish](https://github.com/iampawan/FlutterEssentialEnglish) - Flutter Essential English Course For MTechViral School
 - [themaaz32/mobx_implementation](https://github.com/themaaz32/mobx_implementation) - 
@@ -497,6 +498,10 @@
 - [CuarzoSoftware/CuarzoBrowser](https://github.com/CuarzoSoftware/CuarzoBrowser) - The Cuarzo OS Web Browser
 - [13rac1/emojione-color-font](https://github.com/13rac1/emojione-color-font) - End of Life. Switch to https://github.com/eosrei/twemoji-color-font
 
+## Markdown 
+
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+
 ## Mustache 
 
 - [mailchimp/mailchimp-client-lib-codegen](https://github.com/mailchimp/mailchimp-client-lib-codegen) - This tool is used to auto-generate and publish the Mailchimp Marketing and Transactional client libraries.
@@ -531,7 +536,6 @@
 - [stefanbuck/jumpcat](https://github.com/stefanbuck/jumpcat) - A command palette for GitHub (browser extension)
 - [rose-pine/iterm](https://github.com/rose-pine/iterm) - Soho vibes for iTerm2
 - [tekteq/opencanopy-minimal-theme](https://github.com/tekteq/opencanopy-minimal-theme) - Minimal theme for OpenCanopy/OpenCore
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [IonicaBizau/made-in-chile](https://github.com/IonicaBizau/made-in-chile) - 🇨🇱 A list of cool projects made in Chile
 - [dangthaison91/Ryzen-Hackintosh](https://github.com/dangthaison91/Ryzen-Hackintosh) - OpenCore EFI for running macOS on Gigabyte B550 Aorus Pro AX
 - [1hbb/OpenIntelWireless-Factory](https://github.com/1hbb/OpenIntelWireless-Factory) - Open Intel Wireless Factory
