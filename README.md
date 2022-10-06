@@ -104,7 +104,7 @@
 - [jeroendoggen/Arduino-signal-filtering-library](https://github.com/jeroendoggen/Arduino-signal-filtering-library) - Arduino library for signal filtering
 - [stdcpp-audio/libstdaudio](https://github.com/stdcpp-audio/libstdaudio) - Implementation of P1386
 - [SachinGanesh/screenshot](https://github.com/SachinGanesh/screenshot) - Flutter Screenshot Library
-- [kushview/Element](https://github.com/kushview/Element) - Element Audio Plugin Host
+- [kushview/element](https://github.com/kushview/element) - Element Audio Plugin Host
 - [CuarzoSoftware/Levels-Pro](https://github.com/CuarzoSoftware/Levels-Pro) - A free, open source and multi-platform DAW.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
