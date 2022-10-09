@@ -818,7 +818,7 @@
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 - [marmelab/ra-datagrid](https://github.com/marmelab/ra-datagrid) - Integration of Material-ui's &lt;Datagrid&gt; into react-admin
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [react-native-async-storage/async-storage](https://github.com/react-native-async-storage/async-storage) - An asynchronous, persistent, key-value storage system for React Native.
 - [mercurius-js/mercurius-upload](https://github.com/mercurius-js/mercurius-upload) - graphql-upload implementation plugin for Fastify & mercurius
