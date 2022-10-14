@@ -381,7 +381,6 @@
 - [phil-r/react-native-grid-component](https://github.com/phil-r/react-native-grid-component) - :black_square_button: React native grid component
 - [sauzy34/react-native-multi-selectbox](https://github.com/sauzy34/react-native-multi-selectbox) - Platform independent (Android / iOS) Selectbox | Picker | Multi-select | Multi-picker. The idea is to bring out the common user interface & user experience on both platforms.
 - [moschan/react-native-simple-radio-button](https://github.com/moschan/react-native-simple-radio-button) - Simple and handy animated radio button component for React Native
-- [rcaferati/react-native-really-awesome-button](https://github.com/rcaferati/react-native-really-awesome-button) - React Native button component. Awesome Button is a 3D at 60fps, progress enabled, social ready, extendable, production ready component that renders an awesome animated set of UI buttons. 📱
 - [Rich-Harris/magic-string](https://github.com/Rich-Harris/magic-string) - Manipulate strings like a wizard
 - [wooorm/xdm](https://github.com/wooorm/xdm) - Just a *really* good MDX compiler. No runtime. With esbuild, Rollup, and webpack plugins
 - [Kishanjvaghela/react-native-cardview](https://github.com/Kishanjvaghela/react-native-cardview) - Native CardView for react-native (All Android version and iOS)
@@ -827,6 +826,7 @@
 - [the-guild-org/the-guild-docs](https://github.com/the-guild-org/the-guild-docs) - Low level and completely custom documentation websites using Next.js
 - [microsoft/folio](https://github.com/microsoft/folio) - A customizable test framework to build your own test frameworks
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
+- [rcaferati/react-native-really-awesome-button](https://github.com/rcaferati/react-native-really-awesome-button) - React Native button component. Awesome Button is a 3D at 60fps, progress enabled, social ready, extendable, production ready component that renders an awesome animated set of UI buttons. 📱
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [Purii/react-use-scrollspy](https://github.com/Purii/react-use-scrollspy) - Flexible React Hook to automatically update navigation based on scroll position
 - [yujong-lee/react-native-switch-toggle](https://github.com/yujong-lee/react-native-switch-toggle) - react-native switch toggle button component.
