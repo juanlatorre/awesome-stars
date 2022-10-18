@@ -120,7 +120,7 @@
 
 ## CSS 
 
-- [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - Meticulously designed to make Obsidian feel native across platforms. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings.
+- [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [JeremyMeissner/slidev-theme-apple-basic](https://github.com/JeremyMeissner/slidev-theme-apple-basic) - An Apple like theme for Slidev
 - [csstools/postcss-nesting](https://github.com/csstools/postcss-nesting) - Nest style rules inside each other
@@ -595,7 +595,7 @@
 - [fallaciousreasoning/CalibreLibgenStore](https://github.com/fallaciousreasoning/CalibreLibgenStore) - A Libgen Fiction store plugin for Calibre
 - [i-tu/Hasklig](https://github.com/i-tu/Hasklig) - Hasklig - a code font with monospaced ligatures
 - [jchao01/TradingView-data-scraper](https://github.com/jchao01/TradingView-data-scraper) - Extract price and indicator data from TradingView charts to create ML datasets
-- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [jarvisteach/appJar](https://github.com/jarvisteach/appJar) - Simple Tkinter GUIs in Python
 - [skulpt/skulpt](https://github.com/skulpt/skulpt) - Skulpt is a Javascript implementation of the Python programming language
 - [replit-archive/empythoned](https://github.com/replit-archive/empythoned) - CPython compiled to JS using emscripten
