@@ -13,6 +13,7 @@
 - [CSS](#css)
 - [CoffeeScript](#coffeescript)
 - [Crystal](#crystal)
+- [Cython](#cython)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -36,7 +37,6 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
-- [PLpgSQL](#plpgsql)
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -137,6 +137,10 @@
 
 - [grkek/haki](https://github.com/grkek/haki) - Build native apps using GTK3+ and a dialect of HTML, declarative format allows you to create advanced structures with ease.
 
+## Cython 
+
+- [MeViMo/youbit](https://github.com/MeViMo/youbit) - Host any type of file on YouTube
+
 ## Dart 
 
 - [duytq94/flutter-fb-reactions-animation](https://github.com/duytq94/flutter-fb-reactions-animation) - The app to demo animation with Flutter by implement Facebook reactions
@@ -221,7 +225,7 @@
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
-- [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
+- [vercel/turbo](https://github.com/vercel/turbo) - The High-performance Build System for JavaScript & TypeScript Codebases
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -567,10 +571,6 @@
 - [micthiesen/bootstrap-theme](https://github.com/micthiesen/bootstrap-theme) - A simple Bootstrap theme for GetSimple CMS
 - [jackilyn/bootstrap-contact](https://github.com/jackilyn/bootstrap-contact) - Simple PHP contact form using bootstrap and the jQuery validation plugin.
 
-## PLpgSQL 
-
-- [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
-
 ## Perl 
 
 - [imapsync/imapsync](https://github.com/imapsync/imapsync) - Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two oth
@@ -581,7 +581,6 @@
 
 ## Python 
 
-- [MeViMo/youbit](https://github.com/MeViMo/youbit) - Using YouTube as a free file hosting service
 - [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data
 - [kbumsik/VirtScreen](https://github.com/kbumsik/VirtScreen) - Make your iPad/tablet/computer into a secondary monitor on Linux.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
@@ -624,6 +623,7 @@
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [maplibre/maplibre-rs](https://github.com/maplibre/maplibre-rs) - Native Maps for Web, Mobile and Desktop
+- [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
 - [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) - 💡 Experimental real-time global illumination renderer 🦀
 - [rustwasm/twiggy](https://github.com/rustwasm/twiggy) - Twiggy🌱 is a code size profiler
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
