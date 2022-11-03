@@ -685,6 +685,7 @@
 
 ## TypeScript 
 
+- [spinamp/spinamp-sdk](https://github.com/spinamp/spinamp-sdk) - Build new experiences across the growing web3 music ecosystem
 - [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager) - Project Manager Extension for Visual Studio Code
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
