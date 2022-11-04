@@ -764,7 +764,7 @@
 - [gmrchk/blobity](https://github.com/gmrchk/blobity) - The cursor is the heart of any interaction with the web. Why not take it to the next level? 🚀
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [slicknode/graphql-query-complexity](https://github.com/slicknode/graphql-query-complexity) - GraphQL query complexity analysis and validation for graphql-js
-- [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, and other Web-interoperable runtimes.
+- [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [PabloSzx/altair-static-slim](https://github.com/PabloSzx/altair-static-slim) - Re-publish of altair-static without any dependency required
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 Powerful routing and search-params for JS/TS, React, Solid, Vue and Svelte
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
