@@ -11,7 +11,6 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
-- [CoffeeScript](#coffeescript)
 - [Crystal](#crystal)
 - [Cython](#cython)
 - [Dart](#dart)
@@ -62,6 +61,7 @@
 
 ## C 
 
+- [HaxeFoundation/hashlink](https://github.com/HaxeFoundation/hashlink) - A virtual machine for Haxe
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter, and the most universal runtime
 - [eduard-permyakov/permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine) - An OpenGL RTS game engine written in C
@@ -129,10 +129,6 @@
 - [cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101) - Learn how to bring animation to your web projects
 - [HaxeFlixel/flixel-docs](https://github.com/HaxeFlixel/flixel-docs) - Documentation for HaxeFlixel
 - [caainfuach/material](https://github.com/caainfuach/material) - 
-
-## CoffeeScript 
-
-- [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 
 ## Crystal 
 
@@ -292,6 +288,7 @@
 
 ## JavaScript 
 
+- [platformatic/platformatic](https://github.com/platformatic/platformatic) - Platformatic Open Source monorepo!
 - [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [jcubic/gaiman](https://github.com/jcubic/gaiman) - Gaiman: Text based game engine and programming language
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
@@ -469,6 +466,7 @@
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [jaebradley/uber-cli](https://github.com/jaebradley/uber-cli) - 🚗Uber, at your fingertips
+- [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [ehopperdietzel/Google-Drive-Node-App](https://github.com/ehopperdietzel/Google-Drive-Node-App) - Freelancer Projects
 - [ehopperdietzel/fraternidadwash](https://github.com/ehopperdietzel/fraternidadwash) - Red social para alumnos de la Universidad Austral de Chile.
 - [tec27/seatcamp](https://github.com/tec27/seatcamp) - HTML5-based ephemeral video chat. IRC with selfies! The official server of Meatspace
