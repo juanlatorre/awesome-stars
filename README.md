@@ -481,6 +481,7 @@
 
 ## Jupyter Notebook 
 
+- [CuarzoSoftware/Louvre](https://github.com/CuarzoSoftware/Louvre) - Librería C++ gratuita para crear compositores Wayland.
 - [ehopperdietzel/billionaires-analysis](https://github.com/ehopperdietzel/billionaires-analysis) - Análisis de la cantidad de billonarios por país. Inspirado en el artículo "Russian Billionaires"
 - [google/android-management-api-samples](https://github.com/google/android-management-api-samples) - 
 
@@ -868,7 +869,7 @@
 - [Novvum/graphql-birdseye](https://github.com/Novvum/graphql-birdseye) - View any GraphQL schema as a dynamic and interactive graph. 🦅
 - [IvanGoncharov/graphql-faker](https://github.com/IvanGoncharov/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
 - [IvanGoncharov/graphql-voyager](https://github.com/IvanGoncharov/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
-- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible.
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [astoilkov/use-local-storage-state](https://github.com/astoilkov/use-local-storage-state) - React hook that persists data in localStorage
