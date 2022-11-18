@@ -685,6 +685,7 @@
 
 ## TypeScript 
 
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - Quickest way to start a new web app with full stack typesafety
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [spinamp/spinamp-sdk](https://github.com/spinamp/spinamp-sdk) - Build new experiences across the growing web3 music ecosystem
 - [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager) - Project Manager Extension for Visual Studio Code
