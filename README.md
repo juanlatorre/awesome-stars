@@ -211,6 +211,7 @@
 
 ## GDScript 
 
+- [nagidev/godot-tutorials](https://github.com/nagidev/godot-tutorials) - 
 - [dirkk0/nodejs-godot-websockets](https://github.com/dirkk0/nodejs-godot-websockets) - Example of combining a nodejs server with a Godot client via websockets and compiling it to Android.
 
 ## Go 
