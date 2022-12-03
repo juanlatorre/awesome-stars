@@ -408,7 +408,6 @@
 - [KyleAMathews/react-headroom](https://github.com/KyleAMathews/react-headroom) - Hide your header until you need it
 - [moroshko/react-autosuggest](https://github.com/moroshko/react-autosuggest) - WAI-ARIA compliant React autosuggest component
 - [vercel/server-components-notes-demo](https://github.com/vercel/server-components-notes-demo) - Experimental demo of React Server Components with Next.js. Deployed serverlessly on Vercel.
-- [shuding/nextra](https://github.com/shuding/nextra) - The Next.js Static Site Generator
 - [reactjs/server-components-demo](https://github.com/reactjs/server-components-demo) - Demo app of React Server Components.
 - [jaydenseric/apollo-upload-examples](https://github.com/jaydenseric/apollo-upload-examples) - A full stack demo of file uploads via GraphQL mutations using Apollo Server and apollo-upload-client.
 - [Ghirro/graphql-network](https://github.com/Ghirro/graphql-network) - Chrome Devtool that provides a "network"-style tab for GraphQL requests to allow developers to debug more easily.
@@ -866,6 +865,7 @@
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕜 Modern Timeline Component for React
 - [swdotcom/swdc-vscode-musictime](https://github.com/swdotcom/swdc-vscode-musictime) - A VS Code extension to discover the most productive music to listen to as you code
 - [natemoo-re/microsite](https://github.com/natemoo-re/microsite) - Do more with less JavaScript. Microsite is a smarter, performance-obsessed static site generator powered by Preact and Snowpack.
+- [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
 - [PabloSzx/next-fastify-mercurius-vercel](https://github.com/PabloSzx/next-fastify-mercurius-vercel) - Template for deploying Fastify+Mercurius in Vercel with Next.js API Routes / Serverless
 - [Novvum/graphql-birdseye](https://github.com/Novvum/graphql-birdseye) - View any GraphQL schema as a dynamic and interactive graph. 🦅
