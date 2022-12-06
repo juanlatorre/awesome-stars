@@ -108,6 +108,7 @@
 - [SachinGanesh/screenshot](https://github.com/SachinGanesh/screenshot) - Flutter Screenshot Library
 - [kushview/element](https://github.com/kushview/element) - Element Audio Plugin Host
 - [CuarzoSoftware/Levels-Pro](https://github.com/CuarzoSoftware/Levels-Pro) - A free, open source and multi-platform DAW.
+- [calebkiage/flutter_animated_circle_progress](https://github.com/calebkiage/flutter_animated_circle_progress) - 
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
@@ -181,7 +182,6 @@
 - [themaaz32/hive_learn](https://github.com/themaaz32/hive_learn) - 
 - [iampawan/FlutterEssentialEnglish](https://github.com/iampawan/FlutterEssentialEnglish) - Flutter Essential English Course For MTechViral School
 - [themaaz32/mobx_implementation](https://github.com/themaaz32/mobx_implementation) - 
-- [calebkiage/flutter_animated_circle_progress](https://github.com/calebkiage/flutter_animated_circle_progress) - 
 - [benjamin-kraatz/material_segmented_control](https://github.com/benjamin-kraatz/material_segmented_control) - A Material styled segmented control with full control over behavior and design.
 - [iampawan/Coronavirus-Warrior](https://github.com/iampawan/Coronavirus-Warrior) - A Flutter project to track & help to fight from coronavirus.
 - [toufikzitouni/flutter-bidirectional_scrollview_plugin](https://github.com/toufikzitouni/flutter-bidirectional_scrollview_plugin) - Plugin that provides a bidirectional scrollview
@@ -685,6 +685,7 @@
 
 ## TypeScript 
 
+- [atlassian-labs/compiled](https://github.com/atlassian-labs/compiled) - A familiar and performant compile time CSS-in-JS library for React.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [spinamp/spinamp-sdk](https://github.com/spinamp/spinamp-sdk) - Build new experiences across the growing web3 music ecosystem
