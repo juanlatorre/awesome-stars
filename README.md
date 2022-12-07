@@ -685,6 +685,7 @@
 
 ## TypeScript 
 
+- [hueter/react-native-utility-classes-example](https://github.com/hueter/react-native-utility-classes-example) - How I added CSS utility classes to a React Native project.
 - [atlassian-labs/compiled](https://github.com/atlassian-labs/compiled) - A familiar and performant compile time CSS-in-JS library for React.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
