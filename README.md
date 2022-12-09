@@ -53,7 +53,7 @@
 
 ## Assembly 
 
-- [JustRegularLuna/rpp-backup](https://github.com/JustRegularLuna/rpp-backup) - This repo is for Red++ v3, which is the latest playable version. The repo for v4 has been made "Private" while the update has been on hold, since it is not in a playable state at the moment.
+- [JustRegularLuna/rpp-backup](https://github.com/JustRegularLuna/rpp-backup) - This repo is for Red++ v3, which is the latest playable version. The repo for v4 is not in a playable state at the moment, but dev will be resuming soon.
 
 ## Batchfile 
 
@@ -686,6 +686,7 @@
 
 ## TypeScript 
 
+- [Temzasse/stitches-native](https://github.com/Temzasse/stitches-native) - React Native implementation of Stitches (CSS-in-JS library)
 - [Shopify/restyle](https://github.com/Shopify/restyle) - A type-enforced system for building UI components in React Native with TypeScript.
 - [hueter/react-native-utility-classes-example](https://github.com/hueter/react-native-utility-classes-example) - How I added CSS utility classes to a React Native project.
 - [atlassian-labs/compiled](https://github.com/atlassian-labs/compiled) - A familiar and performant compile time CSS-in-JS library for React.
