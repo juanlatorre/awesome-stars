@@ -291,6 +291,7 @@
 
 ## JavaScript 
 
+- [anvilco/spectaql](https://github.com/anvilco/spectaql) - Autogenerate static GraphQL API documentation
 - [platformatic/platformatic](https://github.com/platformatic/platformatic) - Platformatic Open Source monorepo!
 - [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [jcubic/gaiman](https://github.com/jcubic/gaiman) - Gaiman: Text based game engine and programming language
