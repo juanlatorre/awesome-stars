@@ -338,7 +338,7 @@
 - [tschaub/es-main](https://github.com/tschaub/es-main) - Test if an ES module is run directly (require.main replacement)
 - [lukeed/klona](https://github.com/lukeed/klona) - A tiny (240B to 501B) and fast utility to "deep clone" Objects, Arrays, Dates, RegExps, and more!
 - [fastify/fastify-jwt](https://github.com/fastify/fastify-jwt) - JWT utils for Fastify
-- [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
+- [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [cristianbote/goober](https://github.com/cristianbote/goober) - 🥜 goober, a less than 1KB 🎉  css-in-js alternative with a familiar API
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
 - [invertase/react-native-apple-authentication](https://github.com/invertase/react-native-apple-authentication) - A React Native library providing support for Apple Authentication on iOS and Android.
@@ -698,7 +698,7 @@
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [tricinel/highlight-words](https://github.com/tricinel/highlight-words) - Split a piece text into multiple chunks based on a search query, allowing you to highlight the matches afterwards.
-- [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - Create elegant screenshots of your source code. Built with SolidJS
+- [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool for beautify your code screenshots. Built with SolidJS
 - [Mokshit06/solid-table](https://github.com/Mokshit06/solid-table) - Lightweight and extensible data tables for SolidJS. Made for SolidHack (available on npm as @tanstack/solid-table)
 - [aminya/solid-simple-table](https://github.com/aminya/solid-simple-table) - Blazing fast Table component with solid-js
 - [FormidableLabs/react-native-zephyr](https://github.com/FormidableLabs/react-native-zephyr) - TailwindCSS-inspired styling library for React Native.
