@@ -126,6 +126,7 @@
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [JeremyMeissner/slidev-theme-apple-basic](https://github.com/JeremyMeissner/slidev-theme-apple-basic) - An Apple like theme for Slidev
+- [sveltejs/site-kit](https://github.com/sveltejs/site-kit) - This repo is no longer maintained or used for new sites. See https://github.com/sveltejs/sites
 - [csstools/postcss-nesting](https://github.com/csstools/postcss-nesting) - Nest style rules inside each other
 - [jlongster/blog](https://github.com/jlongster/blog) - All the sources for my (not powered by React anymore) blog
 - [cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101) - Learn how to bring animation to your web projects
@@ -612,7 +613,7 @@
 ## Ruby 
 
 - [Calyhre/eshop-prices](https://github.com/Calyhre/eshop-prices) - DEPRECATED – Nintendo Switch - Full game list with prices
-- [joeyates/imap-backup](https://github.com/joeyates/imap-backup) - Backup GMail (or other IMAP) accounts to disk
+- [joeyates/imap-backup](https://github.com/joeyates/imap-backup) - Backup and Migrate IMAP Email Accounts
 - [brotandgames/ciao](https://github.com/brotandgames/ciao) - HTTP checks & tests (private & public) monitoring - check the status of your URL
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [brandonhilkert/sucker_punch](https://github.com/brandonhilkert/sucker_punch) - Sucker Punch is a Ruby asynchronous processing library using concurrent-ruby, heavily influenced by Sidekiq and girl_friday.
@@ -672,7 +673,6 @@
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 - [open-source-labs/SvelteStorm](https://github.com/open-source-labs/SvelteStorm) - SvelteStorm is an open-source IDE with a built-in Debugging window for viewing and debugging your Svelte project in real-time
-- [sveltejs/site-kit](https://github.com/sveltejs/site-kit) - This repo is no longer maintained or used for new sites. See https://github.com/sveltejs/sites
 - [juanlatorre/kafa.studio](https://github.com/juanlatorre/kafa.studio) - Kafa Studio website & portfolio.
 
 ## Swift 
