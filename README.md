@@ -891,7 +891,7 @@
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [ronami/typelang](https://github.com/ronami/typelang) - 🌳 A tiny language interpreter implemented purely in TypeScript's type-system
 - [hoangvvo/next-connect](https://github.com/hoangvvo/next-connect) - The TypeScript-ready, minimal router and middleware layer for Next.js, Micro, Vercel, or Node.js http/http2
-- [eggheadio/egghead-next](https://github.com/eggheadio/egghead-next) - The frontend for egghead.io.
+- [skillrecordings/egghead-next](https://github.com/skillrecordings/egghead-next) - The frontend for egghead.io.
 - [EvanBacon/react-native-web-hooks](https://github.com/EvanBacon/react-native-web-hooks) - Hooks for React Native web and Expo
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
