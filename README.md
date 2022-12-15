@@ -61,6 +61,7 @@
 
 ## C 
 
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [HaxeFoundation/hashlink](https://github.com/HaxeFoundation/hashlink) - A virtual machine for Haxe
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter, and the most universal runtime
@@ -292,6 +293,7 @@
 
 ## JavaScript 
 
+- [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [anvilco/spectaql](https://github.com/anvilco/spectaql) - Autogenerate static GraphQL API documentation
 - [platformatic/platformatic](https://github.com/platformatic/platformatic) - Platformatic Open Source monorepo!
 - [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
