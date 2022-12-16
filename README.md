@@ -700,7 +700,7 @@
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [tricinel/highlight-words](https://github.com/tricinel/highlight-words) - Split a piece text into multiple chunks based on a search query, allowing you to highlight the matches afterwards.
-- [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool for beautify your code screenshots. Built with SolidJS
+- [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS
 - [Mokshit06/solid-table](https://github.com/Mokshit06/solid-table) - Lightweight and extensible data tables for SolidJS. Made for SolidHack (available on npm as @tanstack/solid-table)
 - [aminya/solid-simple-table](https://github.com/aminya/solid-simple-table) - Blazing fast Table component with solid-js
 - [FormidableLabs/react-native-zephyr](https://github.com/FormidableLabs/react-native-zephyr) - TailwindCSS-inspired styling library for React Native.
@@ -764,7 +764,7 @@
 - [deeplay-io/nice-grpc](https://github.com/deeplay-io/nice-grpc) - A TypeScript gRPC library that is nice to you
 - [stephenh/ts-proto](https://github.com/stephenh/ts-proto) - An idiomatic protobuf generator for TypeScript
 - [dungeon-revealer/dungeon-revealer](https://github.com/dungeon-revealer/dungeon-revealer) - A web app for tabletop gaming to allow the game master to reveal areas of the game map to players, roll dice and take notes.
-- [remorses/genql](https://github.com/remorses/genql) - Type safe Graphql query builder
+- [remorses/genql](https://github.com/remorses/genql) - Type safe TypeScript client for any GraphQL API
 - [remorses/dokz](https://github.com/remorses/dokz) - Effortless documentation with Next.js and MDX
 - [howtographql/howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL
 - [Shopify/hydrogen](https://github.com/Shopify/hydrogen) - React-based framework for building dynamic, Shopify-powered custom storefronts.
