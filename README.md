@@ -281,7 +281,6 @@
 ## Java 
 
 - [cisagov/log4j-scanner](https://github.com/cisagov/log4j-scanner) - log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities.
-- [zoontek/react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash) - 🚀 Show a splash screen during app startup. Hide it when you are ready.
 - [zo0r/react-native-push-notification](https://github.com/zo0r/react-native-push-notification) - React Native Local and Remote Notifications
 - [thebergamo/react-native-fbsdk-next](https://github.com/thebergamo/react-native-fbsdk-next) - 
 - [henninghall/react-native-date-picker](https://github.com/henninghall/react-native-date-picker) - React Native Date Picker is datetime picker for Android and iOS. It includes date, time and datetime picker modes. The datepicker is customizable and is supporting different languages. It's written wi
@@ -342,7 +341,6 @@
 - [breejs/bree](https://github.com/breejs/bree) - Bree is a Node.js and JavaScript job task scheduler with worker threads, cron, Date, and human syntax. Built for @ladjs, @forwardemail, @spamscanner, @cabinjs.
 - [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 - [open-cli-tools/chokidar-cli](https://github.com/open-cli-tools/chokidar-cli) - Fast cross-platform cli utility to watch file system changes
-- [lukeed/resolve.exports](https://github.com/lukeed/resolve.exports) - A tiny (737b), correct, general-purpose, and configurable `"exports"` resolver without file-system reliance
 - [developit/redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
 - [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
 - [tschaub/es-main](https://github.com/tschaub/es-main) - Test if an ES module is run directly (require.main replacement)
@@ -695,6 +693,7 @@
 
 ## TypeScript 
 
+- [nowisf/true](https://github.com/nowisf/true) - pendiente
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [nowisf/TestApi](https://github.com/nowisf/TestApi) - test
 - [Temzasse/stitches-native](https://github.com/Temzasse/stitches-native) - React Native implementation of Stitches (CSS-in-JS library)
@@ -767,6 +766,7 @@
 - [egoist/bina](https://github.com/egoist/bina) - An installer for self-contained, single-file binaries, no additional CLI needed.
 - [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder
 - [Glosseta/glosseta](https://github.com/Glosseta/glosseta) - Glosseta is an open-source glossary meant to help people explore and learn the terminology behind web3
+- [lukeed/resolve.exports](https://github.com/lukeed/resolve.exports) - A tiny (952b), correct, general-purpose, and configurable `"exports"` and `"imports"` resolver without file-system reliance
 - [grpc/grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [PabloSzx/require-env](https://github.com/PabloSzx/require-env) - Require environment variables for your application
 - [deeplay-io/nice-grpc](https://github.com/deeplay-io/nice-grpc) - A TypeScript gRPC library that is nice to you
@@ -795,6 +795,7 @@
 - [VirtusLab-Open-Source/strapi-plugin-comments](https://github.com/VirtusLab-Open-Source/strapi-plugin-comments) - A plugin for Strapi Headless CMS that provides end to end comments feature with their moderation panel, bad words filtering, abuse reporting and more.
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - a GraphQL client built for rapid iteration
 - [CofferHub/react-native-section-alphabet](https://github.com/CofferHub/react-native-section-alphabet) - A simple React Native component that takes an array of data and renders a section with alphabetically sorted data
+- [zoontek/react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash) - 🚀 Show a splash screen during app startup. Hide it when you are ready.
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
