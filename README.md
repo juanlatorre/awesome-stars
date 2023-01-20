@@ -463,7 +463,6 @@
 - [ai/ssdeploy](https://github.com/ai/ssdeploy) - Netlify replacement to deploy simple websites with better flexibility, speed and without vendor lock-in
 - [imbhargav5/react-lazy-progressive-image](https://github.com/imbhargav5/react-lazy-progressive-image) - React Progressive images with Lazy loading :zap:
 - [dutiyesh/chrome-extension-cli](https://github.com/dutiyesh/chrome-extension-cli) - 🚀 The CLI for your next Chrome Extension
-- [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework
 - [segmentio/evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
 - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
 - [chrispsn/mesh](https://github.com/chrispsn/mesh) - Visualise data and edit JavaScript code using a spreadsheet interface.
@@ -946,6 +945,7 @@
 - [rachmanzz/vue-inview](https://github.com/rachmanzz/vue-inview) - vue-plugin for in-view package
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt) - 👷 TypeScript's largest type utility library
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
