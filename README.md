@@ -92,7 +92,7 @@
 
 ## C++ 
 
-- [CuarzoSoftware/Louvre](https://github.com/CuarzoSoftware/Louvre) - Librería para crear compositores Wayland.
+- [CuarzoSoftware/Louvre](https://github.com/CuarzoSoftware/Louvre) - C++ library for Wayland compositors.
 - [mkxp-z/mkxp-z](https://github.com/mkxp-z/mkxp-z) - A very heavily modified fork of mkxp. RGSS on steroids with a stupid name.
 - [alexbatalov/fallout2-ce](https://github.com/alexbatalov/fallout2-ce) - Open source Fallout 2
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
