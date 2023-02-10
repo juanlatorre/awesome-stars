@@ -99,7 +99,6 @@
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 - [ndeadly/MissionControl](https://github.com/ndeadly/MissionControl) - Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. No dongles or other external hardware neccessary.
-- [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
 - [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
 - [acidanthera/VoodooPS2](https://github.com/acidanthera/VoodooPS2) - 
 - [RehabMan/OS-X-USB-Inject-All](https://github.com/RehabMan/OS-X-USB-Inject-All) - Kext to inject all USB ports for the installed Intel EHCI/XHCI chipset automatically.
@@ -495,6 +494,7 @@
 ## Kotlin 
 
 - [react-native-menu/menu](https://github.com/react-native-menu/menu) - UIMenu Component for React Native
+- [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
 - [mrousavy/react-native-blurhash](https://github.com/mrousavy/react-native-blurhash) - 🖼️ A library to show colorful blurry placeholders while your content loads.
 
 ## Lua 
@@ -692,6 +692,8 @@
 
 ## TypeScript 
 
+- [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
+- [BigSchema/stitch](https://github.com/BigSchema/stitch) - a set of tools for stitching GraphQL schemas
 - [nowisf/true](https://github.com/nowisf/true) - pendiente
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [nowisf/TestApi](https://github.com/nowisf/TestApi) - test
@@ -716,7 +718,6 @@
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx) - ⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript & ESM
 - [remorses/bundless](https://github.com/remorses/bundless) - Dev server and bundler based on esbuild
-- [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [remorses/vitro](https://github.com/remorses/vitro) - Build and showcase your react components in isolation
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
