@@ -15,7 +15,6 @@
 - [Crystal](#crystal)
 - [Cython](#cython)
 - [Dart](#dart)
-- [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [GDScript](#gdscript)
 - [Go](#go)
@@ -206,10 +205,6 @@
 - [themaaz32/linkify_text](https://github.com/themaaz32/linkify_text) - LinkifyText widget in Flutter
 - [once10301/permission](https://github.com/once10301/permission) - 
 - [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
-
-## Dockerfile 
-
-- [remorses/nodejs-lib-template](https://github.com/remorses/nodejs-lib-template) - 
 
 ## Elixir 
 
