@@ -689,7 +689,7 @@
 ## TypeScript 
 
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
-- [BigSchema/stitch](https://github.com/BigSchema/stitch) - a set of tools for stitching GraphQL schemas
+- [yaacovCR/stitch](https://github.com/yaacovCR/stitch) - a set of tools for stitching GraphQL schemas
 - [nowisf/true](https://github.com/nowisf/true) - pendiente
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [nowisf/TestApi](https://github.com/nowisf/TestApi) - test
