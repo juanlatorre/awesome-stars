@@ -129,7 +129,6 @@
 ## CSS 
 
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian
-- [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [JeremyMeissner/slidev-theme-apple-basic](https://github.com/JeremyMeissner/slidev-theme-apple-basic) - An Apple like theme for Slidev
 - [sveltejs/site-kit](https://github.com/sveltejs/site-kit) - This repo is no longer maintained or used for new sites. See https://github.com/sveltejs/sites
 - [csstools/postcss-nesting](https://github.com/csstools/postcss-nesting) - Nest style rules inside each other
@@ -646,6 +645,7 @@
 
 ## SCSS 
 
+- [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [jnsh/arc-theme](https://github.com/jnsh/arc-theme) - A flat theme with transparent elements (actively maintained fork)
 - [Katelin-Frederick/university-site](https://github.com/Katelin-Frederick/university-site) - Mock website for a mock university
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
