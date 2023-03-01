@@ -691,7 +691,7 @@
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [yaacovCR/stitch](https://github.com/yaacovCR/stitch) - a set of tools for stitching GraphQL schemas
-- [nowisf/true](https://github.com/nowisf/true) - pendiente
+- [nowisf/true-api](https://github.com/nowisf/true-api) - pendiente
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [nowisf/TestApi](https://github.com/nowisf/TestApi) - test
 - [Temzasse/stitches-native](https://github.com/Temzasse/stitches-native) - React Native implementation of Stitches (CSS-in-JS library)
