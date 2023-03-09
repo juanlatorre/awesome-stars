@@ -298,7 +298,7 @@
 - [platformatic/platformatic](https://github.com/platformatic/platformatic) - Platformatic Open Source monorepo!
 - [facebookarchive/draft-js](https://github.com/facebookarchive/draft-js) - A React framework for building text editors.
 - [jcubic/gaiman](https://github.com/jcubic/gaiman) - Gaiman: Text based game engine and programming language
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [Minigugus/zx-deno](https://github.com/Minigugus/zx-deno) - A tool for writing better scripts
 - [sw-yx/Twitter-Links-beta](https://github.com/sw-yx/Twitter-Links-beta) - A Chrome extension to show the latest tweets that link to the current page. Updated for Manifest v3
@@ -716,7 +716,7 @@
 - [remorses/vitro](https://github.com/remorses/vitro) - Build and showcase your react components in isolation
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
-- [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
+- [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [DominicTobias/react-image-crop](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React
 - [ts-plugin/ts-import-plugin](https://github.com/ts-plugin/ts-import-plugin) - babel-import-plugin TypeScript Implement
 - [Minigugus/bazx](https://github.com/Minigugus/bazx) - 🐚️ zx on 💊️ steroids
