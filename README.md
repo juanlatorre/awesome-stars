@@ -269,6 +269,7 @@
 
 ## Haxe 
 
+- [hxdefold/hxdefold](https://github.com/hxdefold/hxdefold) - Haxe/Lua externs for Defold game engine
 - [deepnight/gameBase](https://github.com/deepnight/gameBase) - Base structure for my games, using Heaps framework and Haxe language.
 - [HeapsIO/heaps](https://github.com/HeapsIO/heaps) - Heaps : Haxe Game Framework
 
