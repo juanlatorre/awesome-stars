@@ -129,7 +129,6 @@
 
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian
 - [JeremyMeissner/slidev-theme-apple-basic](https://github.com/JeremyMeissner/slidev-theme-apple-basic) - An Apple like theme for Slidev
-- [sveltejs/site-kit](https://github.com/sveltejs/site-kit) - This repo is no longer maintained or used for new sites. See https://github.com/sveltejs/sites
 - [csstools/postcss-nesting](https://github.com/csstools/postcss-nesting) - Nest style rules inside each other
 - [jlongster/blog](https://github.com/jlongster/blog) - All the sources for my (not powered by React anymore) blog
 - [cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101) - Learn how to bring animation to your web projects
@@ -673,6 +672,7 @@
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 - [open-source-labs/SvelteStorm](https://github.com/open-source-labs/SvelteStorm) - SvelteStorm is an open-source IDE with a built-in Debugging window for viewing and debugging your Svelte project in real-time
+- [sveltejs/site-kit](https://github.com/sveltejs/site-kit) - This repo is no longer maintained or used for new sites. See https://github.com/sveltejs/sites
 - [juanlatorre/kafa.studio](https://github.com/juanlatorre/kafa.studio) - Kafa Studio website & portfolio.
 
 ## Swift 
