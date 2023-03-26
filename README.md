@@ -764,7 +764,7 @@
 - [mdbetancourt/soly](https://github.com/mdbetancourt/soly) - Powerful framework for building command-line apps with typescript.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [egoist/bina](https://github.com/egoist/bina) - An installer for self-contained, single-file binaries, no additional CLI needed.
-- [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [Glosseta/glosseta](https://github.com/Glosseta/glosseta) - Glosseta is an open-source glossary meant to help people explore and learn the terminology behind web3
 - [lukeed/resolve.exports](https://github.com/lukeed/resolve.exports) - A tiny (952b), correct, general-purpose, and configurable `"exports"` and `"imports"` resolver without file-system reliance
 - [grpc/grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
