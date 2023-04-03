@@ -142,7 +142,7 @@
 
 ## Cython 
 
-- [MeViMo/youbit](https://github.com/MeViMo/youbit) - Host any type of file on YouTube
+- [mevimo/youbit](https://github.com/mevimo/youbit) - Host any type of file on YouTube
 
 ## Dart 
 
