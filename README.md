@@ -942,6 +942,7 @@
 - [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍 📖 A readable, automated, and optimized (5 kb) internationalization for JavaScript
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [GuoQichen/vue-pswipe](https://github.com/GuoQichen/vue-pswipe) - 🚀 Easy to use, no need to set size, support rotation, photoswipe based vue swipe plugin
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
 - [anuraghazra/BugVilla](https://github.com/anuraghazra/BugVilla) - Track, Manage & Kill Bugs Effectively :knife: :beetle:
@@ -967,7 +968,6 @@
 - [Kholid060/projectile](https://github.com/Kholid060/projectile) - An app for managing your JavaScript projects
 - [XboxYan/coupon](https://github.com/XboxYan/coupon) - 🎫 Generate Coupon-UI CSS code
 - [slidevjs/themes](https://github.com/slidevjs/themes) - Official themes for Slidev
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [DCzajkowski/vue-pure-lightbox](https://github.com/DCzajkowski/vue-pure-lightbox) - Very simple lightbox plugin (without any dependencies) for Vuejs 🌅
 
 ## Zig 
