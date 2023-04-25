@@ -338,7 +338,6 @@
 - [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
 - [azz/pretty-quick](https://github.com/azz/pretty-quick) - ⚡ Get Pretty Quick
 - [jlobos/rut.js](https://github.com/jlobos/rut.js) - :chile: Sencilla y pequeña librería para validar y dar formato al RUT
-- [TanStack/form](https://github.com/TanStack/form) - ⚛️ Hooks for managing form state and validation in React
 - [purifycss/purifycss](https://github.com/purifycss/purifycss) - Remove unused CSS. Also works with single-page apps.
 - [oklemenz/Dune2JS](https://github.com/oklemenz/Dune2JS) - Dune II - The Building of A Dynasty reimplementation written in HTML5 / JavaScript
 - [breejs/bree](https://github.com/breejs/bree) - Bree is a Node.js and JavaScript job task scheduler with worker threads, cron, Date, and human syntax. Built for @ladjs, @forwardemail, @spamscanner, @cabinjs.
@@ -764,6 +763,7 @@
 - [pantharshit00/prisma-docs-generator](https://github.com/pantharshit00/prisma-docs-generator) - Prisma generator for automatically generating documentation reference from the Prisma schema.
 - [keonik/prisma-erd-generator](https://github.com/keonik/prisma-erd-generator) - Generate an ER Diagram based on your Prisma schema every time you run npx prisma generate
 - [hayes/pothos](https://github.com/hayes/pothos) - Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach
+- [TanStack/form](https://github.com/TanStack/form) - 🤖 Powerful and type-safe form state management for the web. TS/JS, React Form, Solid Form, Svelte Form and Vue Form.
 - [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [jacob-ebey/remix-ecommerce](https://github.com/jacob-ebey/remix-ecommerce) - WIP
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
