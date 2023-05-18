@@ -910,7 +910,7 @@
 - [thekaganugur/formik-chakra-ui](https://github.com/thekaganugur/formik-chakra-ui) - Chakra-UI bindings for Formik
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
-- [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle 🖼
+- [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle.
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [ronami/typelang](https://github.com/ronami/typelang) - 🌳 A tiny language interpreter implemented purely in TypeScript's type-system
 - [hoangvvo/next-connect](https://github.com/hoangvvo/next-connect) - The TypeScript-ready, minimal router and middleware layer for Next.js, Micro, Vercel, or Node.js http/http2
