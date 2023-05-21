@@ -6,7 +6,6 @@
 ## Contents
 
 - [Assembly](#assembly)
-- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -55,10 +54,6 @@
 ## Assembly 
 
 - [JustRegularLuna/rpp-backup](https://github.com/JustRegularLuna/rpp-backup) - This repo is for Red++ v3, which is the latest playable version. The repo for v4 is not in a playable state at the moment, but dev will be resuming soon.
-
-## Astro 
-
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## Batchfile 
 
@@ -312,7 +307,7 @@
 - [jcubic/gaiman](https://github.com/jcubic/gaiman) - Gaiman: Text based game engine and programming language
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [Minigugus/zx-deno](https://github.com/Minigugus/zx-deno) - A tool for writing better scripts
-- [sw-yx/Twitter-Links-beta](https://github.com/sw-yx/Twitter-Links-beta) - A Chrome extension to show the latest tweets that link to the current page. Updated for Manifest v3
+- [swyxio/Twitter-Links-beta](https://github.com/swyxio/Twitter-Links-beta) - A Chrome extension to show the latest tweets that link to the current page. Updated for Manifest v3
 - [matheuss/parrotsay](https://github.com/matheuss/parrotsay) - ✨🐦 The Party Parrot on your terminal 🐦✨
 - [ryanbahniuk/sign-bunny](https://github.com/ryanbahniuk/sign-bunny) - A package to create a sign bunny character.
 - [xtyrrell/undollar](https://github.com/xtyrrell/undollar) - undollar eats the dollar sign in the command you just pasted into your terminal
@@ -955,6 +950,7 @@
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [GuoQichen/vue-pswipe](https://github.com/GuoQichen/vue-pswipe) - 🚀 Easy to use, no need to set size, support rotation, photoswipe based vue swipe plugin
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
 - [anuraghazra/BugVilla](https://github.com/anuraghazra/BugVilla) - Track, Manage & Kill Bugs Effectively :knife: :beetle:
