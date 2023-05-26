@@ -61,6 +61,7 @@
 
 ## C 
 
+- [haxenme/nme](https://github.com/haxenme/nme) - A cross-platform native backend for Haxe projects
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [HaxeFoundation/hashlink](https://github.com/HaxeFoundation/hashlink) - A virtual machine for Haxe
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
@@ -270,6 +271,7 @@
 
 ## Haxe 
 
+- [nientedidecente/heaps-examples](https://github.com/nientedidecente/heaps-examples) - cloned-rebased translated fork of the russian Beeblerox/Simplest-Heaps-Examples
 - [hxdefold/hxdefold](https://github.com/hxdefold/hxdefold) - Haxe/Lua externs for Defold game engine
 - [deepnight/gameBase](https://github.com/deepnight/gameBase) - Base structure for my games, using Heaps framework and Haxe language.
 - [HeapsIO/heaps](https://github.com/HeapsIO/heaps) - Heaps : Haxe Game Framework
