@@ -64,7 +64,7 @@
 - [haxenme/nme](https://github.com/haxenme/nme) - A cross-platform native backend for Haxe projects
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [HaxeFoundation/hashlink](https://github.com/HaxeFoundation/hashlink) - A virtual machine for Haxe
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 - [eduard-permyakov/permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine) - An OpenGL RTS game engine written in C
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
