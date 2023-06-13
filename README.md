@@ -695,6 +695,7 @@
 
 ## TypeScript 
 
+- [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React
 - [lostfictions/znv](https://github.com/lostfictions/znv) - Type-safe environment parsing and validation for Node.js with Zod schemas
 - [pingdotgg/zact](https://github.com/pingdotgg/zact) - Nothing to see here
 - [marklawlor/nativewind](https://github.com/marklawlor/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
