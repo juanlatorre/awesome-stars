@@ -136,7 +136,7 @@
 
 ## Crystal 
 
-- [grkek/haki](https://github.com/grkek/haki) - Build native apps using GTK3+ and a dialect of HTML, declarative format allows you to create advanced structures with ease.
+- [grkek/haki](https://github.com/grkek/haki) - Build native apps using GTK4 and a dialect of HTML, declarative format allows you to create advanced structures with ease.
 
 ## Cython 
 
