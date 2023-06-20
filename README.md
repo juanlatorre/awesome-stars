@@ -390,7 +390,7 @@
 - [ds300/android-capture](https://github.com/ds300/android-capture) - Capture video and screenshots from Android devices and emulators.
 - [TVke/react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) - A react-native style system based on TailwindCSS
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-- [stitchesjs/stitches](https://github.com/stitchesjs/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
+- [stitchesjs/stitches](https://github.com/stitchesjs/stitches) - [Not Actively Maintained] CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 - [phil-r/react-native-grid-component](https://github.com/phil-r/react-native-grid-component) - :black_square_button: React native grid component
 - [sauzy34/react-native-multi-selectbox](https://github.com/sauzy34/react-native-multi-selectbox) - Platform independent (Android / iOS) Selectbox | Picker | Multi-select | Multi-picker. The idea is to bring out the common user interface & user experience on both platforms.
 - [moschan/react-native-simple-radio-button](https://github.com/moschan/react-native-simple-radio-button) - Simple and handy animated radio button component for React Native
