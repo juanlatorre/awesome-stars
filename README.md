@@ -28,6 +28,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
@@ -77,7 +78,7 @@
 
 ## C# # 
 
-- [dogao21/tarea1](https://github.com/dogao21/tarea1) - 
+- [nicolasmay/tarea1](https://github.com/nicolasmay/tarea1) - 
 - [TopazTK/KH-ReFined](https://github.com/TopazTK/KH-ReFined) - Re:Fined - A project that aims to improve and fix the PC ports of Kingdom Hearts.
 - [FelipeBudinich/GameObject-Information-Component](https://github.com/FelipeBudinich/GameObject-Information-Component) - Unity component that allows users to add informative notes to GameObjects.
 - [keijiro/FFmpegOut](https://github.com/keijiro/FFmpegOut) - Video capture plugin for Unity with FFmpeg.
@@ -502,6 +503,10 @@
 - [Dimbreath/ArknightsData](https://github.com/Dimbreath/ArknightsData) - Repository containing the data for the game Arknights.
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 
+## MDX 
+
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
+
 ## Makefile 
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -715,7 +720,6 @@
 - [Shopify/restyle](https://github.com/Shopify/restyle) - A type-enforced system for building UI components in React Native with TypeScript.
 - [hueter/react-native-utility-classes-example](https://github.com/hueter/react-native-utility-classes-example) - How I added CSS utility classes to a React Native project.
 - [atlassian-labs/compiled](https://github.com/atlassian-labs/compiled) - A familiar and performant compile time CSS-in-JS library for React.
-- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [spinamp/spinamp-sdk](https://github.com/spinamp/spinamp-sdk) - Build new experiences across the growing web3 music ecosystem
 - [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager) - Project Manager Extension for Visual Studio Code
