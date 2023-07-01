@@ -28,7 +28,6 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
@@ -106,7 +105,6 @@
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [DanS2D/Solar2DTux](https://github.com/DanS2D/Solar2DTux) - The Solar2D games/apps engine for Linux. Discord: https://discord.gg/WMtCemc
 - [coronalabs/corona](https://github.com/coronalabs/corona) - Solar2D Game Engine main repository (ex Corona SDK)
-- [swiftwasm/swift](https://github.com/swiftwasm/swift) - WebAssembly support for the Swift programming language
 - [PaulMurrayCbr/DebounceInput](https://github.com/PaulMurrayCbr/DebounceInput) - Arduino library for debouncing digital inputs.
 - [jeroendoggen/Arduino-signal-filtering-library](https://github.com/jeroendoggen/Arduino-signal-filtering-library) - Arduino library for signal filtering
 - [stdcpp-audio/libstdaudio](https://github.com/stdcpp-audio/libstdaudio) - Implementation of P1386
@@ -503,10 +501,6 @@
 - [Dimbreath/ArknightsData](https://github.com/Dimbreath/ArknightsData) - Repository containing the data for the game Arknights.
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 
-## MDX 
-
-- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
-
 ## Makefile 
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -556,6 +550,7 @@
 - [1hbb/OpenIntelWireless-Factory](https://github.com/1hbb/OpenIntelWireless-Factory) - Open Intel Wireless Factory
 - [buritica/mgt](https://github.com/buritica/mgt) - 
 - [Protectator/jsx-tsx-logos](https://github.com/Protectator/jsx-tsx-logos) - Some unofficial JSX and TSX logos
+- [swiftwasm/swift](https://github.com/swiftwasm/swift) - WebAssembly support for the Swift programming language
 - [iamshaunjp/flutter-animations](https://github.com/iamshaunjp/flutter-animations) - All coursefiles for the Flutter Animations tutorial series on the Net Ninja youtube channel.
 - [MyElectrons/sfm3300-arduino](https://github.com/MyElectrons/sfm3300-arduino) - Sample code for Sensirion SFM3000 Series Air Flow Sensors - with Arduino
 - [ctala/Regiones-Provincias-y-Comunas-de-Chile.](https://github.com/ctala/Regiones-Provincias-y-Comunas-de-Chile.) - SQL Con la información de las regiones, provincias y comunas de Chile según Decreto Exento Nº 817
@@ -720,6 +715,7 @@
 - [Shopify/restyle](https://github.com/Shopify/restyle) - A type-enforced system for building UI components in React Native with TypeScript.
 - [hueter/react-native-utility-classes-example](https://github.com/hueter/react-native-utility-classes-example) - How I added CSS utility classes to a React Native project.
 - [atlassian-labs/compiled](https://github.com/atlassian-labs/compiled) - A familiar and performant compile time CSS-in-JS library for React.
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [spinamp/spinamp-sdk](https://github.com/spinamp/spinamp-sdk) - Build new experiences across the growing web3 music ecosystem
 - [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager) - Project Manager Extension for Visual Studio Code
