@@ -353,7 +353,6 @@
 - [kennethjiang/js-file-download](https://github.com/kennethjiang/js-file-download) - 
 - [FormidableLabs/react-ssr-prepass](https://github.com/FormidableLabs/react-ssr-prepass) - A custom partial React SSR renderer for prefetching and suspense
 - [zenoamaro/react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
-- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [nicolashmln/strapi-plugin-oembed](https://github.com/nicolashmln/strapi-plugin-oembed) - Embed content from third party sites (Youtube, Vimeo, Soundcloud, ...) in Strapi
 - [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart) - Strapi Plugin displays Entity Relationship Diagram of all models, fields and relations.
 - [strapi-community/awesome-strapi](https://github.com/strapi-community/awesome-strapi) - A curated list of awesome things related to Strapi
@@ -809,6 +808,7 @@
 - [mat-sz/react-var-ui](https://github.com/mat-sz/react-var-ui) - React component library for variable setting and preview.
 - [kamilkisiela/bob](https://github.com/kamilkisiela/bob) - Build tool used in libraries maintained by The Guild
 - [PabloSzx/bob-esbuild](https://github.com/PabloSzx/bob-esbuild) - Building and Running TypeScript projects efficiently with rollup + esbuild
+- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [rotemdan/lzutf8.js](https://github.com/rotemdan/lzutf8.js) - A high-performance Javascript string compression library
 - [VirtusLab-Open-Source/strapi-plugin-comments](https://github.com/VirtusLab-Open-Source/strapi-plugin-comments) - A plugin for Strapi Headless CMS that provides end to end comments feature with their moderation panel, bad words filtering, abuse reporting and more.
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
