@@ -436,7 +436,6 @@
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [sohobloo/react-native-modal-dropdown](https://github.com/sohobloo/react-native-modal-dropdown) - A react-native dropdown/picker/selector component for both Android & iOS.
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [Rich-Harris/superjson-and-devalue](https://github.com/Rich-Harris/superjson-and-devalue) - quick script to compare superjson and devalue
 - [evanw/node-source-map-support](https://github.com/evanw/node-source-map-support) - Adds source map support to node.js (for stack traces)
 - [malinajs/malinajs](https://github.com/malinajs/malinajs) - Frontend compiler, inspired by Svelte
@@ -947,6 +946,7 @@
 - [jsartisan/react-native-magnus](https://github.com/jsartisan/react-native-magnus) - A Utility-First React Native UI Framework 🚀🧩
 - [alexZajac/react-native-skeleton-content](https://github.com/alexZajac/react-native-skeleton-content) - A customizable skeleton-like loading placeholder for react native projects using expo.
 - [react-navigation/hooks](https://github.com/react-navigation/hooks) - React hooks for convenient react-navigation use
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
 - [jeffijoe/typesync](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
 - [PabloSzx/git-polling-worker-ci](https://github.com/PabloSzx/git-polling-worker-ci) - Minimal Git CI Polling solution.
