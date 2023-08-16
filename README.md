@@ -695,6 +695,7 @@
 
 ## TypeScript 
 
+- [showtime-xyz/showtime-frontend](https://github.com/showtime-xyz/showtime-frontend) - Showtime makes digital collectibles useful, accessible and social. Join Showtime:
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text and vector search engine written in TypeScript.
 - [React95/React95](https://github.com/React95/React95) - A React components library with Win95 UI
 - [aiji42/next-qs-props](https://github.com/aiji42/next-qs-props) - This library makes it possible to handle query strings in Next.js getStaticProps.
