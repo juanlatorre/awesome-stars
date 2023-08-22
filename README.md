@@ -249,6 +249,7 @@
 - [RootMyTV/RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io) - RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
 - [jasonlong/jasonlong](https://github.com/jasonlong/jasonlong) - 
 - [bmeck/proposal-from-import](https://github.com/bmeck/proposal-from-import) - AKA: make code completion work.
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [trikita/slide-html](https://github.com/trikita/slide-html) - Text presentation maker for a simplified markup language
 - [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components) - The Tails Open Source Components are a (no-config) copy'n paste free collection of hand-crafted templates and components built in TailwindCSS.
@@ -702,7 +703,7 @@
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions
 - [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge) - Merge Tailwind CSS classes without style conflicts
-- [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React
+- [aidenybai/million](https://github.com/aidenybai/million) - Make React Faster. Automatically.
 - [lostfictions/znv](https://github.com/lostfictions/znv) - Type-safe environment parsing and validation for Node.js with Zod schemas
 - [pingdotgg/zact](https://github.com/pingdotgg/zact) - Nothing to see here
 - [marklawlor/nativewind](https://github.com/marklawlor/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
@@ -904,7 +905,6 @@
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
-- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [swdotcom/swdc-vscode-musictime](https://github.com/swdotcom/swdc-vscode-musictime) - A VS Code extension to discover the most productive music to listen to as you code
 - [natemoo-re/microsite](https://github.com/natemoo-re/microsite) - Do more with less JavaScript. Microsite is a smarter, performance-obsessed static site generator powered by Preact and Snowpack.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
