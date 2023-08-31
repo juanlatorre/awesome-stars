@@ -731,7 +731,7 @@
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [tricinel/highlight-words](https://github.com/tricinel/highlight-words) - Split a piece text into multiple chunks based on a search query, allowing you to highlight the matches afterwards.
-- [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS
+- [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS and Fastify.
 - [Mokshit06/solid-table](https://github.com/Mokshit06/solid-table) - Lightweight and extensible data tables for SolidJS. Made for SolidHack (available on npm as @tanstack/solid-table)
 - [aminya/solid-simple-table](https://github.com/aminya/solid-simple-table) - Blazing fast Table component with solid-js
 - [FormidableLabs/react-native-zephyr](https://github.com/FormidableLabs/react-native-zephyr) - TailwindCSS-inspired styling library for React Native.
