@@ -105,7 +105,6 @@
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [DanS2D/Solar2DTux](https://github.com/DanS2D/Solar2DTux) - The Solar2D games/apps engine for Linux. Discord: https://discord.gg/WMtCemc
 - [coronalabs/corona](https://github.com/coronalabs/corona) - Solar2D Game Engine main repository (ex Corona SDK)
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [PaulMurrayCbr/DebounceInput](https://github.com/PaulMurrayCbr/DebounceInput) - Arduino library for debouncing digital inputs.
 - [jeroendoggen/Arduino-signal-filtering-library](https://github.com/jeroendoggen/Arduino-signal-filtering-library) - Arduino library for signal filtering
 - [stdcpp-audio/libstdaudio](https://github.com/stdcpp-audio/libstdaudio) - Implementation of P1386
@@ -289,6 +288,7 @@
 - [GregFrench/react-native-wheel-picker](https://github.com/GregFrench/react-native-wheel-picker) - 
 - [Rapsssito/react-native-background-actions](https://github.com/Rapsssito/react-native-background-actions) - React Native background service library for running background tasks forever in Android & iOS.
 - [davidohayon669/react-native-youtube](https://github.com/davidohayon669/react-native-youtube) - A &lt;YouTube/&gt; component for React Native.
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [iampawan/flutter_media_notification](https://github.com/iampawan/flutter_media_notification) - 
 - [hemanthrajv/flutter_compass](https://github.com/hemanthrajv/flutter_compass) - 
 - [lamsfoundation/lams](https://github.com/lamsfoundation/lams) - The Learning Activity Management System (LAMS) -
@@ -296,6 +296,7 @@
 
 ## JavaScript 
 
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [socketsupply/tapzero](https://github.com/socketsupply/tapzero) - Zero dependency test framework
 - [zachleat/glyphhanger](https://github.com/zachleat/glyphhanger) - Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.
 - [socketsupply/components](https://github.com/socketsupply/components) - Example Components (Built with Tonic)
@@ -357,7 +358,7 @@
 - [nicolashmln/strapi-plugin-oembed](https://github.com/nicolashmln/strapi-plugin-oembed) - Embed content from third party sites (Youtube, Vimeo, Soundcloud, ...) in Strapi
 - [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart) - Strapi Plugin displays Entity Relationship Diagram of all models, fields and relations.
 - [strapi-community/awesome-strapi](https://github.com/strapi-community/awesome-strapi) - A curated list of awesome things related to Strapi
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [oblador/react-native-collapsible](https://github.com/oblador/react-native-collapsible) - Animated collapsible component for React Native, good for accordions, toggles etc
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
 - [hypeserver/react-date-range](https://github.com/hypeserver/react-date-range) - A React component for choosing dates and date ranges.
