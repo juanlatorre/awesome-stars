@@ -777,7 +777,7 @@
 - [keonik/prisma-erd-generator](https://github.com/keonik/prisma-erd-generator) - Generate an ER Diagram based on your Prisma schema every time you run npx prisma generate
 - [hayes/pothos](https://github.com/hayes/pothos) - Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach
 - [TanStack/form](https://github.com/TanStack/form) - 🤖 Powerful and type-safe form state management for the web. TS/JS, React Form, Solid Form, Svelte Form and Vue Form.
-- [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 - [jacob-ebey/remix-ecommerce](https://github.com/jacob-ebey/remix-ecommerce) - WIP
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edges
