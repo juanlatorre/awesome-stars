@@ -492,7 +492,6 @@
 
 - [react-native-menu/menu](https://github.com/react-native-menu/menu) - UIMenu Component for React Native
 - [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
-- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [mrousavy/react-native-blurhash](https://github.com/mrousavy/react-native-blurhash) - 🖼️ A library to show colorful blurry placeholders while your content loads.
 
 ## Lua 
@@ -690,6 +689,7 @@
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [webponize/webponize](https://github.com/webponize/webponize) - macOS application that converts images to WebP.
 - [kean/Nuke](https://github.com/kean/Nuke) - Image loading system
+- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
 - [OpenIntelWireless/HeliPort](https://github.com/OpenIntelWireless/HeliPort) - Intel Wi-Fi Client for itlwm
 
