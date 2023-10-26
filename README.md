@@ -780,7 +780,7 @@
 - [hayes/pothos](https://github.com/hayes/pothos) - Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach
 - [TanStack/form](https://github.com/TanStack/form) - 🤖 Powerful and type-safe form state management for the web. TS/JS, React Form, Solid Form, Svelte Form and Vue Form.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
-- [jacob-ebey/remix-ecommerce](https://github.com/jacob-ebey/remix-ecommerce) - WIP
+- [jacob-ebey/remix-ecommerce](https://github.com/jacob-ebey/remix-ecommerce) - ABANDONED
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [honojs/hono](https://github.com/honojs/hono) - Lightweight, Ultrafast, Web Standards
 - [blitz-js/superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
@@ -864,7 +864,7 @@
 - [nandorojo/react-navigation-heavy-screen](https://github.com/nandorojo/react-navigation-heavy-screen) - ⚡️Optimize heavy screens to prevent lags during React Navigation transitions.
 - [egoist/doko](https://github.com/egoist/doko) - A docker-based development dependency manager.
 - [stripe/stripe-react-native](https://github.com/stripe/stripe-react-native) - React Native library for Stripe.
-- [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
+- [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Utility library for GraphQL to build, stitch and mock GraphQL schema using SDL
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [PabloSzx/learner-model-gql](https://github.com/PabloSzx/learner-model-gql) - 
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
@@ -879,7 +879,7 @@
 - [DylanVann/react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, performant React Native image component.
 - [the-guild-org/the-guild-docs](https://github.com/the-guild-org/the-guild-docs) - Low level and completely custom documentation websites using Next.js
 - [microsoft/folio](https://github.com/microsoft/folio) - A customizable test framework to build your own test frameworks
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [rcaferati/react-native-really-awesome-button](https://github.com/rcaferati/react-native-really-awesome-button) - React Native button component. Awesome Button is a 3D at 60fps, progress enabled, social ready, extendable, production ready component that renders an awesome animated set of UI buttons. 📱
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [Purii/react-use-scrollspy](https://github.com/Purii/react-use-scrollspy) - Flexible React Hook to automatically update navigation based on scroll position
