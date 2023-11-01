@@ -529,6 +529,7 @@
 
 ## Others 
 
+- [schickling/opentelemetry](https://github.com/schickling/opentelemetry) - 
 - [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support) - Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.
 - [nowisf/trabajoFormativoFrontEnd77](https://github.com/nowisf/trabajoFormativoFrontEnd77) - Ejercicio Formativo para practicar elementos de front
 - [cutecore/Nintendo-Switch-eShop-API](https://github.com/cutecore/Nintendo-Switch-eShop-API) - 任天堂 Switch eShop API
@@ -693,6 +694,7 @@
 
 ## TypeScript 
 
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
 - [ardatan/feTS](https://github.com/ardatan/feTS) - TypeScript HTTP Framework focusing on e2e type-safety, easy setup, performance & great developer experience
 - [dynamic-framework/dynamic-ui](https://github.com/dynamic-framework/dynamic-ui) - 
 - [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples
