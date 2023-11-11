@@ -77,7 +77,6 @@
 ## C# # 
 
 - [nicolasmay/tarea1](https://github.com/nicolasmay/tarea1) - 
-- [KH-ReFined/KH-ReFined](https://github.com/KH-ReFined/KH-ReFined) - Re:Fined - A project that aims to improve and fix the PC ports of Kingdom Hearts.
 - [FelipeBudinich/GameObject-Information-Component](https://github.com/FelipeBudinich/GameObject-Information-Component) - Unity component that allows users to add informative notes to GameObjects.
 - [keijiro/FFmpegOut](https://github.com/keijiro/FFmpegOut) - Video capture plugin for Unity with FFmpeg.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
