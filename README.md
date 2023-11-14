@@ -88,7 +88,7 @@
 ## C++ 
 
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
-- [CuarzoSoftware/Louvre](https://github.com/CuarzoSoftware/Louvre) - C++ library for Wayland compositors.
+- [CuarzoSoftware/Louvre](https://github.com/CuarzoSoftware/Louvre) - C++ library for building Wayland compositors.
 - [mkxp-z/mkxp-z](https://github.com/mkxp-z/mkxp-z) - A very heavily modified fork of mkxp. RGSS on steroids with a stupid name.
 - [alexbatalov/fallout2-ce](https://github.com/alexbatalov/fallout2-ce) - Fallout 2 for modern operating systems
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
