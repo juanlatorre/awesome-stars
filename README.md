@@ -356,7 +356,6 @@
 - [nicolashmln/strapi-plugin-oembed](https://github.com/nicolashmln/strapi-plugin-oembed) - Embed content from third party sites (Youtube, Vimeo, Soundcloud, ...) in Strapi
 - [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart) - Strapi Plugin displays Entity Relationship Diagram of all models, fields and relations.
 - [strapi-community/awesome-strapi](https://github.com/strapi-community/awesome-strapi) - A curated list of awesome things related to Strapi
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [oblador/react-native-collapsible](https://github.com/oblador/react-native-collapsible) - Animated collapsible component for React Native, good for accordions, toggles etc
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
 - [hypeserver/react-date-range](https://github.com/hypeserver/react-date-range) - A React component for choosing dates and date ranges.
@@ -826,6 +825,7 @@
 - [rotemdan/lzutf8.js](https://github.com/rotemdan/lzutf8.js) - A high-performance Javascript string compression library
 - [VirtusLab-Open-Source/strapi-plugin-comments](https://github.com/VirtusLab-Open-Source/strapi-plugin-comments) - A plugin for Strapi Headless CMS that provides end to end comments feature with their moderation panel, bad words filtering, abuse reporting and more.
 - [gqty-dev/gqty](https://github.com/gqty-dev/gqty) - The No-GraphQL Client for TypeScript
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [CofferHub/react-native-section-alphabet](https://github.com/CofferHub/react-native-section-alphabet) - A simple React Native component that takes an array of data and renders a section with alphabetically sorted data
 - [zoontek/react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash) - 🚀 Show a splash screen during app startup. Hide it when you are ready.
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
