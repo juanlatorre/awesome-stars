@@ -187,7 +187,7 @@
 - [themaaz32/audio_playere_tet](https://github.com/themaaz32/audio_playere_tet) - Audio player with basic functionalities built using Flutter
 - [coolbeatz71/task_manager_flutter](https://github.com/coolbeatz71/task_manager_flutter) - A fancy task manager application for learning Flutter, Bloc pattern and Firebase
 - [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library that helps implement the BLoC design pattern
-- [hmkrivoj/month_picker_dialog](https://github.com/hmkrivoj/month_picker_dialog) - Internationalized dialog for picking a single month from an infinite list of years.
+- [Macacoazul01/month_picker_dialog](https://github.com/Macacoazul01/month_picker_dialog) - Internationalized dialog for picking a single month from an infinite list of years.
 - [iampawan/VelocityXApp](https://github.com/iampawan/VelocityXApp) - A flutter documentation app for VelocityX
 - [google/flutter.plugins](https://github.com/google/flutter.plugins) - 
 - [Baseflow/flutter-permission-handler](https://github.com/Baseflow/flutter-permission-handler) - Permission plugin for Flutter. This plugin provides a cross-platform (iOS, Android) API to request and check permissions.
