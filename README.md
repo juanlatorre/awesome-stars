@@ -862,7 +862,7 @@
 - [nandorojo/react-navigation-heavy-screen](https://github.com/nandorojo/react-navigation-heavy-screen) - ⚡️Optimize heavy screens to prevent lags during React Navigation transitions.
 - [egoist/doko](https://github.com/egoist/doko) - A docker-based development dependency manager.
 - [stripe/stripe-react-native](https://github.com/stripe/stripe-react-native) - React Native library for Stripe.
-- [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Utility library for GraphQL to build, stitch and mock GraphQL schema using SDL
+- [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Utility library for GraphQL to build, stitch and mock GraphQL schemas in the SDL-first approach
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [PabloSzx/learner-model-gql](https://github.com/PabloSzx/learner-model-gql) - 
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
