@@ -705,7 +705,7 @@
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions
 - [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge) - Merge Tailwind CSS classes without style conflicts
-- [aidenybai/million](https://github.com/aidenybai/million) - Make React Faster. Automatically.
+- [aidenybai/million](https://github.com/aidenybai/million) - Make React faster, automatically ⚡ 70% performance optimization ▶️ npx million@latest
 - [lostfictions/znv](https://github.com/lostfictions/znv) - Type-safe environment parsing and validation for Node.js with Zod schemas
 - [pingdotgg/zact](https://github.com/pingdotgg/zact) - Nothing to see here
 - [marklawlor/nativewind](https://github.com/marklawlor/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
@@ -834,7 +834,7 @@
 - [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 - [fast-average-color/fast-average-color](https://github.com/fast-average-color/fast-average-color) - 🍏🍊🍅 Fast Average Color
 - [PuruVJ/macos-preact](https://github.com/PuruVJ/macos-preact) - 
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performan
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [kraaden/autocomplete](https://github.com/kraaden/autocomplete) - Blazing fast and lightweight autocomplete widget without dependencies. Only 1KB gzipped. Demo:
 - [Norserium/react-indiana-drag-scroll](https://github.com/Norserium/react-indiana-drag-scroll) - React component which implements scrolling via holding the mouse button or touch
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
