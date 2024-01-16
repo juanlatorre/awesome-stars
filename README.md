@@ -333,7 +333,7 @@
 - [joshwcomeau/new-component](https://github.com/joshwcomeau/new-component) - ⚛ ⚡ CLI utility for quickly creating new React components. ⚡ ⚛
 - [lukeed/kleur](https://github.com/lukeed/kleur) - The fastest Node.js library for formatting terminal text with ANSI colors~!
 - [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
-- [azz/pretty-quick](https://github.com/azz/pretty-quick) - ⚡ Get Pretty Quick
+- [prettier/pretty-quick](https://github.com/prettier/pretty-quick) - ⚡ Get Pretty Quick
 - [jlobos/rut.js](https://github.com/jlobos/rut.js) - :chile: Sencilla y pequeña librería para validar y dar formato al RUT
 - [purifycss/purifycss](https://github.com/purifycss/purifycss) - Remove unused CSS. Also works with single-page apps.
 - [oklemenz/Dune2JS](https://github.com/oklemenz/Dune2JS) - Dune II - The Building of A Dynasty reimplementation written in HTML5 / JavaScript
@@ -503,7 +503,7 @@
 
 ## Markdown 
 
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Mustache 
 
