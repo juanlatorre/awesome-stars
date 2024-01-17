@@ -333,7 +333,6 @@
 - [joshwcomeau/new-component](https://github.com/joshwcomeau/new-component) - ⚛ ⚡ CLI utility for quickly creating new React components. ⚡ ⚛
 - [lukeed/kleur](https://github.com/lukeed/kleur) - The fastest Node.js library for formatting terminal text with ANSI colors~!
 - [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
-- [prettier/pretty-quick](https://github.com/prettier/pretty-quick) - ⚡ Get Pretty Quick
 - [jlobos/rut.js](https://github.com/jlobos/rut.js) - :chile: Sencilla y pequeña librería para validar y dar formato al RUT
 - [purifycss/purifycss](https://github.com/purifycss/purifycss) - Remove unused CSS. Also works with single-page apps.
 - [oklemenz/Dune2JS](https://github.com/oklemenz/Dune2JS) - Dune II - The Building of A Dynasty reimplementation written in HTML5 / JavaScript
@@ -773,6 +772,7 @@
 - [valentinpalkovic/prisma-json-schema-generator](https://github.com/valentinpalkovic/prisma-json-schema-generator) - A generator for Prisma 2 to generate a valid JSON Schema (v7)
 - [pantharshit00/prisma-docs-generator](https://github.com/pantharshit00/prisma-docs-generator) - Prisma generator for automatically generating documentation reference from the Prisma schema.
 - [keonik/prisma-erd-generator](https://github.com/keonik/prisma-erd-generator) - Generate an ER Diagram based on your Prisma schema every time you run npx prisma generate
+- [prettier/pretty-quick](https://github.com/prettier/pretty-quick) - ⚡ Get Pretty Quick
 - [hayes/pothos](https://github.com/hayes/pothos) - Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach
 - [TanStack/form](https://github.com/TanStack/form) - 🤖 Powerful and type-safe form state management for the web. TS/JS, React Form, Solid Form, Svelte Form and Vue Form.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
@@ -847,7 +847,7 @@
 - [StarkShang/vite-plugin-chrome-extension](https://github.com/StarkShang/vite-plugin-chrome-extension) - A vite plugin to bundle chrome extensions for Manifest V3.
 - [Lusito/webextension-polyfill-ts](https://github.com/Lusito/webextension-polyfill-ts) - This is a TypeScript ready "wrapper" for the WebExtension browser API Polyfill by Mozilla
 - [sveltejs/prettier-plugin-svelte](https://github.com/sveltejs/prettier-plugin-svelte) - Format your svelte components using prettier.
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can truly self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can "truly" self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
 - [egoist/prisma-repl](https://github.com/egoist/prisma-repl) - REPL for Prisma databases.
 - [privatenumber/tasuku](https://github.com/privatenumber/tasuku) - ✅ タスク — The minimal task visualizer for Node.js
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
