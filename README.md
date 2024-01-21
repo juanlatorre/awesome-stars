@@ -549,7 +549,6 @@
 - [beerjs/valdivia](https://github.com/beerjs/valdivia) - BeerJS: Valdivia, Chile
 - [londonappbrewery/Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) - Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
 - [iamshaunjp/svelte-tutorial](https://github.com/iamshaunjp/svelte-tutorial) - All the course files for the Svelete (beginners) playlist on The Net Ninja YouTube channel.
-- [feltcoop/why-svelte](https://github.com/feltcoop/why-svelte) - Why Svelte is our choice for a large web project in 2020
 - [Dylan-Israel/ultimate-coding-resources](https://github.com/Dylan-Israel/ultimate-coding-resources) - A collection of the best resources for programming, web development, computer science and more.
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
