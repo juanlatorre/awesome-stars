@@ -856,7 +856,7 @@
 - [StarkShang/vite-plugin-chrome-extension](https://github.com/StarkShang/vite-plugin-chrome-extension) - A vite plugin to bundle chrome extensions for Manifest V3.
 - [Lusito/webextension-polyfill-ts](https://github.com/Lusito/webextension-polyfill-ts) - This is a TypeScript ready "wrapper" for the WebExtension browser API Polyfill by Mozilla
 - [sveltejs/prettier-plugin-svelte](https://github.com/sveltejs/prettier-plugin-svelte) - Format your svelte components using prettier.
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can "truly" self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
 - [egoist/prisma-repl](https://github.com/egoist/prisma-repl) - REPL for Prisma databases.
 - [privatenumber/tasuku](https://github.com/privatenumber/tasuku) - ✅ タスク — The minimal task visualizer for Node.js
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
