@@ -707,12 +707,12 @@
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
 - [peaBerberian/wasp-hls](https://github.com/peaBerberian/wasp-hls) - WebAssembly-based (Rust) & in-worker HLS Media Player for the web
 - [showtime-xyz/showtime-frontend](https://github.com/showtime-xyz/showtime-frontend) - Showtime makes digital collectibles useful, accessible and social.
-- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service!
+- [askorama/orama](https://github.com/askorama/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service!
 - [React95/React95](https://github.com/React95/React95) - A React components library with Win95 UI
 - [aiji42/next-qs-props](https://github.com/aiji42/next-qs-props) - This library makes it possible to handle query strings in Next.js getStaticProps.
 - [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue and Solid.
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
-- [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions
+- [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions (support 7.4-8.3)
 - [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge) - Merge Tailwind CSS classes without style conflicts
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 - [lostfictions/znv](https://github.com/lostfictions/znv) - Type-safe environment parsing and validation for Node.js with Zod schemas
