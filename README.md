@@ -663,6 +663,7 @@
 
 ## Shell 
 
+- [apollographql/xcode-graphql](https://github.com/apollographql/xcode-graphql) - 🛠 Xcode add-ons that add syntax highlighting for GraphQL query document files
 - [foobaz/pngloss](https://github.com/foobaz/pngloss) - Lossy compression of PNG images
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [mrts/docker-postgresql-multiple-databases](https://github.com/mrts/docker-postgresql-multiple-databases) - Using multiple databases with the official PostgreSQL Docker image
@@ -689,6 +690,7 @@
 
 ## Swift 
 
+- [realm/SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 - [apollographql/apollo-ios](https://github.com/apollographql/apollo-ios) - 📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.
 - [maticzav/swift-graphql](https://github.com/maticzav/swift-graphql) - A GraphQL client that lets you forget about GraphQL.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
