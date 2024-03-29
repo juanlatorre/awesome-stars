@@ -704,6 +704,8 @@
 
 ## TypeScript 
 
+- [hsndmr/reactotron-react-query](https://github.com/hsndmr/reactotron-react-query) - Is there a plugin for Reactotron that allows for similar functionality to the React Query Devtools?
+- [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [0no-co/gql.tada](https://github.com/0no-co/gql.tada) - 🪄 Magical GraphQL query engine for TypeScript
 - [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🚀 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
