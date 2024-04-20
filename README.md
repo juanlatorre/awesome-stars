@@ -591,6 +591,7 @@
 
 ## Python 
 
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 157 stars and 176 forks 🌟
 - [fribbels/Fribbels-Epic-7-Optimizer](https://github.com/fribbels/Fribbels-Epic-7-Optimizer) - A gear optimizer for the mobile game Epic 7
 - [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data
 - [kbumsik/VirtScreen](https://github.com/kbumsik/VirtScreen) - Make your iPad/tablet/computer into a secondary monitor on Linux.
