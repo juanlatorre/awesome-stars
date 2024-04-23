@@ -591,6 +591,7 @@
 
 ## Python 
 
+- [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 - [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 157 stars and 176 forks 🌟
 - [fribbels/Fribbels-Epic-7-Optimizer](https://github.com/fribbels/Fribbels-Epic-7-Optimizer) - A gear optimizer for the mobile game Epic 7
 - [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data
@@ -691,6 +692,8 @@
 
 ## Swift 
 
+- [mrvsahan/VariableFontExample](https://github.com/mrvsahan/VariableFontExample) - 
+- [dufflink/vfont](https://github.com/dufflink/vfont) - iOS Variable Font Integration
 - [realm/SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 - [apollographql/apollo-ios](https://github.com/apollographql/apollo-ios) - 📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.
 - [maticzav/swift-graphql](https://github.com/maticzav/swift-graphql) - A GraphQL client that lets you forget about GraphQL.
@@ -699,7 +702,6 @@
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [webponize/webponize](https://github.com/webponize/webponize) - macOS application that converts images to WebP.
 - [kean/Nuke](https://github.com/kean/Nuke) - Image loading system
-- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
 - [OpenIntelWireless/HeliPort](https://github.com/OpenIntelWireless/HeliPort) - Intel Wi-Fi Client for itlwm
 
@@ -895,6 +897,7 @@
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [DylanVann/react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, performant React Native image component.
 - [the-guild-org/the-guild-docs](https://github.com/the-guild-org/the-guild-docs) - Low level and completely custom documentation websites using Next.js
+- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [microsoft/folio](https://github.com/microsoft/folio) - A customizable test framework to build your own test frameworks
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [rcaferati/react-native-really-awesome-button](https://github.com/rcaferati/react-native-really-awesome-button) - React Native button component. Awesome Button is a 3D at 60fps, progress enabled, social ready, extendable, production ready component that renders an awesome animated set of UI buttons. 📱
