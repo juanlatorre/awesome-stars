@@ -458,7 +458,7 @@
 - [dutiyesh/chrome-extension-cli](https://github.com/dutiyesh/chrome-extension-cli) - 🚀 The CLI for your next Chrome Extension
 - [segmentio/evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
 - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
-- [chrispsn/mesh](https://github.com/chrispsn/mesh) - Visualise data and edit JavaScript code using a spreadsheet interface.
+- [chrispsn/mesh](https://github.com/chrispsn/mesh) - Old version. Visualise data and edit JavaScript code using a spreadsheet interface.
 - [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [horprogs/vue-ssr-hmr](https://github.com/horprogs/vue-ssr-hmr) - Boilerplate of VueJS application, which includes server-side rendering, hot reloading, VueX state management, CSS modules, code splitting, ESLint and customizable configs.
