@@ -114,7 +114,6 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
-- [0aax/dino](https://github.com/0aax/dino) - dino game
 - [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
 - [daviddrell/visualsc](https://github.com/daviddrell/visualsc) - Visual State Chart Editor for SCXML
 - [adgellida/ubunsys](https://github.com/adgellida/ubunsys) - STATUS: DEVELOPMENT PAUSED ⏸️ - Configure dark and deep aspects in your Ubuntu
