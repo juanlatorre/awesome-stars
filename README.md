@@ -361,6 +361,7 @@
 - [strapi-community/awesome-strapi](https://github.com/strapi-community/awesome-strapi) - A curated list of awesome things related to Strapi
 - [oblador/react-native-collapsible](https://github.com/oblador/react-native-collapsible) - Animated collapsible component for React Native, good for accordions, toggles etc
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
+- [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [hypeserver/react-date-range](https://github.com/hypeserver/react-date-range) - A React component for choosing dates and date ranges.
 - [romannurik/AndroidAssetStudio](https://github.com/romannurik/AndroidAssetStudio) - A set of web-based tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.
 - [EdouardCourty/user-instagram](https://github.com/EdouardCourty/user-instagram) - This module allows you to get the data of any user or post on Instagram.
@@ -848,7 +849,6 @@
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [CofferHub/react-native-section-alphabet](https://github.com/CofferHub/react-native-section-alphabet) - A simple React Native component that takes an array of data and renders a section with alphabetically sorted data
 - [zoontek/react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash) - 🚀 Show a splash screen during app startup. Hide it when you are ready.
-- [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [thebergamo/react-native-fbsdk-next](https://github.com/thebergamo/react-native-fbsdk-next) - 
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
