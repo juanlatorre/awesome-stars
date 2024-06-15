@@ -220,7 +220,7 @@
 - [andydunstall/piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
-- [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny Discord app
+- [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny native Discord app
 - [nguyenvanduocit/ai-commit](https://github.com/nguyenvanduocit/ai-commit) - CLI tool that use ChatGPT to generate commit message for your git repo.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go
@@ -592,7 +592,7 @@
 ## Python 
 
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 165 stars and 177 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 165 stars and 178 forks 🌟
 - [fribbels/Fribbels-Epic-7-Optimizer](https://github.com/fribbels/Fribbels-Epic-7-Optimizer) - A gear optimizer for the mobile game Epic 7
 - [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data
 - [kbumsik/VirtScreen](https://github.com/kbumsik/VirtScreen) - Make your iPad/tablet/computer into a secondary monitor on Linux.
